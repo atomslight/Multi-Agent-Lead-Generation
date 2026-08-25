@@ -1,0 +1,216 @@
+- generic [ref=e1]:
+  - text: mq1200
+  - dialog [ref=e2]:
+    - generic [ref=e4]:
+      - heading "Your privacy, your choice" [level=2] [ref=e6]
+      - generic [ref=e8]:
+        - paragraph [ref=e9]: We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+        - paragraph [ref=e10]: By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+        - paragraph [ref=e11]:
+          - text: See our
+          - link "privacy policy" [ref=e12] [cursor=pointer]:
+            - /url: https://www.nature.com/info/privacy
+          - text: for more information on the use of your personal data.
+        - paragraph [ref=e13]:
+          - button "Manage preferences" [ref=e14] [cursor=pointer]
+          - text: for further information and to change your choices.
+      - generic [ref=e15]:
+        - button "Accept all cookies" [ref=e16] [cursor=pointer]
+        - button "Reject optional cookies" [ref=e17] [cursor=pointer]
+  - generic [ref=e18]:
+    - link "Skip to main content" [ref=e19] [cursor=pointer]:
+      - /url: "#content"
+    - complementary [ref=e20]
+    - banner [ref=e22]:
+      - generic [ref=e25]:
+        - link [ref=e27] [cursor=pointer]:
+          - /url: /
+          - img "Nature" [ref=e29]
+        - list [ref=e30]:
+          - listitem [ref=e31]:
+            - link "View all journals" [ref=e32] [cursor=pointer]:
+              - /url: https://www.nature.com/siteindex
+          - listitem [ref=e34]:
+            - link "Saved research" [ref=e35] [cursor=pointer]:
+              - /url: /saved-research
+          - listitem [ref=e39]:
+            - button "Search" [ref=e40] [cursor=pointer]
+          - listitem [ref=e44]:
+            - link "Log in" [ref=e45] [cursor=pointer]:
+              - /url: https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/articles/s41591-024-00600-x
+      - generic [ref=e49]:
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - button "Explore content" [ref=e52] [cursor=pointer]
+          - listitem [ref=e56]:
+            - button "About the journal" [ref=e57] [cursor=pointer]
+          - listitem [ref=e61]:
+            - button "Publish with us" [ref=e62] [cursor=pointer]
+          - listitem [ref=e66]:
+            - link "Subscribe" [ref=e67] [cursor=pointer]:
+              - /url: /nature/subscribe
+        - list [ref=e69]:
+          - listitem [ref=e70]:
+            - link "Sign up for alerts" [ref=e71] [cursor=pointer]:
+              - /url: https://journal-alerts.springernature.com/subscribe?journal_id=41586
+          - listitem [ref=e75]:
+            - link "RSS feed" [ref=e76] [cursor=pointer]:
+              - /url: https://www.nature.com/nature.rss
+  - main [ref=e78]:
+    - heading "Page not found" [level=1] [ref=e81]
+    - paragraph [ref=e85]: Sorry, the page you requested is unavailable. The link you requested might be broken, or no longer exist.
+  - contentinfo [ref=e86]:
+    - generic [ref=e90]:
+      - paragraph [ref=e91]: Nature (Nature)
+      - paragraph [ref=e92]: ISSN 1476-4687 (online)
+      - paragraph [ref=e93]: ISSN 0028-0836 (print)
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - heading "nature.com footer links" [level=2] [ref=e96]
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - heading "About Nature Portfolio" [level=3] [ref=e100]
+            - list [ref=e101]:
+              - listitem [ref=e102]:
+                - link "About us" [ref=e103] [cursor=pointer]:
+                  - /url: https://www.nature.com/npg_/company_info/index.html
+              - listitem [ref=e104]:
+                - link "Press releases" [ref=e105] [cursor=pointer]:
+                  - /url: https://www.nature.com/npg_/press_room/press_releases.html
+              - listitem [ref=e106]:
+                - link "Press office" [ref=e107] [cursor=pointer]:
+                  - /url: https://press.nature.com/
+              - listitem [ref=e108]:
+                - link "Contact us" [ref=e109] [cursor=pointer]:
+                  - /url: https://support.nature.com/support/home
+          - generic [ref=e110]:
+            - heading "Discover content" [level=3] [ref=e111]
+            - list [ref=e112]:
+              - listitem [ref=e113]:
+                - link "Journals A-Z" [ref=e114] [cursor=pointer]:
+                  - /url: https://www.nature.com/siteindex
+              - listitem [ref=e115]:
+                - link "Articles by subject" [ref=e116] [cursor=pointer]:
+                  - /url: https://www.nature.com/subjects
+              - listitem [ref=e117]:
+                - link "protocols.io" [ref=e118] [cursor=pointer]:
+                  - /url: https://www.protocols.io/
+              - listitem [ref=e119]:
+                - link "Nature Index" [ref=e120] [cursor=pointer]:
+                  - /url: https://www.natureindex.com/
+          - generic [ref=e121]:
+            - heading "Publishing policies" [level=3] [ref=e122]
+            - list [ref=e123]:
+              - listitem [ref=e124]:
+                - link "Nature portfolio policies" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.nature.com/authors/editorial_policies
+              - listitem [ref=e126]:
+                - link "Open access" [ref=e127] [cursor=pointer]:
+                  - /url: https://www.nature.com/nature-research/open-access
+          - generic [ref=e128]:
+            - heading "Author & Researcher services" [level=3] [ref=e129]
+            - list [ref=e130]:
+              - listitem [ref=e131]:
+                - link "Reprints & permissions" [ref=e132] [cursor=pointer]:
+                  - /url: https://www.nature.com/reprints
+              - listitem [ref=e133]:
+                - link "Research data" [ref=e134] [cursor=pointer]:
+                  - /url: https://www.springernature.com/gp/authors/research-data
+              - listitem [ref=e135]:
+                - link "Language editing" [ref=e136] [cursor=pointer]:
+                  - /url: https://authorservices.springernature.com/language-editing/
+              - listitem [ref=e137]:
+                - link "Scientific editing" [ref=e138] [cursor=pointer]:
+                  - /url: https://authorservices.springernature.com/scientific-editing/
+              - listitem [ref=e139]:
+                - link "Nature Masterclasses" [ref=e140] [cursor=pointer]:
+                  - /url: https://masterclasses.nature.com/
+              - listitem [ref=e141]:
+                - link "Research Solutions" [ref=e142] [cursor=pointer]:
+                  - /url: https://solutions.springernature.com/
+          - generic [ref=e143]:
+            - heading "Libraries & institutions" [level=3] [ref=e144]
+            - list [ref=e145]:
+              - listitem [ref=e146]:
+                - link "Librarian service & tools" [ref=e147] [cursor=pointer]:
+                  - /url: https://www.springernature.com/gp/librarians/tools-services
+              - listitem [ref=e148]:
+                - link "Librarian portal" [ref=e149] [cursor=pointer]:
+                  - /url: https://www.springernature.com/gp/librarians/manage-your-account/librarianportal
+              - listitem [ref=e150]:
+                - link "Open research" [ref=e151] [cursor=pointer]:
+                  - /url: https://www.nature.com/openresearch/about-open-access/information-for-institutions
+              - listitem [ref=e152]:
+                - link "Recommend to library" [ref=e153] [cursor=pointer]:
+                  - /url: https://www.springernature.com/gp/librarians/recommend-to-your-library
+          - generic [ref=e154]:
+            - heading "Advertising & partnerships" [level=3] [ref=e155]
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - link "Advertising" [ref=e158] [cursor=pointer]:
+                  - /url: https://partnerships.nature.com/product/digital-advertising/
+              - listitem [ref=e159]:
+                - link "Partnerships & Services" [ref=e160] [cursor=pointer]:
+                  - /url: https://partnerships.nature.com/
+              - listitem [ref=e161]:
+                - link "Media kits" [ref=e162] [cursor=pointer]:
+                  - /url: https://partnerships.nature.com/media-kits/
+              - listitem [ref=e163]:
+                - link "Branded content" [ref=e164] [cursor=pointer]:
+                  - /url: https://partnerships.nature.com/product/branded-content-native-advertising/
+          - generic [ref=e165]:
+            - heading "Professional development" [level=3] [ref=e166]
+            - list [ref=e167]:
+              - listitem [ref=e168]:
+                - link "Nature Awards" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.nature.com/immersive/natureawards/index.html
+              - listitem [ref=e170]:
+                - link "Nature Careers" [ref=e171] [cursor=pointer]:
+                  - /url: https://www.nature.com/naturecareers/
+              - listitem [ref=e172]:
+                - link "Nature Conferences" [ref=e173] [cursor=pointer]:
+                  - /url: https://conferences.nature.com
+          - generic [ref=e175]:
+            - heading "Regional websites" [level=3] [ref=e176]
+            - list [ref=e177]:
+              - listitem [ref=e178]:
+                - link "Nature Africa" [ref=e179] [cursor=pointer]:
+                  - /url: https://www.nature.com/natafrica
+              - listitem [ref=e180]:
+                - link "Nature China" [ref=e181] [cursor=pointer]:
+                  - /url: http://www.naturechina.com
+              - listitem [ref=e182]:
+                - link "Nature India" [ref=e183] [cursor=pointer]:
+                  - /url: https://www.nature.com/nindia
+              - listitem [ref=e184]:
+                - link "Nature Japan" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.natureasia.com/ja-jp
+              - listitem [ref=e186]:
+                - link "Nature Middle East" [ref=e187] [cursor=pointer]:
+                  - /url: https://www.nature.com/nmiddleeast
+        - list [ref=e189]:
+          - listitem [ref=e190]:
+            - link "Privacy Policy" [ref=e191] [cursor=pointer]:
+              - /url: https://www.nature.com/info/privacy
+          - listitem [ref=e192]:
+            - link "Use of cookies" [ref=e193] [cursor=pointer]:
+              - /url: https://www.nature.com/info/cookies
+          - listitem [ref=e194]:
+            - button "Your privacy choices/Manage cookies" [ref=e195] [cursor=pointer]
+          - listitem [ref=e196]:
+            - link "Legal notice" [ref=e197] [cursor=pointer]:
+              - /url: https://www.nature.com/info/legal-notice
+          - listitem [ref=e198]:
+            - link "Accessibility statement" [ref=e199] [cursor=pointer]:
+              - /url: https://www.nature.com/info/accessibility-statement
+          - listitem [ref=e200]:
+            - link "Terms & Conditions" [ref=e201] [cursor=pointer]:
+              - /url: https://www.nature.com/info/terms-and-conditions
+          - listitem [ref=e202]:
+            - link "Your US state privacy rights" [ref=e203] [cursor=pointer]:
+              - /url: https://www.springernature.com/ccpa
+      - generic [ref=e204]:
+        - link [ref=e205] [cursor=pointer]:
+          - /url: https://www.springernature.com/
+          - img "Springer Nature" [ref=e206]
+        - paragraph [ref=e207]: © 2026 Springer Nature Limited

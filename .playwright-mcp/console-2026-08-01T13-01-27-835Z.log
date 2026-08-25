@@ -1,0 +1,12 @@
+[     982ms] [LOG] JQMIGRATE: Migrate is installed, version 3.0.0 @ https://dl.acm.org/products/acm/releasedAssets/js/main.bundle-49385cca545c13a2742a.js:436
+[    2140ms] [ERROR] Setup premium dialogs TypeError: Cannot read properties of null (reading 'querySelector')
+    at AcmArticleView.loadContentModifiers (https://dl.acm.org/products/acm/releasedAssets/js/axel-publication-content-be21c049ebf4ebf46284.js:1:27595)
+    at AcmArticleView.initiate (https://dl.acm.org/products/acm/releasedAssets/js/vendors~axel-publication-content-d628c8315d37b07746ae.js:1:96388)
+    at initArticle (https://dl.acm.org/products/acm/releasedAssets/js/vendors~axel-publication-content-d628c8315d37b07746ae.js:11:161860)
+    at initialise (https://dl.acm.org/products/acm/releasedAssets/js/vendors~axel-publication-content-d628c8315d37b07746ae.js:11:162335)
+    at 1263 (https://dl.acm.org/products/acm/releasedAssets/js/axel-publication-content-be21c049ebf4ebf46284.js:1:34945)
+    at __webpack_require__ (https://dl.acm.org/products/acm/releasedAssets/js/main.bundle-49385cca545c13a2742a.js:1:428) @ https://dl.acm.org/products/acm/releasedAssets/js/axel-publication-content-be21c049ebf4ebf46284.js:0
+[    2446ms] [LOG] dom not ready, setting event @ https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js:0
+[    3688ms] [LOG] dom ready, triggering load @ https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js:0
+[    3690ms] [LOG] Evidon -- evidon-notice-link not found on page, cant display the consent link. @ https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js:0
+[    5026ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://s7d9.scene7.com/is/image/gehealthcare/Surgeon_man_and_medical_error_or_frustrated_at_hospital_with_tablet_or_bad_news_for_patient._Mistake__doctor_an-2FerNsMg1R:ar4by3?fmt=webp&wid=372&hei=279:0

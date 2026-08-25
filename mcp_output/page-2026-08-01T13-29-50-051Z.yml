@@ -1,0 +1,299 @@
+- generic [ref=f7e1]:
+  - link "Skip to main content" [ref=f7e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f7e4]:
+    - banner [ref=f7e5]:
+      - generic [ref=f7e6]:
+        - list [ref=f7e10]:
+          - listitem [ref=f7e11]:
+            - link "FREIDA™" [ref=f7e12] [cursor=pointer]:
+              - /url: https://freida.ama-assn.org/
+          - listitem [ref=f7e13]:
+            - link "CME from AMA Ed Hub™" [ref=f7e14] [cursor=pointer]:
+              - /url: https://edhub.ama-assn.org/pages/find-cme-keep-current
+          - listitem [ref=f7e15]:
+            - link "Career Advancement" [ref=f7e16] [cursor=pointer]:
+              - /url: https://www.ama-assn.org/amaone/ama-career-advancement-collective
+          - listitem [ref=f7e17]:
+            - link "AMA Physician Profiles" [ref=f7e18] [cursor=pointer]:
+              - /url: https://credentialingsolutions.ama-assn.org
+          - listitem [ref=f7e19]:
+            - link "Well-Being" [ref=f7e20] [cursor=pointer]:
+              - /url: https://www.ama-assn.org/amaone/organizational-well-being
+          - listitem [ref=f7e21]:
+            - link "Store" [ref=f7e22] [cursor=pointer]:
+              - /url: https://www.ama-assn.org/practice-management/ama-store
+          - listitem [ref=f7e23]:
+            - link "CPT®" [ref=f7e24] [cursor=pointer]:
+              - /url: /practice-management/cpt
+          - listitem [ref=f7e25]:
+            - link "Audio" [ref=f7e26] [cursor=pointer]:
+              - /url: https://www.ama-assn.org/about/publications-newsletters/ama-podcasts
+          - listitem [ref=f7e27]:
+            - link "Newsletters" [ref=f7e28] [cursor=pointer]:
+              - /url: https://www.ama-assn.org/membership/benefits-discounts/ama-morning-rounds-your-daily-dose-health-care-news
+          - listitem [ref=f7e29]:
+            - link "Video" [ref=f7e30] [cursor=pointer]:
+              - /url: https://www.ama-assn.org/amaone/videos
+        - generic [ref=f7e32]:
+          - link [ref=f7e36] [cursor=pointer]:
+            - /url: https://www.ama-assn.org/
+            - img "American Medical Association" [ref=f7e37]
+          - generic [ref=f7e38]:
+            - link "Join" [ref=f7e39] [cursor=pointer]:
+              - /url: https://member.ama-assn.org/join-renew
+            - link "Renew" [ref=f7e40] [cursor=pointer]:
+              - /url: https://member.ama-assn.org/join-renew
+          - generic [ref=f7e43]:
+            - textbox "Search AMA content" [ref=f7e44]:
+              - /placeholder: Search American Medical Association
+            - button "Search" [ref=f7e47] [cursor=pointer]
+          - link "Member Benefits" [ref=f7e49] [cursor=pointer]:
+            - /url: /amaone/ama-member-benefits
+          - generic [ref=f7e50]:
+            - button "Toggle sign in menu" [expanded] [ref=f7e51] [cursor=pointer]
+            - generic "Toggle sign in menu" [ref=f7e53]:
+              - generic [ref=f7e54]: Sign In To Enjoy Your AMA Benefits
+              - list [ref=f7e55]:
+                - listitem [ref=f7e56]:
+                  - link "Sign In" [ref=f7e57] [cursor=pointer]:
+                    - /url: /saml/login?destination=/practicing-medicine/digital-health
+                - listitem [ref=f7e58]:
+                  - link "Become a Member" [ref=f7e59] [cursor=pointer]:
+                    - /url: https://member.ama-assn.org/join-renew
+                - listitem [ref=f7e60]:
+                  - link "Create Free Account" [ref=f7e61] [cursor=pointer]:
+                    - /url: https://fsso.ama-assn.org/sign-up?destination=/practicing-medicine/digital-health&successUrl=https://www.ama-assn.org/practicing-medicine/digital-health
+        - generic [ref=f7e64]:
+          - link "My Subscriptions" [ref=f7e65] [cursor=pointer]:
+            - /url: /saml/login?destination=https://account.ama-assn.org/newsletters
+          - link "My Topics" [ref=f7e66] [cursor=pointer]:
+            - /url: /saml/login?destination=/my-topics
+          - link "My Bookmarks" [ref=f7e67] [cursor=pointer]:
+            - /url: /saml/login?destination=/my-bookmarks
+    - main [ref=f7e68]:
+      - article [ref=f7e72]:
+        - generic [ref=f7e75]:
+          - generic [ref=f7e76]:
+            - heading [level=1] [ref=f7e77]
+            - heading "404 Page Not Found" [level=1] [ref=f7e78]
+            - generic [ref=f7e79]:
+              - paragraph [ref=f7e80]:
+                - text: Looks like something went wrong, and we couldn’t find that page. Please visit our
+                - link "home page" [ref=f7e81] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/
+                - text: for other AMA news and information, and learn more about our featured products and initiatives.
+              - paragraph [ref=f7e82]: For immediate assistance, please call 800-621-8335.
+          - article [ref=f7e83]:
+            - generic [ref=f7e84]:
+              - generic [ref=f7e86]:
+                - img "Stethoscope in front of a stately building" [ref=f7e88]
+                - paragraph [ref=f7e90]: We are focused on addressing the issues important to you, so you can focus on what matters most—patients.
+                - link "Why We Fight" [ref=f7e91] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/fighting-for-physicians
+              - generic [ref=f7e93]:
+                - img "Hand holding a smartphone" [ref=f7e95]
+                - paragraph [ref=f7e97]: Join the nation’s largest physician organization and enjoy benefits to enhance your practice and personal and professional life.
+                - link "Member Benefits" [ref=f7e98] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/member-benefits
+              - generic [ref=f7e100]:
+                - img "Silhouette of a person holding a megaphone" [ref=f7e102]
+                - paragraph [ref=f7e104]: Stay up to date with the latest information on hot topics in health care and medicine with the AMA.
+                - link "Press Center" [ref=f7e105] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/press-center
+              - generic [ref=f7e107]:
+                - img "CPT logo on purple background" [ref=f7e109]
+                - paragraph [ref=f7e111]: Find resources from the AMA to help accurately bill outpatient and office procedures and services with Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes.
+                - link "CPT®" [ref=f7e112] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/practice-management/cpt
+              - generic [ref=f7e114]:
+                - img "2022 Annual Meeting of AMA House of Delegates session" [ref=f7e116]
+                - paragraph [ref=f7e118]: Discover events advocating for the interests of American physicians, improving public health, and supporting sound medical policy at the federal and local levels.
+                - link "Events" [ref=f7e119] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/events
+              - generic [ref=f7e121]:
+                - img "Graphic of people icons around a table" [ref=f7e123]
+                - paragraph [ref=f7e125]: Participate in groups that offer members the opportunity to shape AMA policy, increase knowledge and skills, and interact with peers with similar interests or backgrounds.
+                - link "Member Groups (Sections)" [ref=f7e126] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/member-groups-sections
+    - generic [ref=f7e129]:
+      - heading "Discover More:" [level=2] [ref=f7e130]
+      - list [ref=f7e131]:
+        - listitem [ref=f7e132]:
+          - link "Substance Use Disorders" [ref=f7e133] [cursor=pointer]:
+            - /url: https://www.ama-assn.org/topics/substance-use-disorders
+        - listitem [ref=f7e134]:
+          - link "Health Care AI" [ref=f7e135] [cursor=pointer]:
+            - /url: https://www.ama-assn.org/topics/health-care-ai
+        - listitem [ref=f7e136]:
+          - link "Fellowship Programs" [ref=f7e137] [cursor=pointer]:
+            - /url: https://www.ama-assn.org/topics/fellowship-programs
+    - contentinfo [ref=f7e138]:
+      - generic [ref=f7e139]:
+        - generic [ref=f7e141]:
+          - generic [ref=f7e143]:
+            - heading "Stay updated with AMA" [level=2] [ref=f7e144]
+            - paragraph
+            - paragraph [ref=f7e145]: Get the latest medical news, policy updates and professional resources delivered directly to your inbox.
+            - paragraph
+          - generic [ref=f7e148]:
+            - generic [ref=f7e150]:
+              - checkbox "I verify I'm in the U.S. and agree to receive communication from the AMA or third parties on behalf of AMA.*" [ref=f7e151]
+              - generic [ref=f7e152]: I verify I'm in the U.S. and agree to receive communication from the AMA or third parties on behalf of AMA.*
+            - generic [ref=f7e154]:
+              - text: Email*
+              - generic [ref=f7e155]:
+                - textbox "Enter your email address" [ref=f7e159]
+                - button "Subscribe" [ref=f7e161] [cursor=pointer]
+        - generic [ref=f7e163]:
+          - generic [ref=f7e164]:
+            - link [ref=f7e165] [cursor=pointer]:
+              - /url: /
+              - img "American Medical Association" [ref=f7e166]
+            - paragraph [ref=f7e167]: The AMA promotes the art and science of medicine and the betterment of public health.
+          - generic [ref=f7e168]:
+            - heading "Our Work" [level=2] [ref=f7e169]
+            - list [ref=f7e171]:
+              - listitem [ref=f7e172]:
+                - link "Prior authorization" [ref=f7e173] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/why-we-fight-fixing-prior-authorization
+              - listitem [ref=f7e174]:
+                - link "Medicare payment reform" [ref=f7e175] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/why-we-fight-reforming-medicare-payment
+              - listitem [ref=f7e176]:
+                - link "Physician-led care" [ref=f7e177] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/why-we-fight-fighting-scope-creep
+              - listitem [ref=f7e178]:
+                - link "Organizational well-being" [ref=f7e179] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/organizational-well-being
+              - listitem [ref=f7e180]:
+                - link "Digital health & AI" [ref=f7e181] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/ama-center-digital-health-and-ai
+              - listitem [ref=f7e182]:
+                - link "State advocacy" [ref=f7e183] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/health-care-advocacy/state-advocacy
+              - listitem [ref=f7e184]:
+                - link "Explore all topics" [ref=f7e185] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/about/topic-catalog
+          - generic [ref=f7e186]:
+            - heading "Career Resources" [level=2] [ref=f7e187]
+            - list [ref=f7e189]:
+              - listitem [ref=f7e190]:
+                - link "Career Advancement Collective" [ref=f7e191] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/ama-career-advancement-collective
+              - listitem [ref=f7e192]:
+                - link "CME from AMA Ed Hub™" [ref=f7e193] [cursor=pointer]:
+                  - /url: https://edhub.ama-assn.org/pages/find-cme-keep-current
+              - listitem [ref=f7e194]:
+                - link "FREIDA™" [ref=f7e195] [cursor=pointer]:
+                  - /url: https://freida.ama-assn.org/
+              - listitem [ref=f7e196]:
+                - link "AMA UME Curricular Enrichment Program" [ref=f7e197] [cursor=pointer]:
+                  - /url: https://edhub.ama-assn.org/ama-ume-program
+              - listitem [ref=f7e198]:
+                - link "AMA GME Competency Education Program" [ref=f7e199] [cursor=pointer]:
+                  - /url: https://signin.curriculum.ama-assn.org/gcep
+              - listitem [ref=f7e200]:
+                - link "AMA Physician Education Program" [ref=f7e201] [cursor=pointer]:
+                  - /url: https://edhub.ama-assn.org/physician-education-program
+              - listitem [ref=f7e202]:
+                - link "AMA Physician Profile" [ref=f7e203] [cursor=pointer]:
+                  - /url: https://commerce.ama-assn.org/amaprofiles/
+          - generic [ref=f7e204]:
+            - heading "About" [level=2] [ref=f7e205]
+            - list [ref=f7e207]:
+              - listitem [ref=f7e208]:
+                - link "Membership" [ref=f7e209] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/member-benefits/member-eligibility-dues/ama-membership-dues
+              - listitem [ref=f7e210]:
+                - link "Press Center" [ref=f7e211] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/press-center
+              - listitem [ref=f7e212]:
+                - link "Policy" [ref=f7e213] [cursor=pointer]:
+                  - /url: https://policysearch.ama-assn.org/policyfinder
+              - listitem [ref=f7e214]:
+                - link "Code of Medical Ethics" [ref=f7e215] [cursor=pointer]:
+                  - /url: https://code-medical-ethics.ama-assn.org/
+              - listitem [ref=f7e216]:
+                - link "Newsletters" [ref=f7e217] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/newsletters
+              - listitem [ref=f7e218]:
+                - link "Video" [ref=f7e219] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/amaone/videos
+              - listitem [ref=f7e220]:
+                - link "Podcasts" [ref=f7e221] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/about/publications-newsletters/ama-podcasts
+              - listitem [ref=f7e222]:
+                - link "Events" [ref=f7e223] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/events
+              - listitem [ref=f7e224]:
+                - link "Careers" [ref=f7e225] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/about-ama/ama-career-opportunities
+              - listitem [ref=f7e226]:
+                - link "Contact Us" [ref=f7e227] [cursor=pointer]:
+                  - /url: https://www.ama-assn.org/form/contact-us
+          - generic [ref=f7e228]:
+            - heading "Affiliates & Subsidiaries" [level=2] [ref=f7e229]
+            - list [ref=f7e231]:
+              - listitem [ref=f7e232]:
+                - link "AMPAC" [ref=f7e233] [cursor=pointer]:
+                  - /url: http://www.ampaconline.org/
+              - listitem [ref=f7e234]:
+                - link "AMA Foundation" [ref=f7e235] [cursor=pointer]:
+                  - /url: https://amafoundation.org/
+              - listitem [ref=f7e236]:
+                - link "AMA Alliance" [ref=f7e237] [cursor=pointer]:
+                  - /url: https://www.amaalliance.org/
+              - listitem [ref=f7e238]:
+                - link "AMA Insurance" [ref=f7e239] [cursor=pointer]:
+                  - /url: https://amainsure.com/
+              - listitem [ref=f7e240]:
+                - link "Health2047" [ref=f7e241] [cursor=pointer]:
+                  - /url: https://health2047.com/
+        - generic [ref=f7e243]:
+          - generic [ref=f7e245]:
+            - list [ref=f7e246]:
+              - listitem [ref=f7e247]:
+                - link "Code of Conduct" [ref=f7e248] [cursor=pointer]:
+                  - /url: /about/code-conduct
+              - listitem [ref=f7e249]:
+                - link "Terms of Use" [ref=f7e250] [cursor=pointer]:
+                  - /url: /about/terms-use
+              - listitem [ref=f7e251]:
+                - link "Privacy Policy" [ref=f7e252] [cursor=pointer]:
+                  - /url: /about/privacy-policy
+              - listitem [ref=f7e253]:
+                - link "Website Accessibility" [ref=f7e254] [cursor=pointer]:
+                  - /url: /about/accessibility-statement
+              - listitem [ref=f7e255]:
+                - link "Share Your Screen" [ref=f7e256] [cursor=pointer]:
+                  - /url: https://cdn.rcrsv.io/five9/americanmedicalassociation/index.html
+              - listitem [ref=f7e257]:
+                - link "Cookie Settings" [ref=f7e258] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - generic [ref=f7e259]: Copyright 1995 - 2026 American Medical Association. All rights reserved.
+          - generic [ref=f7e260]:
+            - heading "Follow Us" [level=2] [ref=f7e261]
+            - generic [ref=f7e262]:
+              - link "LinkedIn" [ref=f7e263] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/american-medical-association
+              - link "X" [ref=f7e265] [cursor=pointer]:
+                - /url: https://x.com/AmerMedicalAssn
+              - link "Facebook" [ref=f7e267] [cursor=pointer]:
+                - /url: https://www.facebook.com/AmericanMedicalAssociation
+              - link "Instagram" [ref=f7e269] [cursor=pointer]:
+                - /url: https://www.instagram.com/amermedicalassn/
+              - link "YouTube" [ref=f7e271] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/AmerMedicalAssn
+              - link "Bluesky" [ref=f7e273] [cursor=pointer]:
+                - /url: https://bsky.app/profile/ama-assn.org
+  - region "Cookie banner" [active] [ref=f7e276]:
+    - dialog "Privacy" [ref=f7e277]:
+      - generic [ref=f7e278]:
+        - generic [ref=f7e280]:
+          - text: We use cookies and other technologies to collect information about your use of our websites and online apps. Some of these cannot be disabled. Unless you reject non-necessary cookies, we may also share your information with third-party advertising and analytics partners who may serve you with targeted ads. . To learn more about our practices, visit our
+          - link "More information about your privacy, opens in a new tab" [ref=f7e281] [cursor=pointer]:
+            - /url: https://www.ama-assn.org/about/privacy-policy
+            - text: Privacy Policy.
+        - button "Cookie Settings" [ref=f7e284] [cursor=pointer]
+        - button "Close" [ref=f7e286] [cursor=pointer]

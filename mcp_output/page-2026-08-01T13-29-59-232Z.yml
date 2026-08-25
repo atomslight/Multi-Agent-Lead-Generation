@@ -1,0 +1,227 @@
+- generic [ref=f18e2]:
+  - region "Official website of the United States government" [ref=f18e4]:
+    - generic [ref=f18e7]:
+      - paragraph [ref=f18e11]: An official website of the United States government
+      - button "Here’s how you know" [ref=f18e12] [cursor=pointer]
+  - banner [ref=f18e13]:
+    - generic [ref=f18e14]:
+      - link [ref=f18e17] [cursor=pointer]:
+        - /url: /
+        - img "ONC - Office of the National Coordinator for Health Information Technology Logo" [ref=f18e18]
+      - navigation "Primary navigation" [ref=f18e19]:
+        - link "Skip Navigation" [ref=f18e20] [cursor=pointer]:
+          - /url: "#ubermenu-main-36-skipnav"
+        - text: 
+        - navigation [ref=f18e21]:
+          - list [ref=f18e22]:
+            - listitem [ref=f18e23]:
+              - link "Topics " [ref=f18e24] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f18e25]: Topics
+                - generic [ref=f18e26]: 
+                - text: 
+            - listitem [ref=f18e27]:
+              - link "Resources & Tools " [ref=f18e28] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f18e29]: Resources & Tools
+                - generic [ref=f18e30]: 
+                - text: 
+            - listitem [ref=f18e31]:
+              - link "News & Events " [ref=f18e32] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f18e33]: News & Events
+                - generic [ref=f18e34]: 
+                - text: 
+            - listitem [ref=f18e35]:
+              - link "About " [ref=f18e36] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f18e37]: About
+                - generic [ref=f18e38]: 
+                - text: 
+            - listitem [ref=f18e39]:
+              - link "Blog" [ref=f18e40] [cursor=pointer]:
+                - /url: /blog/
+        - region "Search component" [ref=f18e42]:
+          - search [ref=f18e43]:
+            - generic [ref=f18e44]: Search
+            - button [ref=f18e45] [cursor=pointer]:
+              - img "Search" [ref=f18e46]
+  - generic [ref=f18e49]:
+    - heading [level=1] [ref=f18e51]:
+      - text: Page
+      - emphasis [ref=f18e52]: Not Found
+    - generic [ref=f18e53]:
+      - paragraph [ref=f18e54]: "The page you’re looking for is not available on our current site. To look for it, you can:"
+      - list [ref=f18e55]:
+        - listitem [ref=f18e56]: Double-check the web address for any mistakes.
+        - listitem [ref=f18e57]: Use our search.
+        - listitem [ref=f18e58]: Visit our archives.
+        - listitem [ref=f18e59]:
+          - link "Return to our front page" [ref=f18e60] [cursor=pointer]:
+            - /url: /
+          - text: .
+  - generic [ref=f18e63]:
+    - generic [ref=f18e66]:
+      - img "Logo" [ref=f18e67]
+      - heading "More Ways to Connect with Us" [level=2] [ref=f18e68]
+      - img "Connect Image" [ref=f18e70]
+    - generic [ref=f18e71]:
+      - generic [ref=f18e73]:
+        - heading "Get in Touch" [level=4] [ref=f18e74]
+        - list [ref=f18e75]:
+          - listitem [ref=f18e76]:
+            - link "Health IT Feedback & Inquiry Form " [ref=f18e77] [cursor=pointer]:
+              - /url: /feedback
+              - text: Health IT Feedback & Inquiry Form
+              - generic [ref=f18e78]: 
+          - listitem [ref=f18e79]:
+            - link "ONC Speaker Form " [ref=f18e80] [cursor=pointer]:
+              - /url: /speaker-request-form/
+              - text: ONC Speaker Form
+              - generic [ref=f18e81]: 
+          - listitem [ref=f18e82]:
+            - link "Contact Us " [ref=f18e83] [cursor=pointer]:
+              - /url: /about/contact
+              - text: Contact Us
+              - generic [ref=f18e84]: 
+      - generic [ref=f18e86]:
+        - heading "Get Involved" [level=4] [ref=f18e87]
+        - list [ref=f18e88]:
+          - listitem [ref=f18e89]:
+            - link "Careers " [ref=f18e90] [cursor=pointer]:
+              - /url: /about/careers/
+              - text: Careers
+              - generic [ref=f18e91]: 
+          - listitem [ref=f18e92]:
+            - link "Events " [ref=f18e93] [cursor=pointer]:
+              - /url: /events/
+              - text: Events
+              - generic [ref=f18e94]: 
+          - listitem [ref=f18e95]:
+            - link "Funding Opportunities " [ref=f18e96] [cursor=pointer]:
+              - /url: /about/funding-announcements/
+              - text: Funding Opportunities
+              - generic [ref=f18e97]: 
+  - contentinfo [ref=f18e98]:
+    - button "Was this page helpful?" [ref=f18e105] [cursor=pointer]: Submit Feedback
+    - contentinfo [ref=f18e106]:
+      - generic [ref=f18e109]:
+        - generic [ref=f18e110]:
+          - heading "Subscribe for Email Updates" [level=3] [ref=f18e112]
+          - generic [ref=f18e116]:
+            - generic [ref=f18e119]:
+              - generic [ref=f18e120]:
+                - text: Email
+                - generic [ref=f18e121]: (Required)
+              - textbox "Email (Required)" [ref=f18e123]:
+                - /placeholder: Enter Email Address
+            - button "Submit" [ref=f18e125] [cursor=pointer]
+        - navigation "Footer navigation" [ref=f18e126]:
+          - generic [ref=f18e127]:
+            - generic [ref=f18e129]:
+              - heading "EXPLORE" [level=4] [ref=f18e130]
+              - list [ref=f18e131]:
+                - listitem [ref=f18e132]:
+                  - link "Certification of Health IT" [ref=f18e133] [cursor=pointer]:
+                    - /url: https://healthit.gov/certification-health-it/
+                - listitem [ref=f18e134]:
+                  - link "Information Blocking" [ref=f18e135] [cursor=pointer]:
+                    - /url: https://healthit.gov/information-blocking/
+                - listitem [ref=f18e136]:
+                  - link "Interoperability" [ref=f18e137] [cursor=pointer]:
+                    - /url: https://healthit.gov/interoperability/
+                - listitem [ref=f18e138]:
+                  - link "Health Information Technology Advisory Committee (HITAC)" [ref=f18e139] [cursor=pointer]:
+                    - /url: https://healthit.gov/hitac/
+                - listitem [ref=f18e140]:
+                  - link "Patient Access to Health Records" [ref=f18e141] [cursor=pointer]:
+                    - /url: https://healthit.gov/patient-access-to-health-records/
+                - listitem [ref=f18e142]:
+                  - link "TEFCA" [ref=f18e143] [cursor=pointer]:
+                    - /url: https://healthit.gov/policy/tefca/
+                - listitem [ref=f18e144]:
+                  - link "Policy" [ref=f18e145] [cursor=pointer]:
+                    - /url: https://healthit.gov/policy/
+                - listitem [ref=f18e146]:
+                  - link "Resources" [ref=f18e147] [cursor=pointer]:
+                    - /url: https://healthit.gov/resources/
+            - generic [ref=f18e149]:
+              - heading "DATA" [level=4] [ref=f18e150]
+              - list [ref=f18e151]:
+                - listitem [ref=f18e152]:
+                  - link "HealthData.gov" [ref=f18e153] [cursor=pointer]:
+                    - /url: https://healthdata.gov/
+                - listitem [ref=f18e154]:
+                  - link "Health IT Research & Analysis" [ref=f18e155] [cursor=pointer]:
+                    - /url: /data/
+            - generic [ref=f18e157]:
+              - heading "NEWS & EVENTS" [level=4] [ref=f18e158]
+              - list [ref=f18e159]:
+                - listitem [ref=f18e160]:
+                  - link "Media Center" [ref=f18e161] [cursor=pointer]:
+                    - /url: https://healthit.gov/media-center
+                - listitem [ref=f18e162]:
+                  - link "ONC Blog" [ref=f18e163] [cursor=pointer]:
+                    - /url: /blog/
+                - listitem [ref=f18e164]:
+                  - link "News" [ref=f18e165] [cursor=pointer]:
+                    - /url: /news
+                - listitem [ref=f18e166]:
+                  - link "Events" [ref=f18e167] [cursor=pointer]:
+                    - /url: /events
+            - generic [ref=f18e169]:
+              - heading "ABOUT" [level=4] [ref=f18e170]
+              - list [ref=f18e171]:
+                - listitem [ref=f18e172]:
+                  - link "About ONC" [ref=f18e173] [cursor=pointer]:
+                    - /url: /about/
+                - listitem [ref=f18e174]:
+                  - link "Careers" [ref=f18e175] [cursor=pointer]:
+                    - /url: /about/careers/
+                - listitem [ref=f18e176]:
+                  - link "Contact" [ref=f18e177] [cursor=pointer]:
+                    - /url: /contact-us/
+                - listitem [ref=f18e178]:
+                  - link "Funding Opportunities" [ref=f18e179] [cursor=pointer]:
+                    - /url: /about/funding-announcements/
+      - generic [ref=f18e181]:
+        - generic [ref=f18e182]:
+          - generic [ref=f18e184]:
+            - link [ref=f18e185] [cursor=pointer]:
+              - /url: https://healthit.gov/
+              - img "ONC Logo" [ref=f18e186]
+            - link [ref=f18e187] [cursor=pointer]:
+              - /url: https://hhs.gov/
+              - img "HHS" [ref=f18e188]
+          - generic [ref=f18e190]:
+            - link " Linkedin" [ref=f18e192] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/office-of-the-national-coordinator-for-health-it
+              - generic [ref=f18e193]: 
+              - generic [ref=f18e194]: Linkedin
+            - link " X" [ref=f18e196] [cursor=pointer]:
+              - /url: https://x.com/ONC_HealthIT
+              - generic [ref=f18e197]: 
+              - generic [ref=f18e198]: X
+            - link " YouTube" [ref=f18e200] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/HHSONC/
+              - generic [ref=f18e201]: 
+              - generic [ref=f18e202]: YouTube
+        - list [ref=f18e204]:
+          - listitem [ref=f18e205]:
+            - link "Privacy Policy" [ref=f18e206] [cursor=pointer]:
+              - /url: https://www.hhs.gov/web/policies-and-standards/hhs-web-policies/privacy/index.html
+          - listitem [ref=f18e207]:
+            - link "Website Disclaimers" [ref=f18e208] [cursor=pointer]:
+              - /url: /website-disclaimers/
+          - listitem [ref=f18e209]:
+            - link "Viewers & Players" [ref=f18e210] [cursor=pointer]:
+              - /url: http://www.hhs.gov/plugins.html
+          - listitem [ref=f18e211]:
+            - link "GobiernoUSA.gov" [ref=f18e212] [cursor=pointer]:
+              - /url: https://gobierno.usa.gov/
+          - listitem [ref=f18e213]:
+            - link "HHS Vulnerability Disclosure Policy" [ref=f18e214] [cursor=pointer]:
+              - /url: https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+          - listitem [ref=f18e215]:
+            - link "Archived Content" [ref=f18e216] [cursor=pointer]:
+              - /url: https://healthit.gov/archive/

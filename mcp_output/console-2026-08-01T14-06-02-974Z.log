@@ -1,0 +1,21 @@
+[     920ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at HTMLDocument.<anonymous> (https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1177:17)
+[     921ms] [LOG] Setting up pagination handlers for page:  @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1195
+[     921ms] [LOG] Total unique pagination links found: 0 @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1218
+[     921ms] [LOG] No pagination links found on this page @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1261
+[     921ms] [LOG] All links on page: 87 @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1266
+[    1002ms] [LOG] Current URL: https://www.combinehealth.ai/blog/agentic-ai-in-healthcare @ https://www.combinehealth.ai/_next/static/chunks/5491-5feea5cddbfae57a.js:0
+[    1002ms] [LOG] Extracted endpoint path: agentic-ai-in-healthcare @ https://www.combinehealth.ai/_next/static/chunks/5491-5feea5cddbfae57a.js:0
+[    1002ms] [LOG] Contact type set to: ContactUS @ https://www.combinehealth.ai/_next/static/chunks/5491-5feea5cddbfae57a.js:0
+[    1186ms] [ERROR] Access to fetch at 'https://api.instantly.ai/api/v1/website-visitors/test' from origin 'https://www.combinehealth.ai' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:0
+[    1186ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.instantly.ai/api/v1/website-visitors/test:0
+[    1187ms] [ERROR] > error: TypeError: Failed to fetch
+    at t (https://r2.leadsy.ai/tag.js:1:339)
+    at https://r2.leadsy.ai/tag.js:1:835
+    at https://r2.leadsy.ai/tag.js:1:993 @ https://www.combinehealth.ai/_next/static/chunks/2117-1a35776e88d9f180.js:0
+[    2097ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=663a118c9bd55707e4eb8d64:0
+[    6102ms] [WARNING] The resource https://www.combinehealth.ai/images/newHeroBackground.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:0
+[   10407ms] [WARNING] The resource https://www.combinehealth.ai/images/newHeroBackground.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:0
+[   15146ms] [WARNING] The resource https://www.combinehealth.ai/images/newHeroBackground.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:0
+[   45169ms] [WARNING] The resource https://www.combinehealth.ai/images/newHeroBackground.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:0
+[   70655ms] [WARNING] The resource https://www.combinehealth.ai/images/newHeroBackground.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:0

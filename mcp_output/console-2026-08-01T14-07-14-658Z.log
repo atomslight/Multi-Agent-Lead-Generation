@@ -1,0 +1,5 @@
+[     428ms] [LOG] Additional data health check failed! Property search_engine is missing @ https://www.deloitte.com/etc.clientlibs/insights/modern/clientlibs/clientlib-site/templates/clientlib-site-article.lc-4dc69380a2ec54440cadb3ce1a822f0b-lc.min.js:3
+[     428ms] [LOG] Additional data health check failed! Property search_key is missing @ https://www.deloitte.com/etc.clientlibs/insights/modern/clientlibs/clientlib-site/templates/clientlib-site-article.lc-4dc69380a2ec54440cadb3ce1a822f0b-lc.min.js:3
+[     428ms] [LOG] The analytic isn't enabled. Please check that _satellite function exists. @ https://www.deloitte.com/etc.clientlibs/insights/modern/clientlibs/clientlib-site/templates/clientlib-site-article.lc-4dc69380a2ec54440cadb3ce1a822f0b-lc.min.js:3
+[     549ms] [LOG] GTM Container Check @ :0
+[    2323ms] [WARNING] Cannot access iframe contents due to cross-origin policy. @ https://www.deloitte.com/us/en/insights/industry/health-care/agentic-ai-health-care-operating-model-change.html:7984

@@ -1,0 +1,602 @@
+- generic [active] [ref=f11e1]:
+  - region "We value your privacy" [ref=f11e2]:
+    - generic [ref=f11e5]:
+      - generic [ref=f11e8]:
+        - text: We use cookies to improve your experience, personalize what you see, and understand how our site is used through analytics. By clicking “Accept All”, you consent to the use of ALL cookies to deliver content tailored to your interests and location. For more information, please review our
+        - link "Cookies Policy" [ref=f11e9] [cursor=pointer]:
+          - /url: https://www.latentview.com/cookie-policy/
+        - text: "&"
+        - link "Privacy Policy" [ref=f11e10] [cursor=pointer]:
+          - /url: https://www.latentview.com/privacy-policy/
+      - generic [ref=f11e11]:
+        - button "Reject All" [ref=f11e12] [cursor=pointer]
+        - button "Accept All" [ref=f11e13] [cursor=pointer]
+  - link "Skip to content" [ref=f11e14] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f11e15]:
+    - generic [ref=f11e17]:
+      - navigation "Menu" [ref=f11e22]:
+        - list [ref=f11e23]:
+          - listitem [ref=f11e24]:
+            - link "Investors" [ref=f11e25] [cursor=pointer]:
+              - /url: https://www.latentview.com/investor-relations/
+          - listitem [ref=f11e26]:
+            - link "Careers" [ref=f11e27] [cursor=pointer]:
+              - /url: https://www.latentview.com/career/
+          - listitem [ref=f11e28]:
+            - link "Alumni Portal" [ref=f11e29] [cursor=pointer]:
+              - /url: https://www.latentview.com/alumni/
+          - listitem [ref=f11e30]:
+            - link "Newsroom" [ref=f11e31] [cursor=pointer]:
+              - /url: https://www.latentview.com/newsroom/
+      - generic [ref=f11e33]:
+        - link [ref=f11e37] [cursor=pointer]:
+          - /url: /
+        - navigation "Menu" [ref=f11e41]:
+          - generic "Menu Toggle" [ref=f11e42]:
+            - list [ref=f11e43]:
+              - listitem [ref=f11e44]:
+                - generic [ref=f11e45]:
+                  - link "Expertise" [ref=f11e46] [cursor=pointer]:
+                    - /url: "#"
+                  - button "Open Expertise" [ref=f11e48] [cursor=pointer]
+              - listitem [ref=f11e53]:
+                - generic [ref=f11e54]:
+                  - link "Industries" [ref=f11e55] [cursor=pointer]:
+                    - /url: "#"
+                  - button "Open Industries" [ref=f11e57] [cursor=pointer]
+              - listitem [ref=f11e62]:
+                - generic [ref=f11e63]:
+                  - link "Insights" [ref=f11e64] [cursor=pointer]:
+                    - /url: "#"
+                  - button "Open Insights" [ref=f11e66] [cursor=pointer]
+              - listitem [ref=f11e71]:
+                - generic [ref=f11e72]:
+                  - link "About" [ref=f11e73] [cursor=pointer]:
+                    - /url: "#"
+                  - button "Open About" [ref=f11e75] [cursor=pointer]
+        - link "CONTACT US" [ref=f11e84] [cursor=pointer]:
+          - /url: /contact-us/
+    - generic [ref=f11e89]:
+      - generic [ref=f11e91]:
+        - 'heading "Agentic AI In Healthcare: Use Cases, Challenges & Best Practices" [level=1] [ref=f11e94]'
+        - link "Connect With Us" [ref=f11e98] [cursor=pointer]:
+          - /url: "#form-temp"
+        - img "Customer Analytics" [ref=f11e103]
+      - generic [ref=f11e107]:
+        - generic [ref=f11e109]:
+          - link "LatentView Analytics" [ref=f11e112] [cursor=pointer]:
+            - /url: https://in.linkedin.com/company/latentview-analytics
+          - list [ref=f11e115]:
+            - listitem [ref=f11e116]:
+              - generic [ref=f11e117]:
+                - text: Last Updated on
+                - time [ref=f11e118]: April 28, 2026
+        - generic [ref=f11e120]:
+          - heading "SHARE" [level=2] [ref=f11e123]
+          - list [ref=f11e126]:
+            - listitem [ref=f11e127]:
+              - button "Share on linkedin" [ref=f11e128] [cursor=pointer]
+            - listitem [ref=f11e132]:
+              - button "Share on twitter" [ref=f11e133] [cursor=pointer]
+      - generic [ref=f11e137]:
+        - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f11e142]:
+          - group [ref=f11e143]:
+            - generic "Table of Contents" [ref=f11e144] [cursor=pointer]
+            - 'region "Table of Contents Key Takeaways What Is Agentic AI in Healthcare? How Can Agentic AI Be Used in Healthcare? What Healthcare Problems Will Agentic AI Solve? Key Applications and Use Cases of Agentic AI in Healthcare Challenges and Considerations for Agentic AI in Healthcare Strategies to Implement Agentic AI in Healthcare Best Practices for Enterprises Adopting Agentic AI in Healthcare How Agentic AI Will Transform Healthcare in 2026 and Beyond LatentView and Healtheon AI: Driving the Future of Agentic Healthcare FAQs" [ref=f11e151]':
+              - list [ref=f11e155]:
+                - listitem [ref=f11e156]:
+                  - link "Key Takeaways" [ref=f11e158] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-0"
+                - listitem [ref=f11e159]:
+                  - link "What Is Agentic AI in Healthcare?" [ref=f11e161] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-1"
+                - listitem [ref=f11e162]:
+                  - link "How Can Agentic AI Be Used in Healthcare?" [ref=f11e164] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-2"
+                - listitem [ref=f11e165]:
+                  - link "What Healthcare Problems Will Agentic AI Solve?" [ref=f11e167] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-3"
+                - listitem [ref=f11e168]:
+                  - link "Key Applications and Use Cases of Agentic AI in Healthcare" [ref=f11e170] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-4"
+                - listitem [ref=f11e171]:
+                  - link "Challenges and Considerations for Agentic AI in Healthcare" [ref=f11e173] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-5"
+                - listitem [ref=f11e174]:
+                  - link "Strategies to Implement Agentic AI in Healthcare" [ref=f11e176] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-6"
+                - listitem [ref=f11e177]:
+                  - link "Best Practices for Enterprises Adopting Agentic AI in Healthcare" [ref=f11e179] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-7"
+                - listitem [ref=f11e180]:
+                  - link "How Agentic AI Will Transform Healthcare in 2026 and Beyond" [ref=f11e182] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-8"
+                - listitem [ref=f11e183]:
+                  - 'link "LatentView and Healtheon AI: Driving the Future of Agentic Healthcare" [ref=f11e185] [cursor=pointer]':
+                    - /url: "#elementor-toc__heading-anchor-9"
+                - listitem [ref=f11e186]:
+                  - link "FAQs" [ref=f11e188] [cursor=pointer]:
+                    - /url: "#elementor-toc__heading-anchor-10"
+        - generic [ref=f11e196]:
+          - paragraph [ref=f11e197]: Agentic AI in healthcare helps enterprises move from manual, fragmented workflows to autonomous execution across revenue cycle, clinical operations, and patient access.
+          - heading "Key Takeaways" [level=2] [ref=f11e198]
+          - list [ref=f11e199]:
+            - listitem [level=1] [ref=f11e200]: Agentic AI in healthcare refers to the use of autonomous AI systems that perceive real-time clinical and operational signals, reason across EHR, claims, and payer data, and execute multi-step workflows across health systems without human intervention at each step
+            - listitem [level=1] [ref=f11e201]: Generative AI summarizes and drafts for humans to act on, whereas agentic AI reasons across connected systems and executes end-to-end workflows autonomously within defined boundaries
+            - listitem [level=1] [ref=f11e202]: The administrative and revenue cycle track delivers the fastest returns and is the right starting point; the clinical track requires a clinician in the loop at every patient-facing decision point
+            - listitem [level=1] [ref=f11e203]: Highest-value entry points are prior authorization automation, denials management, patient access, and clinical documentation where decision volume exceeds what manual staffing can sustain
+            - listitem [level=1] [ref=f11e204]: FHIR bidirectional integration is the prerequisite most deployment timelines underestimate; agents require real-time, two-way data access across EHR and claims systems to execute decisions reliably at scale
+          - heading "What Is Agentic AI in Healthcare?" [level=2] [ref=f11e205]
+          - paragraph [ref=f11e206]: Agentic AI in healthcare refers to autonomous AI systems that perceive real-time signals across EHR, claims, and payer systems, reason across clinical and administrative constraints, and execute decisions without human approval at each step.
+          - paragraph [ref=f11e207]: "The distinction that matters most: generative AI summarized the prior authorization request. Agentic AI reads the clinical notes, pulls the payer policy, assembles the documentation package, submits the request, tracks authorization status, and escalates denials, without a staff member touching it."
+          - paragraph [ref=f11e208]: Healthcare has been buried under administrative work for decades. Agentic AI is what finally closes the gap between clinical data and operational action.
+          - paragraph [ref=f11e209]: "Below is how agentic AI compares to what healthcare organizations already have:"
+          - table [ref=f11e210]:
+            - rowgroup [ref=f11e211]:
+              - row [ref=f11e212]:
+                - cell [ref=f11e213]:
+                  - paragraph [ref=f11e214]: Dimension
+                - cell [ref=f11e215]:
+                  - paragraph [ref=f11e216]: RPA
+                - cell [ref=f11e217]:
+                  - paragraph [ref=f11e218]: Generative AI
+                - cell [ref=f11e219]:
+                  - paragraph [ref=f11e220]: Agentic AI
+              - row [ref=f11e221]:
+                - cell [ref=f11e222]:
+                  - paragraph [ref=f11e223]: Prior authorization
+                - cell [ref=f11e224]:
+                  - paragraph [ref=f11e225]: Fills forms based on fixed rules
+                - cell [ref=f11e226]:
+                  - paragraph [ref=f11e227]: Drafts supporting documentation
+                - cell [ref=f11e228]:
+                  - paragraph [ref=f11e229]: Assembles, submits, tracks, and escalates autonomously
+              - row [ref=f11e230]:
+                - cell [ref=f11e231]:
+                  - paragraph [ref=f11e232]: Denials management
+                - cell [ref=f11e233]:
+                  - paragraph [ref=f11e234]: Flags denied claims
+                - cell [ref=f11e235]:
+                  - paragraph [ref=f11e236]: Summarizes denial reason, suggests appeal
+                - cell [ref=f11e237]:
+                  - paragraph [ref=f11e238]: Identifies root cause, writes appeal, resubmits end to end
+              - row [ref=f11e239]:
+                - cell [ref=f11e240]:
+                  - paragraph [ref=f11e241]: Clinical documentation
+                - cell [ref=f11e242]:
+                  - paragraph [ref=f11e243]: Transcribes structured fields
+                - cell [ref=f11e244]:
+                  - paragraph [ref=f11e245]: Drafts notes from conversation
+                - cell [ref=f11e246]:
+                  - paragraph [ref=f11e247]: Captures, codes, and writes back to EHR without clinician input
+              - row [ref=f11e248]:
+                - cell [ref=f11e249]:
+                  - paragraph [ref=f11e250]: Patient scheduling
+                - cell [ref=f11e251]:
+                  - paragraph [ref=f11e252]: Books based on availability rules
+                - cell [ref=f11e253]:
+                  - paragraph [ref=f11e254]: Suggests optimal slots
+                - cell [ref=f11e255]:
+                  - paragraph [ref=f11e256]: Manages bookings, rescheduling, and capacity dynamically
+              - row [ref=f11e257]:
+                - cell [ref=f11e258]:
+                  - paragraph [ref=f11e259]: Care coordination
+                - cell [ref=f11e260]:
+                  - paragraph [ref=f11e261]: Routes referrals based on rules
+                - cell [ref=f11e262]:
+                  - paragraph [ref=f11e263]: Summarizes transition plan
+                - cell [ref=f11e264]:
+                  - paragraph [ref=f11e265]: Orchestrates handoffs across settings and updates all systems
+          - paragraph [ref=f11e266]: RPA breaks when exceptions occur. Generative AI drafts but a human still acts. Agentic AI reasons across systems and executes end to end within defined governance boundaries.
+          - heading "How Can Agentic AI Be Used in Healthcare?" [level=2] [ref=f11e267]
+          - paragraph [ref=f11e268]: Agentic AI in healthcare operates across two fundamentally different deployment tracks, each with distinct risk profiles, timelines, and governance requirements.
+          - paragraph [ref=f11e269]: Getting this distinction right is the most important decision a healthcare leader makes before committing to agentic AI investment.
+          - heading "Administrative and Revenue Cycle Track" [level=3] [ref=f11e270]
+          - paragraph [ref=f11e271]: This is where agentic AI delivers fastest returns and where autonomous execution is appropriate. These workflows are high-volume, rule-driven, and primarily financial rather than clinical. Prior authorization, revenue cycle, patient access, denials management, and claims processing all fall here.
+          - paragraph [ref=f11e272]: Agents operate within payer rules and EHR data, execute within defined boundaries, and escalate exceptions to humans. Returns are measurable within 60 to 90 days. The risk is financial, not clinical, which makes this the right starting point for every healthcare organization.
+          - heading "Clinical and Care Delivery Track" [level=3] [ref=f11e273]
+          - paragraph [ref=f11e274]: This is where a clinician in the loop is non-negotiable. Every decision that affects patient safety requires a doctor or nurse to sign off. Clinical documentation, remote patient monitoring, care coordination, and clinical decision support fall here.
+          - paragraph [ref=f11e275]: The deployment timeline is longer and governance is more demanding. But the long-term impact is larger. Organizations that demonstrate value on the administrative track first build the organizational trust and data foundation needed to deploy responsibly on the clinical track.
+          - paragraph [ref=f11e276]: Getting this distinction wrong is the most common reason healthcare agentic AI programs either stall because the organization is too cautious on administration, or create liability because they move too fast on clinical decisions.
+          - heading "What Healthcare Problems Will Agentic AI Solve?" [level=2] [ref=f11e277]
+          - paragraph [ref=f11e278]: Agentic AI addresses three structural problems in healthcare that manual staffing and traditional automation have failed to resolve at scale.
+          - heading "Administrative Overload Burning Out Clinicians" [level=3] [ref=f11e279]
+          - paragraph [ref=f11e280]: Physicians spend more than five hours in the EHR for every eight hours of scheduled patient time. Documentation, prior auth, and coding consume the hours that should be spent with patients.
+          - paragraph [ref=f11e281]:
+            - text: "Agentic AI handles these workflows on its own, giving clinicians back an estimated 60+ minutes per day that currently disappears into paperwork. (Source:"
+            - link "McKinsey" [ref=f11e282] [cursor=pointer]:
+              - /url: https://www.mckinsey.com/industries/healthcare/our-insights/agentic-ai-and-the-race-to-a-touchless-revenue-cycle
+            - text: )
+          - heading "Rising Denial Rates Draining Revenue" [level=3] [ref=f11e283]
+          - paragraph [ref=f11e284]: Denial rates are climbing while manual staffing cannot keep up with the volume. A single large health system manages thousands of denials every month, each requiring documentation review, payer policy checks, and appeal submissions.
+          - paragraph [ref=f11e285]:
+            - text: "Agentic AI handles denials from root cause to appeal submission at a scale no team can match manually. Some experts believe the technology could automate up to 80% of revenue cycle work. (Source:"
+            - link "FinThrive" [ref=f11e286] [cursor=pointer]:
+              - /url: https://finthrive.com/blog/how-agentic-ai-is-changing-healthcare-rcm-finthrive
+            - text: )
+          - heading "Fragmented Systems Blocking Care Coordination" [level=3] [ref=f11e287]
+          - paragraph [ref=f11e288]: Patients fall through the gaps between siloed EHR systems, payer portals, and post-acute care settings. These disconnected handoffs drive readmissions, delayed authorizations, and missed follow-ups that cost health systems both revenue and patient outcomes.
+          - paragraph [ref=f11e289]: Agentic AI connects these systems through FHIR integration and coordinates handoffs automatically, keeping every care team member updated without someone manually chasing each transition.
+          - heading "Key Applications and Use Cases of Agentic AI in Healthcare" [level=2] [ref=f11e290]
+          - paragraph [ref=f11e291]: Highest-value agentic AI applications in healthcare span prior authorization, revenue cycle, patient access, clinical documentation, remote monitoring, and fraud detection.
+          - paragraph [ref=f11e292]: "Below are some of the most impactful applications of agentic AI in healthcare today:"
+          - heading "Prior Authorization Automation" [level=3] [ref=f11e293]
+          - paragraph [ref=f11e294]: Prior authorization is one of the most time-consuming tasks in healthcare. Clinicians spend nearly 28 hours per week on administrative work including prior auth and benefit confirmations, time that comes directly out of patient care.
+          - paragraph [ref=f11e295]:
+            - text: "With agentic AI, the clinical notes are read, payer policy is checked, the documentation package is built, submitted, and tracked, all without a staff member managing each step. Documented deployments show a 66% reduction in authorization processing time. The manual payer calls and status follow-ups that used to consume hours now happen in the background. (Source:"
+            - link "Fierce Healthcare" [ref=f11e296] [cursor=pointer]:
+              - /url: https://www.fiercehealthcare.com/ai-and-machine-learning/voicecare-ai-new-agentic-ai-startup-kicks-pilot-mayo-clinic-automate-back
+            - text: )
+          - heading "Revenue Cycle and Denials Management" [level=3] [ref=f11e297]
+          - paragraph [ref=f11e298]: Revenue cycle management is where most health systems lose money they have already earned. Denied claims pile up, staff work through them manually, and a significant share never gets resolved because there are not enough people to chase every case.
+          - paragraph [ref=f11e299]:
+            - text: "With agentic AI, the root cause of each denial is found, cases are sorted by revenue impact, appeals are written and submitted, and payments are posted when they come through. Organizations see a 50% reduction in DNFB and a 10% lift in revenue from better charge capture. (Source:"
+            - link "McKinsey" [ref=f11e300] [cursor=pointer]:
+              - /url: https://www.mckinsey.com/industries/healthcare/our-insights/agentic-ai-and-the-race-to-a-touchless-revenue-cycle
+            - text: )
+          - heading "Patient Access, Scheduling, and Intake" [level=3] [ref=f11e301]
+          - paragraph [ref=f11e302]: Broken patient access is one of the most visible problems in healthcare. When registration is slow and eligibility checks take time, patients notice and revenue suffers.
+          - paragraph [ref=f11e303]: With agentic AI, patients are walked through registration, coverage is confirmed, intake information is gathered, and only cases that genuinely need judgment go to a human. Bookings, cancellations, and rescheduling are managed dynamically throughout the day without a coordinator touching each update. Organizations report meaningful improvement in patient satisfaction and a significant drop in contact center staffing needs.
+          - heading "Ambient AI Scribing and Clinical Documentation" [level=3] [ref=f11e304]
+          - paragraph [ref=f11e305]: Documentation is the single biggest contributor to clinician burnout. Physicians spend more time writing notes and entering data than they do with patients, and it continues long after the shift ends.
+          - paragraph [ref=f11e306]:
+            - text: "In the exam room, patient conversations are captured, structured clinical notes are generated, and the right diagnosis codes are suggested, all in real time. For routine documentation, notes are written directly to the EHR. Physicians reclaim 60+ minutes per day, make 40 to 50% fewer documentation errors, and fit two to three more patient visits into their schedule. Better documentation also captures charges that previously slipped through. (Source:"
+            - link "Everworker" [ref=f11e307] [cursor=pointer]:
+              - /url: https://everworker.ai/blog/agentic-ai-use-cases-healthcare-organizations
+            - text: )
+          - heading "Remote Patient Monitoring and Care Coordination" [level=3] [ref=f11e308]
+          - paragraph [ref=f11e309]: One of the biggest gaps in healthcare is what happens to patients after they leave. Data comes in from wearables and devices, but if no one is watching when a warning sign appears, nothing happens until it is too late.
+          - paragraph [ref=f11e310]: With agentic AI, that data is monitored continuously. When early signs of deterioration appear, a virtual care visit is triggered, the care plan is updated, and post-discharge follow-up is arranged automatically. Patients are less likely to be readmitted because problems are caught before they escalate.
+          - heading "Fraud Detection and Payment Integrity" [level=3] [ref=f11e311]
+          - paragraph [ref=f11e312]: Healthcare fraud costs the system hundreds of billions every year, and most of it is caught only after payments have gone out.
+          - paragraph [ref=f11e313]: Every claim is checked against known fraud patterns, suspicious submissions are flagged before payment is released, and anomalies are sent to human reviewers with the relevant context already assembled. Unlike static rule engines, these systems keep learning as billing behaviors and fraud tactics change. Organizations that deploy them report fewer improper payments and faster, cleaner reimbursement cycles overall.
+          - heading "Proactive Clinical Decision Support" [level=3] [ref=f11e314]
+          - paragraph [ref=f11e315]: Most clinical decision support only activates when a clinician asks for it. By then, early intervention windows may have already closed.
+          - paragraph [ref=f11e316]: Agentic AI continuously monitors patient data across EHR systems, lab results, and diagnostic feeds, surfacing evidence-based recommendations when early risk indicators appear without waiting for a clinician query. Organizations report earlier intervention on high-risk patients and meaningful reductions in preventable adverse events.
+          - heading "Drug Discovery and Clinical Trial Matching" [level=3] [ref=f11e317]
+          - paragraph [ref=f11e318]: Drug discovery involves screening massive volumes of molecular data that manual research teams cannot process at scale.
+          - paragraph [ref=f11e319]: Agentic AI scans molecular structures, simulates biological interactions, and identifies trial-eligible patients against complex inclusion criteria across EHR populations. Weeks of manual research compress into hours, and clinical trial matching agents expand access to trials for patients who would otherwise never be identified in time to enroll.
+          - heading "Digital Patient Twins and Proactive Engagement" [level=3] [ref=f11e320]
+          - paragraph [ref=f11e321]: Most patient engagement in healthcare is reactive. Patients contact the system when something is already wrong.
+          - paragraph [ref=f11e322]: Digital patient twins create continuously updated virtual representations of individual patients built from EHR data, wearable inputs, and claims history. Agentic AI monitors these twins for early deterioration signals, routes medication refill requests automatically, books same-day appointments when monitoring warrants intervention, and reaches out to patients drifting from care plans before they disengage entirely. Care coordination follows the patient rather than waiting for the patient to return.
+          - heading "Challenges and Considerations for Agentic AI in Healthcare" [level=2] [ref=f11e323]
+          - paragraph [ref=f11e324]: Primary challenges of adopting agentic AI in healthcare are EHR fragmentation, data protection, clinical accountability, data quality, clinician trust, and governance design.
+          - paragraph [ref=f11e325]:
+            - text: "While agentic AI has significant potential, healthcare organizations face a combination of technical and organizational obstacles. A Microsoft and Health Management Academy study found that only 3% of health systems have deployed agents in live workflows despite 43% actively running pilots. (Source:"
+            - link "Microsoft" [ref=f11e326] [cursor=pointer]:
+              - /url: https://www.microsoft.com/en-us/industry/blog/healthcare/2026/02/12/assessing-healthcares-agentic-ai-readiness-new-research-from-microsoft-and-the-health-management-academy/
+            - text: )
+          - paragraph [ref=f11e327]: "Here are some common challenges healthcare organizations face:"
+          - list [ref=f11e328]:
+            - listitem [level=1] [ref=f11e329]: "EHR Fragmentation: Most health systems have connected EHR and claims systems for reporting purposes only. Agentic AI requires real-time, two-way data exchange to function, a gap most organizations discover only after deployment begins."
+            - listitem [level=1] [ref=f11e330]: "Patient Data Protection: When AI agents access patient data across EHRs, payer portals, and monitoring platforms, protecting that data becomes more complex. Clinical Accountability: When an autonomous agent plays a role in a clinical decision that affects a patient, who is responsible needs a clear answer. Organizations need to define in advance which decisions require a clinician to approve, and those rules need to be built into the system."
+            - listitem [level=1] [ref=f11e331]: "Data Quality: Patient notes are unstructured, coding practices vary, and claims histories are often incomplete. Agents working from poor-quality data make confident mistakes. Fixing data quality before deployment is what separates programs that scale from those that stall."
+            - listitem [level=1] [ref=f11e332]: "Clinician Trust: Doctors and nurses who rely on their own judgment are often skeptical of systems making recommendations they cannot examine. Without clear explanations of how decisions are made and easy ways to push back, adoption is slow even when the technology performs well."
+            - listitem [level=1] [ref=f11e333]: "Changing Regulations for Clinical AI: FDA oversight of AI in clinical decision-making continues to evolve. Organizations building agents that touch patient care need to monitor these requirements and ensure every patient-facing decision can be traced and documented."
+          - heading "Strategies to Implement Agentic AI in Healthcare" [level=2] [ref=f11e334]
+          - paragraph [ref=f11e335]: Implementing agentic AI in healthcare requires starting with administrative workflows, assessing data readiness, building integration infrastructure, and defining clinical governance before deployment.
+          - paragraph [ref=f11e336]: "Here is a practical step-by-step approach for healthcare organizations:"
+          - heading "1. Start with Revenue Cycle Back-End" [level=3] [ref=f11e337]
+          - paragraph [ref=f11e338]: Begin with accounts receivable follow-up, denials management, and claims processing. These workflows have clear rules, measurable outcomes, and low clinical risk. Results show up within 90 days and early wins build the organizational buy-in needed to expand into more complex areas.
+          - heading "2. Check EHR and Data Readiness" [level=3] [ref=f11e339]
+          - paragraph [ref=f11e340]: Map whether your EHR systems support real-time, two-way data exchange, not just reporting. Also check claims data quality and whether payer portals can be connected. Agents that work from incomplete or one-directional data will make mistakes with confidence, and that erodes trust fast.
+          - heading "3. Build the Integration Layer Before Writing Agent Logic" [level=3] [ref=f11e341]
+          - paragraph [ref=f11e342]: The connections between EHR systems, payer portals, scheduling platforms, and claims systems need to be live and reliable before any agent logic is built on top.
+          - paragraph [ref=f11e343]: Most healthcare programs skip this step and pay for it later. The integration work takes longer than teams expect but determines how well every agent performs downstream.
+          - heading "4. Set Clinical Governance Rules Before Going Live" [level=3] [ref=f11e344]
+          - paragraph [ref=f11e345]: Decide which decisions agents handle on their own, which ones need a clinician to review, and which ones always go to a human regardless of what the AI thinks. \These decisions need input from clinical leadership, legal counsel, and compliance teams, and they need to be locked in before any patient-facing agent goes live.
+          - heading "Best Practices for Enterprises Adopting Agentic AI in Healthcare" [level=2] [ref=f11e346]
+          - paragraph [ref=f11e347]: Healthcare organizations that successfully scale agentic AI start small, keep clinicians in control of clinical decisions, and treat governance as a foundation, not an afterthought.
+          - paragraph [ref=f11e348]: "Enterprises adopting agentic AI in healthcare should prioritize a human-in-the-loop approach, starting with low-risk administrative tasks before moving to clinical support. Building strong data infrastructure and retraining staff to work alongside AI are just as important as the technology itself. Here are the practices that separate programs that reach production from those that stay in pilots:"
+          - list [ref=f11e349]:
+            - listitem [level=1] [ref=f11e350]: "Start with the administrative track and build from there: Early revenue cycle wins prove the concept, generate real financial returns, and give the organization the data foundation and confidence needed before touching clinical workflows"
+            - listitem [level=1] [ref=f11e351]: "Build compliance into the architecture from the beginning: Patient data protection, decision audit logs, and user access controls are not add-ons. They need to be part of how the system is built, or they become expensive problems to fix later"
+            - listitem [level=1] [ref=f11e352]: "Clinicians stay accountable for clinical decisions: Agentic AI takes on the administrative load so clinicians can focus on patients. It does not make clinical judgments on their behalf. Approval requirements for any patient-facing decision need to be hard rules built into the system"
+            - listitem [level=1] [ref=f11e353]: "Measure results in operational terms: Track prior auth cycle time, denial rate, days in accounts receivable, and hours of clinician time reclaimed. These are the numbers that matter to a CFO and a CMO, not model performance statistics"
+            - listitem [level=1] [ref=f11e354]: "Pick one workflow and one metric to start: Trying to automate five things at once usually results in none of them working well. One well-scoped deployment that delivers a clear result in your specific environment is far more valuable than a broad pilot that never reaches production"
+            - listitem [level=1] [ref=f11e355]: "Bring staff into the process early: Revenue cycle teams and clinical staff who understand what the AI does, where it hands off to them, and how to flag issues when something looks wrong become the people who improve the system over time"
+          - heading "How Agentic AI Will Transform Healthcare in 2026 and Beyond" [level=2] [ref=f11e356]
+          - paragraph [ref=f11e357]: Agentic AI is moving healthcare from reactive, episode-based care to continuous operations where decisions are made and carried out automatically across the full care and revenue cycle.
+          - paragraph [ref=f11e358]: "Below are the near-term changes shaping how healthcare runs:"
+          - list [ref=f11e359]:
+            - listitem [level=1] [ref=f11e360]:
+              - text: "A Revenue Cycle That Runs Itself: McKinsey identifies the back-end revenue cycle as the first realistic path to fully automated claims management, with up to 80% of revenue cycle work potentially handled by agents as integration standards mature and payer connectivity improves (Source:"
+              - link "McKinsey" [ref=f11e361] [cursor=pointer]:
+                - /url: https://www.mckinsey.com/industries/healthcare/our-insights/agentic-ai-and-the-race-to-a-touchless-revenue-cycle
+              - text: )
+            - listitem [level=1] [ref=f11e362]: "Documentation That Writes Itself: Physicians getting back 60+ minutes per day as AI agents handle clinical notes and coding, reversing a decade-long trend of EHR systems adding to clinician workload rather than reducing it"
+            - listitem [level=1] [ref=f11e363]: "Care That Follows the Patient Home: Agents managing the transition from hospital to post-discharge care, making sure follow-ups happen, medications are confirmed, and warning signs are caught before they become readmissions"
+          - paragraph [ref=f11e364]: Organizations deploying agentic AI on the administrative track today are building the data infrastructure, governance foundations, and organizational readiness that will allow them to expand responsibly into clinical applications tomorrow.
+          - 'heading "LatentView and Healtheon AI: Driving the Future of Agentic Healthcare" [level=2] [ref=f11e365]'
+          - paragraph [ref=f11e366]: The gap between healthcare agentic AI pilots and programs that reach production is almost always a data problem, not a model problem. Clean, two-way EHR integration, interoperable claims data, and proper patient data governance are what agents need to work reliably at scale.
+          - paragraph [ref=f11e367]: LatentView Analytics has made a strategic investment of $3 million in Healtheon AI, a US-based agentic AI company built specifically to address healthcare Revenue Cycle Management. The investment, structured as a SAFE note through LatentView’s US subsidiary, is designed to accelerate the deployment of autonomous AI that reduces revenue leakage across health systems at scale.
+          - paragraph [ref=f11e368]: This investment reflects LatentView’s belief that the next wave of healthcare value sits at the intersection of strong data infrastructure and agentic execution, which is exactly where Healtheon AI operates and where LatentView’s healthcare analytics practice provides the foundation.
+          - paragraph [ref=f11e369]: Discover how LatentView and Healtheon AI are shaping the next generation of healthcare operations.
+          - heading "FAQs" [level=2] [ref=f11e370]
+          - heading "1. What is agentic AI in healthcare?" [level=3] [ref=f11e371]
+          - paragraph [ref=f11e372]: Agentic AI in healthcare refers to autonomous AI systems that perceive real-time signals across EHR, claims, payer, and scheduling systems, reason across clinical and administrative constraints, and execute decisions without human approval at each step.
+          - heading "2. What is the difference between agentic AI and RPA in healthcare?" [level=3] [ref=f11e373]
+          - paragraph [ref=f11e374]: RPA follows fixed rules and stops working when exceptions come up. Agentic AI reasons across multiple systems, handles exceptions within defined limits, and completes multi-step workflows end to end without someone stepping in for routine cases.
+          - heading "3. Where does agentic AI deliver fastest returns in healthcare?" [level=3] [ref=f11e375]
+          - paragraph [ref=f11e376]: Prior authorization automation, denials management, and revenue cycle back-end operations consistently deliver the fastest measurable returns, typically within 60 to 90 days of deployment.
+          - heading "4. Can agentic AI make clinical decisions on its own?" [level=3] [ref=f11e377]
+          - paragraph [ref=f11e378]: No. Clinical decisions that affect patient safety require a clinician to approve them. Agentic AI takes on the administrative work and surfaces information so clinicians can make better decisions faster, but human accountability for every patient-facing clinical decision is non-negotiable.
+          - heading "5. What data infrastructure is required before deploying agentic AI in a health system?" [level=3] [ref=f11e379]
+          - paragraph [ref=f11e380]: FHIR-compliant two-way EHR integration, clean claims data, and live connectivity across payer portals and scheduling systems are the prerequisites. Agents need to write information back to EHR systems, not just retrieve it. This integration gap is the most common reason healthcare agentic AI programs stall before reaching production.
+      - generic [ref=f11e387]:
+        - generic [ref=f11e388]:
+          - link [ref=f11e389] [cursor=pointer]:
+            - /url: https://www.latentview.com/post-author/latentview-analytics/
+          - heading [level=4] [ref=f11e390]:
+            - link "LatentView Analytics" [ref=f11e391] [cursor=pointer]:
+              - /url: https://www.latentview.com/post-author/latentview-analytics/
+        - paragraph [ref=f11e392]: LatentView Analytics has been helping enterprises make data-driven decisions for nearly 20 years. The company brings deep expertise in data engineering, business analytics, GenAI, and predictive modeling to 30+ Fortune 500 clients across tech, retail, financial services, and CPG. A publicly traded company serving the US, India, Canada, Europe, and Singapore, LatentView is recognized in Forrester's Customer Analytics Service Providers Landscape.
+        - link [ref=f11e393] [cursor=pointer]:
+          - /url: https://in.linkedin.com/company/latentview-analytics
+      - generic [ref=f11e397]:
+        - generic [ref=f11e398]:
+          - heading "SHARE" [level=2] [ref=f11e401]
+          - list [ref=f11e404]:
+            - listitem [ref=f11e405]:
+              - button "Share on linkedin" [ref=f11e406] [cursor=pointer]
+            - listitem [ref=f11e410]:
+              - button "Share on twitter" [ref=f11e411] [cursor=pointer]
+        - generic [ref=f11e414]:
+          - heading "POPULAR BLOGS" [level=2] [ref=f11e418]
+          - generic [ref=f11e422]:
+            - article [ref=f11e423]:
+              - generic [ref=f11e424]:
+                - heading [level=3] [ref=f11e425]:
+                  - 'link "ICP and ABM for Payments: The B2B Growth Playbook" [ref=f11e426] [cursor=pointer]':
+                    - /url: https://www.latentview.com/blog/icp-abm-payments-b2b-growth-playbook/
+                - generic [ref=f11e427]: July 28, 2026
+            - article [ref=f11e428]:
+              - generic [ref=f11e429]:
+                - heading [level=3] [ref=f11e430]:
+                  - 'link "BigQuery vs Databricks: Key Differences and Use Cases" [ref=f11e431] [cursor=pointer]':
+                    - /url: https://www.latentview.com/blog/databricks-vs-bigquery/
+                - generic [ref=f11e432]: July 26, 2026
+            - article [ref=f11e433]:
+              - generic [ref=f11e434]:
+                - heading [level=3] [ref=f11e435]:
+                  - 'link "AI Credit Scoring: The Future of Credit Risk Assessment" [ref=f11e436] [cursor=pointer]':
+                    - /url: https://www.latentview.com/blog/ai-credit-scoring-the-future-of-credit-risk-assessment/
+                - generic [ref=f11e437]: July 26, 2026
+            - article [ref=f11e438]:
+              - generic [ref=f11e439]:
+                - heading [level=3] [ref=f11e440]:
+                  - 'link "Email Campaign Effectiveness: Key Metrics, How to Measure and Strategies to Improve" [ref=f11e441] [cursor=pointer]':
+                    - /url: https://www.latentview.com/blog/email-campaign-effectiveness/
+                - generic [ref=f11e442]: July 26, 2026
+            - article [ref=f11e443]:
+              - generic [ref=f11e444]:
+                - heading [level=3] [ref=f11e445]:
+                  - link "What Is Linear Regression? Formula, Assumptions, and Examples" [ref=f11e446] [cursor=pointer]:
+                    - /url: https://www.latentview.com/blog/linear-regression/
+                - generic [ref=f11e447]: July 26, 2026
+            - article [ref=f11e448]:
+              - generic [ref=f11e449]:
+                - heading [level=3] [ref=f11e450]:
+                  - 'link "Predictive Analytics in Retail & Ecommerce: Use Cases, Benefits & Strategy" [ref=f11e451] [cursor=pointer]':
+                    - /url: https://www.latentview.com/blog/predictive-analytics-in-retail-ecommerce/
+                - generic [ref=f11e452]: July 26, 2026
+      - generic [ref=f11e455]:
+        - heading "Take to the Next Step" [level=2] [ref=f11e459]
+        - generic [ref=f11e464]:
+          - generic [ref=f11e465]:
+            - paragraph
+            - paragraph [ref=f11e466]:
+              - text: "\""
+              - generic [ref=f11e467]: "*"
+              - text: "\" indicates required fields"
+          - generic [ref=f11e468]:
+            - generic [ref=f11e470]:
+              - generic [ref=f11e471]:
+                - generic [ref=f11e472]:
+                  - text: Name
+                  - generic [ref=f11e473]: "*"
+                - textbox "Name *" [ref=f11e476]:
+                  - /placeholder: Name*
+              - generic [ref=f11e477]:
+                - generic [ref=f11e478]:
+                  - text: Organization
+                  - generic [ref=f11e479]: "*"
+                - textbox "Organization *" [ref=f11e482]:
+                  - /placeholder: Organization*
+              - generic [ref=f11e483]:
+                - generic [ref=f11e484]:
+                  - text: E-Mail
+                  - generic [ref=f11e485]: "*"
+                - textbox "E-Mail *" [ref=f11e488]:
+                  - /placeholder: E-Mail*
+              - generic [ref=f11e489]:
+                - generic [ref=f11e490]:
+                  - text: Phone
+                  - generic [ref=f11e491]: "*"
+                - generic [ref=f11e496]:
+                  - combobox "Selected country" [ref=f11e498] [cursor=pointer]:
+                    - generic [ref=f11e499]: India +91
+                  - textbox "Phone *" [ref=f11e503]:
+                    - /placeholder: Phone
+              - generic [ref=f11e504]:
+                - generic [ref=f11e505]:
+                  - text: Message
+                  - generic [ref=f11e506]: "*"
+                - textbox "Message *" [ref=f11e509]
+              - group "consent *" [ref=f11e510]:
+                - generic [ref=f11e511]:
+                  - text: consent
+                  - generic [ref=f11e512]: "*"
+                - generic [ref=f11e516]:
+                  - checkbox "I agree to be contacted by LatentView Analytics through the information provided. Learn more about how we use your personal data on our Privacy Policy." [ref=f11e517]
+                  - generic [ref=f11e518]: I agree to be contacted by LatentView Analytics through the information provided. Learn more about how we use your personal data on our Privacy Policy.
+              - generic [ref=f11e519]:
+                - generic [ref=f11e520]: CAPTCHA
+                - iframe [ref=f11e524]:
+                  - generic [ref=f13e2]:
+                    - generic [ref=f13e3]:
+                      - checkbox "I'm not a robot" [ref=f13e7]
+                      - generic [ref=f13e9]: I'm not a robot
+                    - generic [ref=f13e12]: reCAPTCHA
+            - button "SUBMIT" [ref=f11e526] [cursor=pointer]
+      - generic [ref=f11e528]:
+        - heading "Related Blogs" [level=2] [ref=f11e531]
+        - generic [ref=f11e534]:
+          - generic [ref=f11e537]:
+            - generic [ref=f11e539]:
+              - link [ref=f11e542] [cursor=pointer]:
+                - /url: https://www.latentview.com/blog/icp-abm-payments-b2b-growth-playbook/
+              - list [ref=f11e545]:
+                - listitem [ref=f11e546]:
+                  - time [ref=f11e548]: July 28, 2026
+              - heading [level=2] [ref=f11e551]:
+                - 'link "ICP and ABM for Payments: The B2B Growth Playbook" [ref=f11e552] [cursor=pointer]':
+                  - /url: https://www.latentview.com/blog/icp-abm-payments-b2b-growth-playbook/
+            - paragraph [ref=f11e555]: TL;DR Payments buying is now a committee sport product, engineering, security, finance, compliance, and procurement all…
+            - link "Read Now" [ref=f11e559] [cursor=pointer]:
+              - /url: https://www.latentview.com/blog/icp-abm-payments-b2b-growth-playbook/
+          - generic [ref=f11e567]:
+            - generic [ref=f11e569]:
+              - link [ref=f11e572] [cursor=pointer]:
+                - /url: https://www.latentview.com/blog/databricks-vs-bigquery/
+                - img "Customer Analytics" [ref=f11e573]
+              - list [ref=f11e576]:
+                - listitem [ref=f11e577]:
+                  - time [ref=f11e579]: July 26, 2026
+              - heading [level=2] [ref=f11e582]:
+                - 'link "BigQuery vs Databricks: Key Differences and Use Cases" [ref=f11e583] [cursor=pointer]':
+                  - /url: https://www.latentview.com/blog/databricks-vs-bigquery/
+            - paragraph [ref=f11e586]: Databricks is a unified data and AI platform built on Apache Spark for data engineering, machine…
+            - link "Read Now" [ref=f11e590] [cursor=pointer]:
+              - /url: https://www.latentview.com/blog/databricks-vs-bigquery/
+          - generic [ref=f11e598]:
+            - generic [ref=f11e600]:
+              - link [ref=f11e603] [cursor=pointer]:
+                - /url: https://www.latentview.com/blog/ai-credit-scoring-the-future-of-credit-risk-assessment/
+              - list [ref=f11e606]:
+                - listitem [ref=f11e607]:
+                  - time [ref=f11e609]: July 26, 2026
+              - heading [level=2] [ref=f11e612]:
+                - 'link "AI Credit Scoring: The Future of Credit Risk Assessment" [ref=f11e613] [cursor=pointer]':
+                  - /url: https://www.latentview.com/blog/ai-credit-scoring-the-future-of-credit-risk-assessment/
+            - paragraph [ref=f11e616]: TL;DR (Executive Summary) AI credit scoring is the process of using AI and machine learning to…
+            - link "Read Now" [ref=f11e620] [cursor=pointer]:
+              - /url: https://www.latentview.com/blog/ai-credit-scoring-the-future-of-credit-risk-assessment/
+    - generic [ref=f11e628]:
+      - generic [ref=f11e629]:
+        - generic [ref=f11e630]:
+          - heading "(Re)Think Data Think LatentView" [level=2] [ref=f11e633]
+          - generic [ref=f11e635]:
+            - heading "Latent View Analytics Limited" [level=5] [ref=f11e636]
+            - generic [ref=f11e637]: "Registered Office: 5th Floor,Neville Tower, Unit 6, 7 and 8,Ramanujan IT City, Rajiv Gandhi Salai,Taramani, Chennai – 600113, Tamil Nadu, India"
+            - generic [ref=f11e638]: "Tel: +91 044 4344 1700"
+            - generic [ref=f11e639]:
+              - text: "Email:"
+              - link "investorcare@latentview.com" [ref=f11e640] [cursor=pointer]:
+                - /url: mailto:investorcare@latentview.com
+            - generic [ref=f11e641]: "CIN: L72300TN2006PLC058481"
+        - generic [ref=f11e642]:
+          - generic [ref=f11e644]:
+            - heading "Industries" [level=6] [ref=f11e649]
+            - generic [ref=f11e651]:
+              - heading [level=6] [ref=f11e654]:
+                - link "Technology" [ref=f11e655] [cursor=pointer]:
+                  - /url: /technology/
+              - heading [level=6] [ref=f11e658]:
+                - link "Financial Services" [ref=f11e659] [cursor=pointer]:
+                  - /url: /financial-services/
+            - generic [ref=f11e661]:
+              - heading [level=6] [ref=f11e664]:
+                - link "CPG" [ref=f11e665] [cursor=pointer]:
+                  - /url: /cpg
+              - heading [level=6] [ref=f11e668]:
+                - link "Industrials" [ref=f11e669] [cursor=pointer]:
+                  - /url: /industrials/
+            - heading [level=6] [ref=f11e674]:
+              - link "Retail" [ref=f11e675] [cursor=pointer]:
+                - /url: /retail/
+          - generic [ref=f11e677]:
+            - heading "Insights" [level=6] [ref=f11e682]
+            - generic [ref=f11e684]:
+              - heading [level=6] [ref=f11e687]:
+                - link "Case Studies" [ref=f11e688] [cursor=pointer]:
+                  - /url: /case-studies/
+              - heading [level=6] [ref=f11e691]:
+                - link "Blog" [ref=f11e692] [cursor=pointer]:
+                  - /url: /blog/
+            - generic [ref=f11e694]:
+              - heading [level=6] [ref=f11e697]:
+                - link "Infographics" [ref=f11e698] [cursor=pointer]:
+                  - /url: /infographics/
+              - heading [level=6] [ref=f11e701]:
+                - link "Whitepapers" [ref=f11e702] [cursor=pointer]:
+                  - /url: /whitepapers/
+            - generic [ref=f11e704]:
+              - heading [level=6] [ref=f11e707]:
+                - link "Events" [ref=f11e708] [cursor=pointer]:
+                  - /url: /events/
+              - heading [level=6] [ref=f11e711]:
+                - link "Glossary" [ref=f11e712] [cursor=pointer]:
+                  - /url: /glossary/
+          - generic [ref=f11e714]:
+            - heading "About" [level=6] [ref=f11e719]
+            - generic [ref=f11e721]:
+              - heading [level=6] [ref=f11e724]:
+                - link "About Us" [ref=f11e725] [cursor=pointer]:
+                  - /url: /about-us/
+              - heading [level=6] [ref=f11e728]:
+                - link "Culture" [ref=f11e729] [cursor=pointer]:
+                  - /url: /our-culture/
+            - generic [ref=f11e731]:
+              - heading [level=6] [ref=f11e734]:
+                - link "Leadership Team" [ref=f11e735] [cursor=pointer]:
+                  - /url: /team/
+              - heading [level=6] [ref=f11e738]:
+                - link "Corporate Social Responsibility" [ref=f11e739] [cursor=pointer]:
+                  - /url: /csr/
+            - heading [level=6] [ref=f11e744]:
+              - link "Advisory Council" [ref=f11e745] [cursor=pointer]:
+                - /url: /advisors/
+          - generic [ref=f11e747]:
+            - heading [level=6] [ref=f11e751]:
+              - link "Investors" [ref=f11e752] [cursor=pointer]:
+                - /url: /investor-relations/
+            - heading [level=6] [ref=f11e756]:
+              - link "Careers" [ref=f11e757] [cursor=pointer]:
+                - /url: /career/
+            - heading [level=6] [ref=f11e761]:
+              - link "Alumni Portal" [ref=f11e762] [cursor=pointer]:
+                - /url: /alumni/
+            - heading [level=6] [ref=f11e766]:
+              - link "Newsroom" [ref=f11e767] [cursor=pointer]:
+                - /url: /newsroom/
+      - generic [ref=f11e769]:
+        - link [ref=f11e773] [cursor=pointer]:
+          - /url: /
+          - img "latentview-logo" [ref=f11e774]
+        - generic [ref=f11e775]:
+          - link "Data Analytics consulting - linkedin" [ref=f11e778] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/latentview-analytics/
+            - img "Data Analytics consulting - linkedin"
+          - link "Data Analytics consulting - Instagram" [ref=f11e781] [cursor=pointer]:
+            - /url: https://www.instagram.com/lifeatlatentview/
+            - img "Data Analytics consulting - Instagram"
+          - link "Data Analytics consulting - Youtube" [ref=f11e784] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/LatentViewAnalytics/
+            - img "Data Analytics consulting - Youtube"
+          - link "Data Analytics consulting - twitter" [ref=f11e787] [cursor=pointer]:
+            - /url: https://x.com/latentview
+            - img "Data Analytics consulting - twitter"
+          - link "Data Analytics consulting - facebook" [ref=f11e790] [cursor=pointer]:
+            - /url: https://www.facebook.com/LatentView/
+            - img "Data Analytics consulting - facebook"
+      - generic [ref=f11e792]:
+        - paragraph [ref=f11e797]: Copyright © 2026 LatentView Analytics.
+        - heading [level=2] [ref=f11e802]:
+          - link "Privacy Policy" [ref=f11e803] [cursor=pointer]:
+            - /url: /privacy-policy/
+        - heading [level=2] [ref=f11e807]:
+          - link "Cookie Policy" [ref=f11e808] [cursor=pointer]:
+            - /url: https://www.latentview.com/cookie-policy/
+  - generic [ref=f11e809]: desktop

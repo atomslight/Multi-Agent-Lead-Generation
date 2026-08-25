@@ -1,0 +1,503 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - link "Skip to main content":
+        - /url: "#maincontent"
+      - banner [ref=e6]:
+        - navigation [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - button "Open main menu" [ref=e13] [cursor=pointer]:
+                - generic [ref=e14]: 
+              - generic:              
+            - link [ref=e16] [cursor=pointer]:
+              - /url: /us/en/insights/research-centers/center-for-health-solutions.html
+              - heading "Life Sciences & Healthcare" [level=2] [ref=e17]
+          - generic:
+            - generic:
+              - navigation "Primary menu":   
+          - list [ref=e19]:
+            - listitem [ref=e20]:
+              - button "Search" [ref=e24]:
+                - generic [ref=e25] [cursor=pointer]: 
+            - listitem [ref=e27]:
+              - button "For You" [ref=e28] [cursor=pointer]:
+                - generic [ref=e29]:
+                  - generic [ref=e30]: For You
+                  - generic [ref=e31]: 
+              - text: 
+    - main [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e44]:
+          - heading "Many health care leaders are leaning into agentic AI as adoption hurdles ease" [level=1] [ref=e48]
+          - heading "Deloitte research suggests that health care leaders are increasing investment in agentic AI, but returns may depend on how quickly their organizations can scale beyond pilots" [level=2] [ref=e52]
+          - generic [ref=e54]:
+            - generic [ref=e56]:
+              - text: By
+              - generic [ref=e57] [cursor=pointer]: Jerry Bruno
+              - text: ","
+              - generic [ref=e58] [cursor=pointer]: Bill Fera
+              - text: ","
+              - generic [ref=e59] [cursor=pointer]: Jeanette Yung
+              - text: ","
+              - generic [ref=e60] [cursor=pointer]: Michael McCallen
+              - text: ","
+              - generic [ref=e61] [cursor=pointer]: Dr. Jay Bhatt
+              - text: ","
+              - generic [ref=e62] [cursor=pointer]: Maulesh Shukla
+            - generic:  
+            - generic:    
+            - generic:  
+            - generic:    
+            - generic:    
+            - generic:   
+          - generic [ref=e65]:
+            - generic [ref=e66]: Article
+            - generic [ref=e67]: •
+            - generic [ref=e68]: 12-min read
+            - generic [ref=e69]: •
+            - generic [ref=e70]: 11 February 2026
+            - generic [ref=e71]: Deloitte Center for Health Solutions
+          - text:     
+        - navigation "Subnavigation" [ref=e84]:
+          - heading "Many health care leaders are leaning into agentic AI as adoption hurdles ease" [level=2] [ref=e88]
+        - generic [ref=e90]:
+          - navigation "Article navigation" [ref=e92]:
+            - button "More options" [ref=e94] [cursor=pointer]:
+              - generic [ref=e95]:
+                - generic [ref=e96]: 
+                - text: 
+              - generic [ref=e97]: More
+          - generic [ref=e102]:
+            - generic [ref=e105]:
+              - paragraph [ref=e106]:
+                - text: Health care leaders are under continued pressure to reduce operational costs, stabilize a strained workforce, and improve access and experience.
+                - superscript [ref=e107]:
+                  - link "Endnotes reference number 1" [ref=e108] [cursor=pointer]:
+                    - /url: "#endnote-1"
+                    - text: "1"
+                - text: While artificial intelligence has the potential to be transformative, many organizations report incremental gains, often slowed by organizational and implementation hurdles rather than a lack of use cases.
+                - superscript [ref=e109]:
+                  - link "Endnotes reference number 2" [ref=e110] [cursor=pointer]:
+                    - /url: "#endnote-2"
+                    - text: "2"
+                - text: That dynamic is beginning to shift with agentic AI. Unlike traditional and generative AI, which primarily respond to prompts or support discrete decisions, agentic AI can plan and sequence tasks, adapt to conditions, and coordinate with people and platforms to help deliver outcomes across clinical, administrative, and financial domains. When designed responsibly, these agents operate with explicit guardrails and under human oversight.
+              - paragraph [ref=e111]:
+                - text: To understand how agentic AI is showing up in the market, the Deloitte Center for Health Solutions surveyed 100 US health care technology executives (50 from health systems and 50 from health plans) in September 2025 and conducted online focus groups with 35 health care technology executives, futurists, technologists, and agentic AI leaders (see
+                - link "methodology" [ref=e112] [cursor=pointer]:
+                  - /url: "#methodology"
+                - text: "). The findings suggest that long-standing AI adoption challenges—constraints that are likely shaping early agentic AI scaling—are beginning to ease: 40% of surveyed leaders say technical talent limitations are no longer a major challenge. Leaders also reported reduced friction from resistance to change (38%), leadership buy-in (35%), and data quality concerns (32%) (figure 1)."
+            - paragraph [ref=e116]: Together, these signals suggest that agentic AI is moving beyond experimentation. For executives, the focus should shift from adoption to scale, and from pilots to real operational impact. That means scaling agentic AI responsibly to unlock measurable improvements in consumer engagement, care delivery, workforce capacity, and core administrative and payment workflows.
+        - generic [ref=e120]:
+          - generic [ref=e126]:
+            - generic [ref=e128]:
+              - link "Download" [ref=e129] [cursor=pointer]:
+                - /url: /content/dam/insights/articles/2026/us188461_chs-agentic-ai-in-health-care/content-images/US188461_Figure1.png
+                - generic [ref=e130]: 
+              - link "Share infographic" [ref=e131] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e132]: 
+            - text:     
+          - paragraph [ref=e138]:
+            - text: "As hurdles ease, many organizations are responding with a stronger commitment to agentic AI adoption (figure 2) and more effectively managing what they have already built. Sixty-one percent of respondents say they are already building and implementing agentic AI initiatives or have secured budgets, and 85% plan to increase investment over the next two to three years. Increased investment comes with higher expectations for return: 98% of surveyed executives expect at least 10% cost savings in that timeframe, with 37% expecting savings above 20%. Together, these responses suggest many leaders likely view agentic AI as a strategic lever for performance, growth, and workforce sustainability. Deloitte’s"
+            - link "2026 US Health Care Outlook Survey" [ref=e139] [cursor=pointer]:
+              - /url: /us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks/2026-us-health-care-executive-outlook.html
+            - text: findings reinforce this momentum, with over 80% of health care executives expecting both agentic AI and generative AI to deliver moderate-to-significant value across clinical, business, and back-office functions in 2026.
+          - generic [ref=e145]:
+            - generic [ref=e147]:
+              - link "Download" [ref=e148] [cursor=pointer]:
+                - /url: /content/dam/insights/articles/2026/us188461_chs-agentic-ai-in-health-care/content-images/US188461_Figure2.png
+                - generic [ref=e149]: 
+              - link "Share infographic" [ref=e150] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e151]: 
+            - text:     
+          - generic [ref=e153]:
+            - paragraph [ref=e157]: "As obstacles are mitigated, health care leaders could face a different challenge: deciding where autonomous action can unlock enterprise value without increasing clinical, financial, or compliance risk. Focus group participants described a near-term decision—whether to keep efforts in pilots or invest in enterprise scaling that could meaningfully reshape workflows across care and operations."
+            - generic [ref=e160]:
+              - heading "A majority of health care leaders expect agentic AI to change operating models" [level=2] [ref=e161]
+              - paragraph [ref=e162]: Survey results indicate that organizations are deploying the tech in more strategic areas beyond back-office operations. More than 80% of health systems are prioritizing agentic AI for clinical operations and care delivery, as well as revenue cycle management. Similarly, 70% of health plans are prioritizing agentic AI for utilization management, prior authorization processes, and claims management.
+              - paragraph [ref=e163]: Highly transformational use cases involve ecosystems of agents working together to deliver proactive solutions across health systems and health plan networks. Focus group participants suggested that these agentic ecosystems could improve operational efficiency and reduce organizational knowledge silos by making information, once gated by processes and ticket-based handoffs, more accessible. This, in turn, can support enterprise goals such as better clinical outcomes, improved operations, and higher consumer satisfaction, provided appropriate validation and governance are in place.
+              - paragraph [ref=e164]: Leaders who participated in the focus groups highlighted what transformation could look like as agentic AI is implemented across various functional areas over the next two to three years (figure 3).
+          - generic [ref=e170]:
+            - generic [ref=e172]:
+              - link "Download" [ref=e173] [cursor=pointer]:
+                - /url: /content/dam/insights/articles/2026/us188461_chs-agentic-ai-in-health-care/content-images/US188461_Figure3.png
+                - generic [ref=e174]: 
+              - link "Share infographic" [ref=e175] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e176]: 
+            - text:     
+          - generic [ref=e181]:
+            - heading "Enhancing consumer engagement" [level=3] [ref=e182]
+            - paragraph [ref=e183]:
+              - text: Consumer engagement across the health care ecosystem has long been hindered by fragmentation and friction.
+              - superscript [ref=e184]:
+                - link "Endnotes reference number 3" [ref=e185] [cursor=pointer]:
+                  - /url: "#endnote-3"
+                  - text: "3"
+              - text: Agentic AI may be well suited to addressing these challenges and could help reduce organizational silos by making information more widely available and accessible. It can also orchestrate complex patient and member journeys and elevate the overall experience, not just optimize messaging (where traditional AI has often focused). By improving the coordination of benefits, supporting care navigation, and helping to close care gaps, agentic AI can help shift consumer engagement from reactive touchpoints to a more proactive, continuous, and personalized model of care.
+            - paragraph [ref=e186]: One technology leader shared during the focus group discussions that “AI agents can guide patients through check-ins, explain lab results in everyday language, offer personalized wellness tips, monitor recovery after discharge, and clarify insurance benefits. These interactions are continuous, personalized, and empathetic, bridging gaps between visits and empowering patients.”
+            - paragraph [ref=e187]: Key outcomes from enhancing consumer engagement through agentic AI include more personalized outreach based on diagnosis and preferences, and simplified benefits and care navigation. These improvements may enhance health literacy and patient confidence and, in some contexts, may contribute to fewer adverse health outcomes and readmissions. For customer support teams, this may help in reducing burnout and improving efficiency.
+            - paragraph [ref=e188]:
+              - text: For example, Humana Inc.’s member support team handles millions of member questions and interactions each year, often creating significant workload burden. The company recently launched an agentic AI tool to help its member advocates respond to member questions quicker, with greater precision, and in a personalized manner. The tool can summarize call conversations, foresee member needs, and autonomously guide member advocates with the most relevant information. With the agentic AI tool supporting the complexity of benefits in the background, member advocates can focus on member care and engagement.
+              - superscript [ref=e189]:
+                - link "Endnotes reference number 4" [ref=e190] [cursor=pointer]:
+                  - /url: "#endnote-4"
+                  - text: "4"
+          - generic [ref=e197]:
+            - blockquote [ref=e200]: “AI agents can guide patients through check-ins, explain lab results in everyday language, offer personalized wellness tips, monitor recovery after discharge, and clarify insurance benefits. These interactions are continuous, personalized, and empathetic, bridging gaps between visits and empowering patients.”
+            - generic [ref=e201]: – Agentic AI leader from a technology organization
+          - generic [ref=e206]:
+            - heading "Rethinking care delivery" [level=3] [ref=e207]
+            - paragraph [ref=e208]: Another critical area of focus is reimagining how care is delivered. Insights from our focus group discussions (figure 3) suggest that agentic AI can transform care delivery from manually collating patient data across disparate systems to integrating data across platforms for a unified view. This includes shifting clinical documentation from a static, retrospective record to a dynamic, proactive, and predictive tool.
+            - paragraph [ref=e209]: Key outcomes from rethinking care delivery through agentic AI could include breaking down data silos to enable a more longitudinal, cross-source view of the patient record, closing information gaps, and reducing the risk of errors. Agentic AI could help flag risks earlier and recommend—or, where appropriate, initiate—predefined follow-up actions to help prevent adverse events, reduce readmissions, elevate clinicians’ roles toward direct patient care, support continuity of care, and strengthen patient trust.
+            - paragraph [ref=e210]: "As one health system executive put it: “Agentic AI can unify data into a longitudinal record, enabling better decision-making, proactive follow-up, and reduced readmissions. This is transformative because the system gains agency, moving from a passive data repository to an active participant in care delivery.”"
+            - paragraph [ref=e211]:
+              - text: For instance, Stanford Health Care has piloted an agentic approach that brings personalized real-world evidence into the electronic health record (EHR) at the point of care. Using Stanford’s ChatEHR to interpret the patient record (including details like the visit reason), the agentic tool can proactively generate relevant evidence to inform treatment decisions without requiring the physician to initiate a query. Stanford is also combining this with ambient listening to capture encounter context and further streamline documentation and workflow.
+              - superscript [ref=e212]:
+                - link "Endnotes reference number 5" [ref=e213] [cursor=pointer]:
+                  - /url: "#endnote-5"
+                  - text: "5"
+          - generic [ref=e220]:
+            - blockquote [ref=e223]: “Agentic AI can unify data into a longitudinal record, enabling better decision-making, proactive follow-up, and reduced readmissions. This is transformative because the system gains agency, moving from a passive data repository to an active participant in care delivery.”
+            - generic [ref=e224]: – Health care tech executive from a health system
+          - generic [ref=e229]:
+            - heading "Transforming workforce capability" [level=3] [ref=e230]
+            - paragraph [ref=e231]: As illustrated in figure 3, workforce capability transformation is one of the key areas where agentic AI can drive meaningful impact. Insights from our focus group discussions highlight that agentic AI can help reduce labor-intensive administrative work by efficiently analyzing large quantities of imaging data, identifying patterns and correlations, and associating those findings with patient medical histories.
+            - paragraph [ref=e232]: Key outcomes from rewiring workforce operations through agentic AI can include lowering cognitive overload, reducing burnout and turnover, and improving job satisfaction and accuracy. As one agentic AI leader noted during our focus group discussions, “AI agents can target high-friction touchpoints, enabling faster and more accurate diagnoses, restoring time, clarity, and control to frontline staff, reducing burnout, improving retention, and allowing them to focus on complex decision-making, elevating the quality of care.” This shift can free clinicians and other staff to focus on more complex care and spend more time with patients.
+            - paragraph [ref=e233]:
+              - text: One example is Sentara Health deploying an agentic AI solution to enable virtual nursing capabilities such as ambient documentation, remote consultation, ambient observation, and care management at scale. Within months of deployment, the agentic AI solution has reclaimed thousands of nursing hours across its facilities.
+              - superscript [ref=e234]:
+                - link "Endnotes reference number 6" [ref=e235] [cursor=pointer]:
+                  - /url: "#endnote-6"
+                  - text: "6"
+          - generic [ref=e242]:
+            - blockquote [ref=e245]: “AI agents can target high-friction touchpoints, enabling faster and more accurate diagnoses, restoring time, clarity, and control to frontline staff, reducing burnout, improving retention, and allowing them to focus on complex decision-making, elevating the quality of care.”
+            - generic [ref=e246]: – Agentic AI leader from a technology organization
+          - generic [ref=e248]:
+            - generic [ref=e251]:
+              - heading "Modernizing back-office operations" [level=3] [ref=e252]
+              - paragraph [ref=e253]: Back-office operations are among the earliest and most common areas of focus for agentic AI transformation. Insights from our focus group discussions (figure 3) show how agentic AI can reshape back-office functions from manual and episodic activities to more autonomous, continuous resolutions.
+              - paragraph [ref=e254]: "As one health plan executive from our focus group discussions mentioned: “Agentic AI monitors expiring licenses, verifies credentials against authoritative sources, proactively updates payer databases, and escalates exceptions for human review only when needed. This leads to a shift from static forms to intelligent orchestration, manual checklists to automated verification, and chronic bottlenecks to proactive, self-correcting systems.”"
+              - paragraph [ref=e255]: Key outcomes of transforming back-office operations with agentic AI could include fewer manual handoffs between systems, faster process cycle times, and more robust and resilient operations. Together, these improvements can help enable autonomous follow-through, end-to-end orchestration across systems, and the redeployment of staff to higher-skill work.
+              - paragraph [ref=e256]:
+                - text: For example, Mayo Clinic is deploying and exploring AI agent approaches to streamline provider and payer administrative workflows. These efforts support processes such as eligibility and benefit verification, prior authorization and utilization management, claims-related clinical information exchange, and prescription support.
+                - superscript [ref=e257]:
+                  - link "Endnotes reference number 7" [ref=e258] [cursor=pointer]:
+                    - /url: "#endnote-7"
+                    - text: "7"
+              - heading "Transforming payment processes" [level=3] [ref=e259]
+              - paragraph [ref=e260]:
+                - text: Payment process modernization is a priority area for transformation because payment workflows are inherently complex and multistep—exactly the type of challenge agentic AI is designed to address, according to focus group leaders. Whereas traditional AI is largely focused on analysis rather than decision-making, agentic AI can support and eventually execute sophisticated end-to-end sequences of actions.
+                - superscript [ref=e261]:
+                  - link "Endnotes reference number 8" [ref=e262] [cursor=pointer]:
+                    - /url: "#endnote-8"
+                    - text: "8"
+                - text: This capability enables a shift from manual, potentially error-prone claims processing and reactive corrections to proactive, zero-touch adjudication with built-in denial prevention.
+              - paragraph [ref=e263]: Agentic AI can help reduce error rates and resolve issues faster by enabling real-time problem-solving and proactive claims management. In turn, it can reduce denial rates, accelerate and optimize provider reimbursement, lower days in accounts receivable, and improve both member and staff satisfaction by shifting effort to higher-value work. As one health system tech executive who participated in the focus group discussions said, “Agentic AI can validate codes against payer rules in real time, auto-correct errors, and communicate with payers directly, thereby reducing denials, accelerating claim resolution, and freeing staff to focus on complex cases.”
+              - paragraph [ref=e264]:
+                - generic [ref=e265]:
+                  - text: An example is MUSC Health deploying AI agents to complete 40% of prior authorizations without human involvement, which has helped MUSC significantly reduce manual work.
+                  - superscript [ref=e266]:
+                    - link "Endnotes reference number 9" [ref=e267] [cursor=pointer]:
+                      - /url: "#endnote-9"
+                      - text: "9"
+            - generic [ref=e270]:
+              - heading "Making agentic AI core to health care organizations’ strategies to help maximize impact" [level=2] [ref=e271]
+              - paragraph [ref=e272]: Our survey suggests that both the timing and shape of an organization’s commitment to agentic AI may influence the size of the payoff. To help maximize impact, health care organizations should think holistically about how agentic AI can be implemented to operate systematically at an enterprise level, rather than treating it as a standalone or purely experimental initiative.
+          - generic [ref=e278]:
+            - generic [ref=e280]:
+              - link "Download" [ref=e281] [cursor=pointer]:
+                - /url: /content/dam/insights/articles/2026/us188461_chs-agentic-ai-in-health-care/content-images/US188461_Figure4.png
+                - generic [ref=e282]: 
+              - link "Share infographic" [ref=e283] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e284]: 
+            - text:     
+          - generic [ref=e286]:
+            - generic [ref=e289]:
+              - paragraph [ref=e290]:
+                - text: "Of the survey respondents, the early adopters—those currently implementing agentic AI in operations—are primarily large organizations (with annual revenue greater than US$5 billion) (65%), while the watchers—those waiting for external evidence before investing—are overwhelmingly small and medium organizations (with annual revenue greater than US$500 million but less than US$5 billion) (87%) (figure 4). Size can be a proxy for readiness: Larger health care organizations tend to have stronger data foundations, governance, and change capacity, which can be prerequisites for moving beyond pilots into operational integration."
+                - superscript [ref=e291]:
+                  - link "Endnotes reference number 10" [ref=e292] [cursor=pointer]:
+                    - /url: "#endnote-10"
+                    - text: "10"
+                - text: Smaller organizations may be more constrained, making a “wait and see” approach feel rational. However, survey results suggest that waiting may come with lower expected value.
+              - paragraph [ref=e293]: That dynamic is reinforced by solution strategy. Early adopters are prioritizing multi-agent solutions (82%), while watchers prefer point solutions (92%). Point solutions can generate incremental efficiency in discrete tasks but often don’t redesign end-to-end workflows. Multi-agent systems, by contrast, are built to orchestrate work across functions by coordinating decisions, handoffs, and execution across care and administrative domains, which potentially creates compounding benefits at the system level.
+              - paragraph [ref=e294]: "A telling pattern from our survey is the watcher paradox: even while staying on the sidelines, 100% of watchers expect to increase investment in the next two to three years. Yet only 13% expect more than 20% cost savings in that same timeframe (versus 59% of early adopters). In other words, late movers plan to invest but anticipate less impact, suggesting a catch-up approach in which spending focuses on limited use cases and risk mitigation rather than operating-model transformation."
+              - paragraph [ref=e295]: "Early adopters appear to be forming a reinforcing cycle: greater readiness enables multi-agent bets, which increase confidence in larger savings, which justifies deeper process redesign and faster learning. The competitive implication is that agentic AI could widen performance gaps, with early adopters positioned to capture productivity gains and redeploy them into resilience, experience, and growth, while watchers risk arriving later with a lower return ceiling."
+              - paragraph [ref=e296]: Taken together, the findings provide a basis for prioritizing and sequencing agentic AI initiatives according to organizational size, business complexity, and AI implementation maturity.
+              - paragraph [ref=e297]: "Quick wins: Small, low-effort improvements that can be delivered quickly with existing resources. Examples from our focus group discussions include:"
+              - list [ref=e298]:
+                - listitem [ref=e299]: Automate patient intake with digital forms that pre-populate the EHR and combine that information with ambient scribe inputs to streamline clinical documentation.
+              - list [ref=e300]:
+                - listitem [ref=e301]: Streamline prior authorization and ingest payment documents such as invoice data and denial letters to support claims reconciliation, identify denial drivers, and suggest appeal actions.
+              - paragraph [ref=e302]: "Strategic initiatives: Mid-sized efforts that create reusable building blocks, with benefits that grow as they scale across the system. Examples from our focus group discussions include:"
+              - list [ref=e303]:
+                - listitem [ref=e304]: Unify patient data across systems, such as EHR, claims, and customer relationship management, so agentic AI can synchronize structured information and surface key findings through intelligent prompts to streamline clinical review.
+              - list [ref=e305]:
+                - listitem [ref=e306]: Detect fraud, waste, and abuse by analyzing pre-payment patterns and running continuous compliance surveillance.
+              - paragraph [ref=e307]: "Major undertakings: Complex programs that can fundamentally change how work gets done. These efforts may deliver higher value but typically require time, budget, and strong governance. Examples from our focus group discussions include:"
+              - list [ref=e308]:
+                - listitem [ref=e309]: Forecast patient volumes using real-time clinical signals to optimize staffing and flag safety risks.
+              - list [ref=e310]:
+                - listitem [ref=e311]: Automate end-to-end claims adjudication by validating codes in real time and handling exceptions.
+            - generic [ref=e314]:
+              - heading "A path to impact with agentic AI for health care organizations" [level=2] [ref=e315]
+              - paragraph [ref=e316]: "To help amplify value, health care organizations can embed agentic AI into core operations and, over time, evolve toward an enterprise AI layer that works across transactional systems. Done well, this layer can help connect work across consumer, clinical, back-office, and payment journeys. Key considerations include:"
+              - list [ref=e317]:
+                - listitem [ref=e318]: "Plan for continuous evolution, not a fixed end state: Implementing a coordinated set of agents alongside human teams requires ongoing adjustment. Health care organizations may need to realign clinical handoffs and administrative documentation, reshape communication patterns across customer relationship management and compliance activities, and clarify decision authority and accountability across back-office functions. Creating space to recognize real-time learning and experimentation as meaningful progress—and, ultimately, as a core strategy for reducing organizational risk—is important."
+              - list [ref=e319]:
+                - listitem [ref=e320]: "Prepare the workforce for a new operating model: Empower teams to move from routine processing to oversight, while keeping humans accountable for critical decisions and for validating AI outputs. Organizations can adopt workflow tools or start with pre-structured tasks with clear priorities, flagged urgency, and suggested next steps to help optimize capacity for high-value, patient-facing work."
+              - list [ref=e321]:
+                - listitem [ref=e322]: "Build trust through design and governance: Establish guardrails for decision-making, privacy, data quality, ethics, and transparency. Governance should enable traceability and explainability (understanding who made a decision, what was decided, and why), as well as clear ownership for monitoring performance and responding to model drift and downstream errors. In practice, this can support use cases like health system post-discharge monitoring to improve care continuity and patient experience, and payer prior authorization optimization through closed-loop reporting and root-cause analysis. Over time, durable progress is likely to be defined by safety and reliability, not speed."
+              - paragraph [ref=e323]: Agentic AI is emerging as a practical capability, but organizations still face a choice in how they deploy it. They can either deploy it as tactical point solutions to relieve near-term pressure or as an end-to-end operating model change. That choice will likely shape which health care leaders can reduce costs, stabilize their workforce, and sustain patient trust in the years ahead.
+          - generic [ref=e327]:
+            - heading "Methodology" [level=3] [ref=e328]
+            - generic [ref=e333]:
+              - paragraph [ref=e334]: The Deloitte Center for Health Solutions surveyed 100 health care technology executives in September 2025, including chief technology officers, chief information officers, chief digital officers, chief AI officers, chief innovation officers, and vice presidents responsible for technology, digital, and strategy. Respondents were from 50 large US health systems and 50 health plans, with annual revenues exceeding US$500 million, including multihospital systems, independent hospitals, academic medical centers, and health insurance organizations. The survey explored the current state of agentic AI adoption and implementation in health care.
+              - paragraph [ref=e335]
+              - paragraph [ref=e336]: The center also conducted focus groups with 35 health care technology executives and agentic AI leaders to identify priority opportunities and practical implementation considerations across innovation areas in health care. Findings from the survey and focus groups are directional and reflect the perspectives of participating organizations at the time of data collection.
+        - generic [ref=e341]:
+          - generic [ref=e343]:
+            - heading "Continue the Conversation" [level=3] [ref=e346]
+            - heading "Meet the industry leaders" [level=5] [ref=e349]
+          - generic [ref=e352]:
+            - generic [ref=e354]:
+              - generic [ref=e355]:
+                - generic "Dr. Jay Bhatt" [ref=e358] [cursor=pointer]:
+                  - img "Dr. Jay Bhatt" [ref=e360]
+                - generic [ref=e361]:
+                  - heading "Dr. Jay Bhatt" [level=4] [ref=e362]
+                  - generic [ref=e364]: Managing director, Deloitte Center for Health Solutions | Deloitte Services LP
+              - generic:    
+            - generic [ref=e366]:
+              - generic [ref=e367]:
+                - generic "Bill Fera" [ref=e370] [cursor=pointer]:
+                  - img "Bill Fera" [ref=e372]
+                - generic [ref=e373]:
+                  - heading "Bill Fera" [level=4] [ref=e374]
+                  - generic [ref=e376]: Principal | Deloitte Consulting LLP
+              - generic:    
+        - generic [ref=e382]:
+          - generic [ref=e387]:
+            - heading "BY" [level=3] [ref=e392]
+            - generic [ref=e394]:
+              - generic [ref=e395]:
+                - generic [ref=e397]:
+                  - generic [ref=e399]:
+                    - heading "Jerry Bruno" [level=4] [ref=e400]
+                    - generic [ref=e402]: United States
+                  - generic:  
+                - generic [ref=e404]:
+                  - generic [ref=e406]:
+                    - heading "Bill Fera" [level=4] [ref=e407]
+                    - generic [ref=e409]: United States
+                  - generic:    
+              - generic [ref=e410]:
+                - generic [ref=e412]:
+                  - generic [ref=e414]:
+                    - heading "Jeanette Yung" [level=4] [ref=e415]
+                    - generic [ref=e417]: United States
+                  - generic:  
+                - generic [ref=e419]:
+                  - generic [ref=e421]:
+                    - heading "Michael McCallen" [level=4] [ref=e422]
+                    - generic [ref=e424]: United States
+                  - generic:    
+              - generic [ref=e425]:
+                - generic [ref=e427]:
+                  - generic [ref=e429]:
+                    - heading "Dr. Jay Bhatt" [level=4] [ref=e430]
+                    - generic [ref=e432]: United States
+                  - generic:    
+                - generic [ref=e434]:
+                  - generic [ref=e436]:
+                    - heading "Maulesh Shukla" [level=4] [ref=e437]
+                    - generic [ref=e439]: India
+                  - generic:   
+          - list [ref=e445]:
+            - listitem [ref=e446]:
+              - button "Share" [ref=e447] [cursor=pointer]: 
+              - text:   
+            - listitem [ref=e448]:
+              - link "Print" [ref=e449] [cursor=pointer]:
+                - /url: javascript:window.print();
+                - generic [ref=e450]: 
+        - generic [ref=e454]:
+          - heading "Endnotes " [level=3] [ref=e460]:
+            - text: Endnotes
+            - generic [ref=e461]: 
+          - heading "Acknowledgments " [level=3] [ref=e467]:
+            - text: Acknowledgments
+            - generic [ref=e468]: 
+          - heading "Copyright " [level=3] [ref=e474]:
+            - text: Copyright
+            - generic [ref=e475]: 
+        - generic [ref=e483]:
+          - heading "Visit the Deloitte Center for Health Solutions" [level=4] [ref=e486]
+          - link "get more insights" [ref=e490] [cursor=pointer]:
+            - /url: /us/en/insights/research-centers/center-for-health-solutions.html.html?icid=get-more-insights_click
+          - paragraph [ref=e496]: Access more insights for the hospital, health system and provider, pharmaceutical manufacturer, health plan and payer, medtech, and health tech organization sectors.
+        - generic [ref=e503]:
+          - heading "Related Content" [level=3] [ref=e508]
+          - generic [ref=e510]:
+            - generic [ref=e511]:
+              - link "How does AI improve healthy aging and healthcare access? Health care staffing is struggling with pace with demand. AI solutions for scheduling, follow-up care and more could help. Podcast" [ref=e515] [cursor=pointer]:
+                - /url: /us/en/insights/multimedia/podcasts/ai-to-improve-health-care-access.html
+                - generic [ref=e520]:
+                  - heading "How does AI improve healthy aging and healthcare access?" [level=3] [ref=e521]
+                  - paragraph [ref=e523]: Health care staffing is struggling with pace with demand. AI solutions for scheduling, follow-up care and more could help.
+                  - generic [ref=e524]: Podcast
+              - link "Connected care is here. How can medtech help move the industry forward? Discover how medtech innovations can transform connected care and tackle health care provider challenges. Article • 12-min read" [ref=e529] [cursor=pointer]:
+                - /url: /us/en/insights/industry/health-care/medtech-connected-care-innovation.html
+                - generic [ref=e534]:
+                  - heading "Connected care is here. How can medtech help move the industry forward?" [level=3] [ref=e535]
+                  - paragraph [ref=e537]: Discover how medtech innovations can transform connected care and tackle health care provider challenges.
+                  - generic [ref=e538]:
+                    - generic [ref=e539]: Article
+                    - generic [ref=e540]: •
+                    - generic [ref=e541]: 12-min read
+            - generic [ref=e542]:
+              - link "Digital talent acquisition is only half the battle on medtech’s path to digital maturity To up their digital innovation game, medtech companies need to develop a holistic workforce development strategy. Article • 3-min read" [ref=e546] [cursor=pointer]:
+                - /url: /us/en/insights/industry/health-care/medtech-digital-innovation-race-for-talent.html
+                - generic [ref=e551]:
+                  - heading "Digital talent acquisition is only half the battle on medtech’s path to digital maturity" [level=3] [ref=e552]
+                  - paragraph [ref=e554]: To up their digital innovation game, medtech companies need to develop a holistic workforce development strategy.
+                  - generic [ref=e555]:
+                    - generic [ref=e556]: Article
+                    - generic [ref=e557]: •
+                    - generic [ref=e558]: 3-min read
+              - link "Has medtech entered the era of digital innovation? How medtech companies are employing digital technologies to grow, innovate, and develop a competitive edge. Article • 12-min read" [ref=e562] [cursor=pointer]:
+                - /url: /us/en/insights/industry/health-care/future-of-medtech-digital-business-models.html
+                - generic [ref=e567]:
+                  - heading "Has medtech entered the era of digital innovation?" [level=3] [ref=e568]
+                  - paragraph [ref=e570]: How medtech companies are employing digital technologies to grow, innovate, and develop a competitive edge.
+                  - generic [ref=e571]:
+                    - generic [ref=e572]: Article
+                    - generic [ref=e573]: •
+                    - generic [ref=e574]: 12-min read
+    - contentinfo "Footer" [ref=e585]:
+      - generic [ref=e590]:
+        - generic [ref=e591]:
+          - paragraph [ref=e594]: Deloitte Insights and our research centers deliver proprietary research designed to help organizations turn their aspirations into action.
+          - list [ref=e600]:
+            - listitem [ref=e601]:
+              - link "Follow us on facebook-feb14" [ref=e602] [cursor=pointer]:
+                - /url: https://www.facebook.com/DeloitteUS/
+                - generic [ref=e603]: 
+            - listitem [ref=e604]:
+              - link "Follow us on x" [ref=e605] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/deloitte-insights
+                - generic [ref=e606]: 
+            - listitem [ref=e607]:
+              - link "Follow us on twitter" [ref=e608] [cursor=pointer]:
+                - /url: https://www.x.com/DeloitteInsight
+                - generic [ref=e609]: 
+            - listitem [ref=e610]:
+              - link "Follow us on youtube" [ref=e611] [cursor=pointer]:
+                - /url: https://www.youtube.com/@DeloitteInsights
+                - generic [ref=e612]: 
+        - generic [ref=e613]:
+          - heading "DELOITTE INSIGHTS" [level=4] [ref=e614]
+          - list [ref=e615]:
+            - listitem [ref=e616]:
+              - link "Home" [ref=e617] [cursor=pointer]:
+                - /url: /us/en/insights.html?icid=dibottom_insights
+            - listitem [ref=e618]:
+              - link "Deloitte Insights Magazine" [ref=e619] [cursor=pointer]:
+                - /url: /us/en/insights/deloitte-insights-magazine.html?icid=dibottom_deloitte-insights-magazine
+            - listitem [ref=e620]:
+              - link "Top 10 Reading Guide" [ref=e621] [cursor=pointer]:
+                - /url: /us/en/insights/top-10-business-insights.html?icid=dibottom_top-10-business-insights
+            - listitem [ref=e622]:
+              - link "Weekly Global Economic Outlook" [ref=e623] [cursor=pointer]:
+                - /url: /us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?icid=dibottom_weekly-update
+            - listitem [ref=e624]:
+              - link "About Deloitte Insights" [ref=e625] [cursor=pointer]:
+                - /url: /us/en/insights/about/about-deloitte-insights.html?icid=dibottom_about-deloitte-insights
+        - generic [ref=e626]:
+          - heading "DELOITTE RESEARCH CENTERS" [level=4] [ref=e627]
+          - list [ref=e628]:
+            - listitem [ref=e629]:
+              - link "Cross-Industry" [ref=e630] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/center-for-integrated-research.html?icid=dibottom_center-for-integrated-research
+            - listitem [ref=e631]:
+              - link "Economics" [ref=e632] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/economics.html?icid=dibottom_economics
+            - listitem [ref=e633]:
+              - link "Consumer" [ref=e634] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/consumer-industry-center.html?icid=dibottom_consumer-industry-center
+            - listitem [ref=e635]:
+              - link "Energy & Industrials" [ref=e636] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/center-energy-industrials.html?icid=dibottom_center-energy-industrials
+            - listitem [ref=e637]:
+              - link "Financial Services" [ref=e638] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/center-for-financial-services.html?icid=dibottom_center-for-financial-services
+            - listitem [ref=e639]:
+              - link "Government & Public Services" [ref=e640] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/center-for-government-insights.html?icid=dibottom_center-for-government-insights
+            - listitem [ref=e641]:
+              - link "Life Sciences & Health Care" [ref=e642] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/center-for-health-solutions.html?icid=dibottom_center-for-health-solutions
+            - listitem [ref=e643]:
+              - link "Tech, Media & Telecom" [ref=e644] [cursor=pointer]:
+                - /url: /us/en/insights/research-centers/center-for-technology-media-telecommunications.html?icid=dibottom_center-for-technology-media-telecommunications
+        - generic [ref=e645]:
+          - link "Deloitte logo " [ref=e648] [cursor=pointer]:
+            - /url: /us/en.html
+            - img "Deloitte logo" [ref=e649]
+            - generic [ref=e650]: 
+          - generic [ref=e653]:
+            - paragraph [ref=e654]: Learn about Deloitte’s offerings, people, and culture as a global provider of audit, assurance, consulting, financial advisory, risk advisory, tax, and related services.
+            - paragraph [ref=e655]:
+              - text: © 2026. See
+              - link "Terms of Use" [ref=e656] [cursor=pointer]:
+                - /url: https://www2.deloitte.com/us/en/legal/legal.html
+              - text: for more information.
+            - paragraph [ref=e657]:
+              - text: Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee ("DTTL"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as "Deloitte Global") does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the "Deloitte" name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see
+              - link "www.deloitte.com/about" [ref=e658] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/about/governance/network-brand-alliances/about-the-network.html
+              - text: to learn more about our global network of member firms.
+      - list [ref=e664]:
+        - listitem [ref=e665]:
+          - link "Terms of Use" [ref=e666] [cursor=pointer]:
+            - /url: /us/en/legal/legal.html?icid=dibottom_legal
+        - listitem [ref=e667]:
+          - link "Privacy" [ref=e668] [cursor=pointer]:
+            - /url: /us/en/legal/privacy/privacy-index.html?icid=dibottom_privacy-index
+        - listitem [ref=e669]:
+          - link "Data Privacy Framework" [ref=e670] [cursor=pointer]:
+            - /url: /us/en/legal/privacy/data-privacy-framework.html?icid=dibottom_data-privacy-framework
+        - listitem [ref=e671]:
+          - link "Cookie Notice" [ref=e672] [cursor=pointer]:
+            - /url: https://cookienotice.deloitte.com/?icid=dibottom_https://cookienotice.deloitte.com/
+        - listitem [ref=e673]:
+          - link "Cookie Settings" [ref=e674] [cursor=pointer]:
+            - /url: javascript:void(0);
+        - listitem [ref=e675]:
+          - link "Legal Information for Job Seekers" [ref=e676] [cursor=pointer]:
+            - /url: /us/en/legal/join-deloitte-legal-information-for-job-seekers.html?icid=dibottom_join-deloitte-legal-information-for-job-seekers
+        - listitem [ref=e677]:
+          - link "Labor Condition Applications" [ref=e678] [cursor=pointer]:
+            - /url: /us/en/about/content/labor-condition-applications.html?icid=dibottom_labor-condition-applications
+        - listitem [ref=e679]:
+          - link "Do Not Sell or Share My Personal Information" [ref=e680] [cursor=pointer]:
+            - /url: /us/en/legal/privacy/do-not-sell-my-personal-information.html?icid=dibottom_do-not-sell-my-personal-information
+  - dialog "Here’s how we use cookies" [ref=e683]:
+    - generic [ref=e684]:
+      - generic [ref=e685]:
+        - generic:
+          - heading "Here’s how we use cookies" [level=2] [ref=e686]
+          - generic [ref=e687]:
+            - text: Deloitte uses strictly necessary cookies and similar technologies to operate this website and to provide you with a more personalized user experience. In addition to strictly necessary cookies, Deloitte uses optional cookies to enhance and personalize your experience, analyze site usage and traffic sources to understand how visitors engage with our website, deliver relevant content or advertisements, and facilitate data sharing with analytics and advertising providers. When you arrived at this website, Deloitte may have placed strictly necessary cookies and optional analytics cookies on your device. By clicking "Accept all optional cookies", you agree to the placement of optional cookies on your device. You can manage your cookie preferences or withdraw your consent to the use of optional cookies at any time by clicking "Tailor your cookie preferences". If you disable and withdraw your consent to the use of optional analytics cookies, Deloitte will not continue to receive data from the optional analytics cookies placed when you arrived at the website. Depending on your selected cookie preferences, the full functionality or personalized user experience of this website may not be available. Learn more by visiting
+            - link "Deloitte’s cookie notice, opens in a new tab" [active] [ref=e688] [cursor=pointer]:
+              - /url: https://cookienotice.deloitte.com
+              - text: Deloitte's Cookie Notice.
+      - generic [ref=e690]:
+        - generic [ref=e691]:
+          - button "Accept all optional cookies" [ref=e692] [cursor=pointer]
+          - button "Decline all optional cookies" [ref=e693] [cursor=pointer]
+        - button "Tailor your cookie preferences, Opens the preference center dialog" [ref=e694] [cursor=pointer]: Tailor your cookie preferences

@@ -1,0 +1,7 @@
+[    2422ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.ama-assn.org/practicing-medicine/digital-health:0
+[    3631ms] [LOG] _tA:  {sfmc_pers_data: true} {site_events: Object, sfmc_id: 8daa27db972b854a, sfmc_page_type: default, sfmc_available_zones: join_button, product_navigation, body, main_nav_bar, personalization_displayed: true} @ https://www.ama-assn.org/practicing-medicine/digital-health:35
+[    3746ms] [LOG] Push notifications powered by Aimtell. Learn more at https://aimtell.com/developers @ https://www.ama-assn.org/practicing-medicine/digital-health:35
+[    4780ms] [LOG] _tA:  {quantum_metric_ids: true} {site_events: Object, qm_session_id: 8fbaecdb5bf84d4bb16debd50af87890, qm_user_id: 5e8abe8a94c801112e345ecda5efc837} @ https://www.ama-assn.org/practicing-medicine/digital-health:35
+[    6429ms] [LOG] _tA:  {aimtell_ready: true} {site_events: Object} @ https://www.ama-assn.org/practicing-medicine/digital-health:35
+[    6435ms] [LOG] _tA:  {aimtell_pv: true} {site_events: Object, aimtell_counter_name: member_benefits, aimtell_action: member benefits, aimtell_label: general} @ https://www.ama-assn.org/practicing-medicine/digital-health:35
+[    6439ms] [LOG] _tA:  {aimtell_pv: true} {site_events: Object, aimtell_counter_name: pm_allpages, aimtell_action: all pages, aimtell_label: } @ https://www.ama-assn.org/practicing-medicine/digital-health:35

@@ -1,0 +1,16 @@
+[     735ms] [LOG] Current URL: https://www.combinehealth.ai/blog/agentic-ai-in-healthcare @ https://www.combinehealth.ai/_next/static/chunks/5491-5feea5cddbfae57a.js:0
+[     735ms] [LOG] Extracted endpoint path: agentic-ai-in-healthcare @ https://www.combinehealth.ai/_next/static/chunks/5491-5feea5cddbfae57a.js:0
+[     735ms] [LOG] Contact type set to: ContactUS @ https://www.combinehealth.ai/_next/static/chunks/5491-5feea5cddbfae57a.js:0
+[     833ms] [ERROR] Access to fetch at 'https://api.instantly.ai/api/v1/website-visitors/test' from origin 'https://www.combinehealth.ai' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1300
+[     834ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.instantly.ai/api/v1/website-visitors/test:0
+[     834ms] [ERROR] > error: TypeError: Failed to fetch
+    at t (https://r2.leadsy.ai/tag.js:1:339)
+    at https://r2.leadsy.ai/tag.js:1:835
+    at https://r2.leadsy.ai/tag.js:1:993 @ https://www.combinehealth.ai/_next/static/chunks/2117-1a35776e88d9f180.js:0
+[     862ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at HTMLDocument.<anonymous> (https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1177:17)
+[     862ms] [LOG] Setting up pagination handlers for page:  @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1195
+[     863ms] [LOG] Total unique pagination links found: 0 @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1218
+[     863ms] [LOG] No pagination links found on this page @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1261
+[     863ms] [LOG] All links on page: 87 @ https://www.combinehealth.ai/blog/agentic-ai-in-healthcare:1266
+[    1580ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=663a118c9bd55707e4eb8d64:0

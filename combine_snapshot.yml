@@ -1,0 +1,787 @@
+- generic [active] [ref=f11e1] [box=0,0,1021,26018]:
+  - generic [ref=f11e2] [box=0,0,1021,26018]:
+    - generic [ref=f11e735] [box=609,348,380,324]:
+      - generic [ref=f11e736] [box=633,372,332,32]:
+        - heading "We value your privacy" [level=3] [ref=f11e746] [box=677,373,196,30]
+        - button "Close cookie consent" [ref=f11e747] [cursor=pointer] [box=933,372,32,32]
+      - paragraph [ref=f11e751] [box=633,420,332,114]: This website uses cookies or similar technologies, to enhance your browsing experience and provide personalised recommendations. By clicking "Accept", you consent to our use of cookies.
+      - button "Customise" [ref=f11e753] [cursor=pointer] [box=633,558,94,20]
+      - generic [ref=f11e758] [box=633,602,332,46]:
+        - button "Accept" [ref=f11e759] [cursor=pointer] [box=633,602,157,46]
+        - button "Decline" [ref=f11e760] [cursor=pointer] [box=806,602,159,46]
+    - navigation [box=0,0,1021,117]:
+      - generic [box=0,0,1021,117]:
+        - link "CombineHealth AI Outperforms Expert Coders Across 1,000 Emergency Department Charts - Learn more" [ref=f11e4] [cursor=pointer] [box=184,4,652,20]:
+          - /url: /resources/customer-success-stories/case-study/ai-matched-expert-coders
+        - navigation [ref=f11e7] [box=33,40,955,66]:
+          - link [ref=f11e8] [cursor=pointer] [box=54,55,159,36]:
+            - /url: /
+            - img "CombineHealth - AI-Powered Medical Coding Solutions" [ref=f11e9] [box=54,63,159,20]
+          - generic [ref=f11e10] [box=235,57,561,32]:
+            - button "Solutions" [ref=f11e12] [cursor=pointer] [box=235,57,109,32]
+            - button "Who We Serve" [ref=f11e17] [cursor=pointer] [box=348,57,146,32]
+            - button "About Us" [ref=f11e22] [cursor=pointer] [box=498,57,111,32]
+            - link "Blogs" [ref=f11e26] [cursor=pointer] [box=613,57,64,32]:
+              - /url: /blog
+            - button "Resources" [ref=f11e29] [cursor=pointer] [box=680,57,116,32]
+          - link "Request a Demo" [ref=f11e34] [cursor=pointer] [box=818,54,149,37]:
+            - /url: /demo
+    - main [ref=f11e36] [box=0,100,1021,25079]:
+      - generic [ref=f11e39] [box=0,164,1021,22593]:
+        - generic [ref=f11e40] [box=102,164,817,21957]:
+          - generic [ref=f11e41] [box=102,164,524,21957]:
+            - generic [ref=f11e42] [box=102,164,524,40]:
+              - generic [ref=f11e43] [box=102,164,114,40]:
+                - link "Home" [ref=f11e44] [cursor=pointer] [box=102,166,43,17]:
+                  - /url: https://www.combinehealth.ai/
+                - text: ">"
+                - link "Blog" [ref=f11e45] [cursor=pointer] [box=168,166,33,17]:
+                  - /url: https://www.combinehealth.ai/blog
+                - text: ">"
+              - generic [ref=f11e46] [box=216,164,410,40]: "Agentic AI in Healthcare: Evolution, Challenges, and Real-World Use Cases"
+            - 'heading "Agentic AI in Healthcare: Evolution, Challenges, and Real-World Use Cases" [level=1] [ref=f11e47] [box=102,224,524,132]'
+            - paragraph [ref=f11e48] [box=102,366,524,62]: Explore how agentic AI in healthcare automates workflows, improves care, reduces delays, and helps teams scale amid growing data and workforce shortages.
+            - generic [ref=f11e50] [box=102,462,194,30]:
+              - paragraph [ref=f11e51] [box=102,462,100,20]: "Published on:"
+              - paragraph [ref=f11e52] [box=202,462,94,20]: April 16, 2026
+            - link "Deepali Kishtwal Deepali leads editorial strategy at CombineHealth AI, crafting expert-led content on healthcare revenue cycle management that addresses real challenges health leaders face. She combines strategy, research, and storytelling to make healthcare RCM topics accessible and relevant." [ref=f11e55] [cursor=pointer] [box=102,944,524,168]:
+              - /url: /author/deepali-kishtwal
+              - generic [ref=f11e58] [box=200,944,426,168]:
+                - generic [ref=f11e59] [box=200,944,426,20]: Deepali Kishtwal
+                - generic [ref=f11e60] [box=200,972,426,100]: Deepali leads editorial strategy at CombineHealth AI, crafting expert-led content on healthcare revenue cycle management that addresses real challenges health leaders face. She combines strategy, research, and storytelling to make healthcare RCM topics accessible and relevant.
+            - generic [ref=f11e61] [box=102,1112,524,21010]:
+              - blockquote [ref=f11e62] [box=102,1136,524,494]:
+                - strong [ref=f11e63] [box=130,1151,144,22]: "Key Takeaways:"
+                - strong [ref=f11e64] [box=130,1195,11,22]:
+                  - emphasis [ref=f11e65] [box=130,1195,11,22]: •
+                - text: Healthcare workflows are breaking under scale—more data, fewer people, and growing operational complexity.
+                - strong [ref=f11e66] [box=130,1283,11,22]:
+                  - emphasis [ref=f11e67] [box=130,1283,11,22]: •
+                - text: Agentic AI in healthcare shifts from assisting tasks to owning end-to-end workflows across clinical and administrative functions.
+                - strong [ref=f11e68] [box=130,1371,11,22]:
+                  - emphasis [ref=f11e69] [box=130,1371,11,22]: •
+                - text: It enables real-time decision-making by combining data, planning actions, and adapting continuously.
+                - strong [ref=f11e70] [box=130,1459,11,22]:
+                  - emphasis [ref=f11e71] [box=130,1459,11,22]: •
+                - text: Use cases of agentic AI in healthcare span diagnostics, patient care, engagement, RCM, research, and even surgery.
+                - strong [ref=f11e72] [box=130,1547,11,22]:
+                  - emphasis [ref=f11e73] [box=130,1547,11,22]: •
+                - text: AI Adoption barriers are easing today, with healthcare systems actively investing in agentic AI for measurable outcomes.
+              - paragraph [ref=f11e74] [box=102,1654,524,60]: A patient encounter might be over, but the real grind begins after that.
+              - paragraph [ref=f11e75] [box=102,1738,524,150]: Behind every encounter is a chain of tasks—coding, billing, validation, submission, follow-ups—each tied to different rules, systems, and stakeholders. What looks like a single interaction on the surface is actually a multi-step operational process running in the background.
+              - paragraph [ref=f11e76] [box=102,1911,524,90]: At a small scale, manual intervention may work. But at large scale at which a health system typically operates in, it’s bound to break.
+              - paragraph [ref=f11e77] [box=102,2025,524,150]:
+                - text: Clinical data, imaging, claims, documentation—everything is growing faster than teams can process it. And at the same time, the system is running out of people. By 2030, healthcare is projected to face a
+                - link "shortfall of 18 million workers" [ref=f11e78] [cursor=pointer] [box=102,2119,465,52]:
+                  - /url: https://www.elgaronline.com/edcollchap/book/9781800886254/book-part-9781800886254-12.xml
+                - text: globally.
+              - paragraph [ref=f11e79] [box=102,2198,524,120]: When there aren’t enough people to keep up, the entire system slows down. Tasks get delayed, errors compound, and teams spend more time fixing issues than moving work forward.
+              - paragraph [ref=f11e80] [box=102,2342,524,120]:
+                - text: This is exactly where agentic AI becomes relevant in healthcare. And we’ll break down what
+                - strong [ref=f11e81] [box=102,2376,460,52]: agentic AI in healthcare
+                - text: actually means, how it differs from traditional and generative AI, and where it’s already being applied.
+              - generic [ref=f11e82] [box=102,2486,524,300]:
+                - heading "On this page" [level=2] [ref=f11e83] [box=130,2538,472,26]
+                - list [ref=f11e84] [box=130,2580,472,901]:
+                  - listitem [ref=f11e85] [box=154,2580,448,56]:
+                    - link "What is Agentic AI?" [ref=f11e86] [cursor=pointer] [box=154,2585,149,19]:
+                      - /url: "#what-is-agentic-ai"
+                    - list [ref=f11e87] [box=154,2608,448,28]
+                  - listitem [ref=f11e90] [box=154,2636,448,253]:
+                    - link "Evolution of AI in the Medical Sector" [ref=f11e91] [cursor=pointer] [box=154,2642,274,19]:
+                      - /url: "#evolution-of-ai-in-the-medical-sector"
+                    - list [ref=f11e92] [box=154,2664,448,225]
+                  - listitem [ref=f11e101] [box=154,2889,448,141]:
+                    - link "Core Features of Agentic AI in Healthcare" [ref=f11e102] [cursor=pointer] [box=154,2895,312,19]:
+                      - /url: "#core-features-of-agentic-ai-in-healthcare"
+                    - list [ref=f11e103] [box=154,2918,448,113]
+                  - listitem [ref=f11e112] [box=154,3030,448,197]:
+                    - link "Agentic AI Use Cases in Healthcare" [ref=f11e113] [cursor=pointer] [box=154,3036,265,19]:
+                      - /url: "#agentic-ai-use-cases-in-healthcare"
+                    - list [ref=f11e114] [box=154,3058,448,169]
+                  - listitem [ref=f11e127] [box=154,3227,448,28]:
+                    - link "Implementation Challenges of Agentic AI in Healthcare" [ref=f11e128] [cursor=pointer] [box=154,3233,421,19]:
+                      - /url: "#implementation-challenges-of-agentic-ai-in-healthcare"
+                  - listitem [ref=f11e129] [box=154,3255,448,141]:
+                    - link "The Barriers to AI in Healthcare Are Now Shifting!" [ref=f11e130] [cursor=pointer] [box=154,3261,373,19]:
+                      - /url: "#the-barriers-to-ai-in-healthcare-are-now-shifting"
+                    - list [ref=f11e131] [box=154,3283,448,113]
+                  - listitem [ref=f11e140] [box=154,3396,448,56]:
+                    - link "Start Applying Agentic AI in Your Healthcare RCM Workflows!" [ref=f11e141] [cursor=pointer] [box=154,3402,377,47]:
+                      - /url: "#start-applying-agentic-ai-in-your-healthcare-rcm-workflows"
+                  - listitem [ref=f11e142] [box=154,3452,448,28]:
+                    - link "FAQs" [ref=f11e143] [cursor=pointer] [box=154,3458,40,19]:
+                      - /url: "#faqs"
+                - button "Expand table of contents" [ref=f11e144] [cursor=pointer] [box=350,2746,32,32]
+              - heading "What is Agentic AI?" [level=2] [ref=f11e147] [box=102,2818,524,39]
+              - paragraph [ref=f11e148] [box=102,2873,524,120]: Agentic AI represents a shift from “reactive” assistants (like standard chatbots) to “proactive” partners that can set goals, plan multi-step actions, and execute them with minimal human oversight.
+              - paragraph [ref=f11e149] [box=102,3016,524,60]: Instead of waiting for instructions, these systems operate with intent.
+              - paragraph [ref=f11e150] [box=102,3100,524,90]: You define the outcome, and the AI determines how to get there—breaking the task into steps, making decisions along the way, and adapting as conditions change.
+              - heading "Agentic AI vs. Generative AI in Healthcare" [level=3] [ref=f11e151] [box=102,3214,524,34]
+              - paragraph [ref=f11e152] [box=102,3260,524,150]: Unlike traditional and generative AI, which primarily respond to prompts or support discrete decisions, agentic AI can plan and sequence tasks, adapt to changing conditions, and coordinate across systems and people to deliver outcomes.
+              - paragraph [ref=f11e153] [box=102,3433,524,60]: "Generative AI has already made a visible impact in healthcare with its ability to:"
+              - list [ref=f11e154] [box=102,3517,524,145]:
+                - listitem [ref=f11e155] [box=126,3517,500,28]:
+                  - text: Summarize
+                  - link "clinical notes" [ref=f11e156] [cursor=pointer] [box=232,3520,114,22]:
+                    - /url: https://www.combinehealth.ai/blog/clinical-documentation-improvement-software
+                - listitem [ref=f11e157] [box=126,3553,500,28]: Draft prior authorization letters
+                - listitem [ref=f11e158] [box=126,3589,500,28]: Assist with documentation
+                - listitem [ref=f11e159] [box=126,3625,500,28]: Answer patient or staff queries
+              - paragraph [ref=f11e160] [box=102,3686,524,90]:
+                - text: But its role is still largely
+                - strong [ref=f11e161] [box=318,3690,193,22]: assistive and reactive
+                - text: . It produces outputs when asked, but it doesn’t take action beyond that.
+              - paragraph [ref=f11e162] [box=102,3799,524,60]: Agentic AI builds on these capabilities and extends them into execution.
+              - paragraph [ref=f11e163] [box=102,3883,524,60]: "At a high level, the difference between Generative AI and Agentic AI comes down to this:"
+              - table [ref=f11e165] [box=102,3991,524,478]:
+                - rowgroup [ref=f11e166] [box=102,3991,524,477]:
+                  - row "Generative AI Agentic AI" [ref=f11e167] [box=102,3991,524,54]:
+                    - cell "Generative AI" [ref=f11e168] [box=102,3991,245,54]
+                    - cell "Agentic AI" [ref=f11e171] [box=347,3991,279,54]
+                  - row "Responds to prompts Acts toward goals" [ref=f11e174] [box=102,4045,524,55]:
+                    - cell "Responds to prompts" [ref=f11e175] [box=102,4045,245,55]
+                    - cell "Acts toward goals" [ref=f11e177] [box=347,4045,279,55]
+                  - row "Generates content (text, code, summaries) Plans and executes workflows" [ref=f11e179] [box=102,4100,524,85]:
+                    - cell "Generates content (text, code, summaries)" [ref=f11e180] [box=102,4100,245,85]
+                    - cell "Plans and executes workflows" [ref=f11e182] [box=347,4100,279,85]
+                  - row "Single-step outputs(e.g., structured report generation) Multi-step task orchestration via zero/few-shot learning" [ref=f11e184] [box=102,4185,524,115]:
+                    - cell "Single-step outputs(e.g., structured report generation)" [ref=f11e185] [box=102,4185,245,115]
+                    - cell "Multi-step task orchestration via zero/few-shot learning" [ref=f11e187] [box=347,4185,279,115]
+                  - row "Human-driven Semi or fully autonomous" [ref=f11e189] [box=102,4299,524,55]:
+                    - cell "Human-driven" [ref=f11e190] [box=102,4299,245,55]
+                    - cell "Semi or fully autonomous" [ref=f11e192] [box=347,4299,279,55]
+                  - row "Limited standalone tools Dynamically calls external APIs, knowledge bases, and DL models" [ref=f11e194] [box=102,4354,524,115]:
+                    - cell "Limited standalone tools" [ref=f11e195] [box=102,4354,245,115]
+                    - cell "Dynamically calls external APIs, knowledge bases, and DL models" [ref=f11e197] [box=347,4354,279,115]
+              - heading "Evolution of AI in the Medical Sector" [level=2] [ref=f11e199] [box=102,4521,524,78]
+              - 'heading "1. Rule-Based Systems (1970s): The First Step Toward Automation" [level=3] [ref=f11e200] [box=102,4623,524,67]'
+              - paragraph [ref=f11e201] [box=102,4702,524,60]:
+                - text: Early healthcare AI systems like
+                - strong [ref=f11e202] [box=382,4706,60,22]: MYCIN
+                - text: ","
+                - strong [ref=f11e203] [box=450,4706,109,22]: INTERNIST-1
+                - text: ", and"
+                - strong [ref=f11e204] [box=102,4736,71,22]: DXplain
+                - text: were built on strict rule-based logic.
+              - paragraph [ref=f11e205] [box=102,4786,524,30]: "They worked on simple “if-this-then-that” principles:"
+              - list [ref=f11e206] [box=102,4840,524,72]:
+                - listitem [ref=f11e207] [box=126,4840,500,28]: If symptom A + symptom B → suggest diagnosis X
+                - listitem [ref=f11e208] [box=126,4876,500,28]: If condition Y → recommend treatment Z
+              - paragraph [ref=f11e209] [box=102,4936,524,90]: These systems were groundbreaking for their time and showed that medical reasoning could be partially encoded into machines.
+              - paragraph [ref=f11e210] [box=102,5050,524,60]:
+                - text: "But they had a major limitation:"
+                - strong [ref=f11e211] [box=102,5054,504,52]: They couldn’t scale with the complexity of real-world medicine.
+              - paragraph [ref=f11e212] [box=102,5134,524,90]: As medical knowledge grew, maintaining and updating thousands of rules became impractical. They also lacked the ability to learn from new data or adapt to edge cases.
+              - 'heading "2. Data-Driven Approaches (Late 1990s): Learning from Data" [level=3] [ref=f11e213] [box=102,5247,524,67]'
+              - paragraph [ref=f11e214] [box=102,5327,524,90]: As healthcare data became more digital and computing power improved AI took a different approach. Instead of relying on rules, it started learning from data.
+              - paragraph [ref=f11e215] [box=102,5440,524,30]: "Machine learning models could now:"
+              - list [ref=f11e216] [box=102,5494,524,108]:
+                - listitem [ref=f11e217] [box=126,5494,500,28]: Identify patterns across large datasets
+                - listitem [ref=f11e218] [box=126,5530,500,28]: Improve predictions over time
+                - listitem [ref=f11e219] [box=126,5566,500,28]: Handle variability better than static systems
+              - paragraph [ref=f11e220] [box=102,5627,524,30]: "This unlocked new use cases like:"
+              - list [ref=f11e221] [box=102,5681,524,108]:
+                - listitem [ref=f11e222] [box=126,5681,500,28]: Predicting patient risk
+                - listitem [ref=f11e223] [box=126,5717,500,28]: Supporting clinical decisions
+                - listitem [ref=f11e224] [box=126,5753,500,28]: Automating parts of administrative workflows
+              - paragraph [ref=f11e225] [box=102,5813,524,60]:
+                - text: However, these systems were still largely
+                - strong [ref=f11e226] [box=102,5817,515,52]: narrow and task-specific
+                - text: .
+              - figure [ref=f11e227] [box=102,5897,524,48]
+              - 'heading "3. Deep Learning (2000s–2010s): Breakthroughs in Perception" [level=3] [ref=f11e228] [box=102,5969,524,67]'
+              - paragraph [ref=f11e229] [box=102,6048,524,30]: Then came deep learning.
+              - paragraph [ref=f11e230] [box=102,6102,524,90]:
+                - text: With techniques like
+                - strong [ref=f11e231] [box=102,6106,468,52]: Convolutional Neural Networks (CNNs)
+                - text: ", AI became incredibly good at interpreting complex data, especially images."
+              - paragraph [ref=f11e232] [box=102,6216,524,60]: "That changed everything for fields like radiology and diagnostics. AI could now:"
+              - list [ref=f11e233] [box=102,6299,524,108]:
+                - listitem [ref=f11e234] [box=126,6299,500,28]: Detect tumors in radiology scans
+                - listitem [ref=f11e235] [box=126,6336,500,28]: Identify diabetic retinopathy from eye images
+                - listitem [ref=f11e236] [box=126,6372,500,28]: Segment organs and abnormalities with high precision
+              - paragraph [ref=f11e237] [box=102,6432,524,60]: For the first time, AI could match (or even exceed) human performance in certain diagnostic tasks.
+              - paragraph [ref=f11e238] [box=102,6516,524,30]:
+                - text: But even here, AI remained
+                - strong [ref=f11e239] [box=347,6520,100,22]: specialized
+                - text: ":"
+              - list [ref=f11e240] [box=102,6570,524,129]:
+                - listitem [ref=f11e241] [box=126,6570,500,56]: A model trained for X-ray detection couldn’t handle billing workflows
+                - listitem [ref=f11e242] [box=126,6634,500,56]: A diagnostic model couldn’t coordinate care or execute actions
+              - 'heading "4. The Agentic Era (Present): From Intelligence to Execution" [level=3] [ref=f11e243] [box=102,6722,524,67]'
+              - paragraph [ref=f11e244] [box=102,6801,524,90]:
+                - text: Today, we’re entering a new phase, driven by
+                - strong [ref=f11e245] [box=102,6805,509,52]: multi-modal large language models (MLLMs)
+                - text: like
+                - strong [ref=f11e246] [box=431,6835,54,22]: GPT-4
+                - text: ","
+                - strong [ref=f11e247] [box=494,6835,91,22]: Gemini 1.5
+                - text: ", and"
+                - strong [ref=f11e248] [box=141,6865,62,22]: LLaMA
+                - text: .
+              - paragraph [ref=f11e249] [box=102,6915,524,30]: "These models combine:"
+              - list [ref=f11e250] [box=102,6969,524,108]:
+                - listitem [ref=f11e251] [box=126,6969,500,28]: Language understanding
+                - listitem [ref=f11e252] [box=126,7005,500,28]: Reasoning capabilities
+                - listitem [ref=f11e253] [box=126,7041,500,28]: Multi-modal inputs (text, images, structured data)
+              - paragraph [ref=f11e254] [box=102,7102,524,60]:
+                - text: "But more importantly, they enable something new:"
+                - strong [ref=f11e255] [box=102,7106,475,52]: AI systems that can act.
+              - paragraph [ref=f11e256] [box=102,7185,524,90]: In healthcare, this means AI can finally move beyond isolated tasks and operate across entire processes—clinical, administrative, and financial.
+              - paragraph [ref=f11e257] [box=102,7299,524,30]:
+                - text: For example, in
+                - link "healthcare revenue cycle management" [ref=f11e258] [cursor=pointer] [box=241,7303,346,22]:
+                  - /url: https://www.combinehealth.ai/blog/healthcare-revenue-cycle-management
+                - text: ":"
+              - list [ref=f11e259] [box=102,7353,524,137]:
+                - listitem [ref=f11e260] [box=126,7353,500,28]: Earlier AI could flag errors
+                - listitem [ref=f11e261] [box=126,7389,500,28]: Generative AI could explain or summarize
+                - listitem [ref=f11e262] [box=126,7425,500,56]: Agentic AI can execute the entire workflow—from coding to payment reconciliation
+              - heading "Core Features of Agentic AI in Healthcare" [level=2] [ref=f11e263] [box=102,7518,524,78]
+              - paragraph [ref=f11e264] [box=102,7612,524,150]:
+                - text: What makes agentic AI different isn’t just what it does, but also
+                - strong [ref=f11e265] [box=141,7646,140,22]: how it operates
+                - text: . These systems are designed to function more like
+                - strong [ref=f11e266] [box=268,7675,185,22]: intelligent operators
+                - text: ", capable of navigating complex healthcare workflows with minimal intervention."
+              - paragraph [ref=f11e267] [box=102,7785,524,60]: "Let’s break down the core capabilities that make that possible:"
+              - heading "1. Autonomy" [level=3] [ref=f11e268] [box=102,7869,524,34]
+              - paragraph [ref=f11e269] [box=102,7915,524,60]: These agents function independently based on predefined goals.
+              - paragraph [ref=f11e270] [box=102,7998,524,30]: "In healthcare, that could look like:"
+              - list [ref=f11e271] [box=102,8052,524,145]:
+                - listitem [ref=f11e272] [box=126,8052,500,28]: Reviewing patient data
+                - listitem [ref=f11e273] [box=126,8089,500,28]: Selecting the right models or rules
+                - listitem [ref=f11e274] [box=126,8125,500,28]: Running analyses
+                - listitem [ref=f11e275] [box=126,8161,500,28]: Generating outputs
+              - paragraph [ref=f11e276] [box=102,8221,524,90]:
+                - text: For example, in
+                - link "radiology" [ref=f11e277] [cursor=pointer] [box=241,8225,81,22]:
+                  - /url: https://www.combinehealth.ai/blog/radiology-cpt-codes
+                - text: ", AI agents can autonomously analyze scans, select algorithms, and generate preliminary reports with minimal human intervention."
+              - paragraph [ref=f11e278] [box=102,8335,524,60]:
+                - text: In this case,
+                - strong [ref=f11e279] [box=209,8339,19,22]: AI
+                - strong [ref=f11e280] [box=232,8339,250,22]: takes ownership of the task
+                - text: ", while still allowing human oversight when needed."
+              - figure [ref=f11e281] [box=102,8419,524,49]:
+                - link [box=364,8419,0,49]:
+                  - /url: https://www.combinehealth.ai/demo
+              - heading "2. Adaptability" [level=3] [ref=f11e282] [box=102,8491,524,34]
+              - paragraph [ref=f11e283] [box=102,8537,524,60]: Healthcare doesn’t stand still. New diseases emerge, guidelines evolve, and patient data varies widely.
+              - paragraph [ref=f11e284] [box=102,8621,524,30]: "Static models struggle here. But, agentic systems can:"
+              - list [ref=f11e285] [box=102,8675,524,108]:
+                - listitem [ref=f11e286] [box=126,8675,500,28]: Adjust to new data inputs
+                - listitem [ref=f11e287] [box=126,8711,500,28]: Incorporate updated clinical guidelines
+                - listitem [ref=f11e288] [box=126,8747,500,28]:
+                  - text: Refine
+                  - link "medical decisions" [ref=f11e289] [cursor=pointer] [box=187,8750,158,22]:
+                    - /url: https://www.combinehealth.ai/blog/medical-decision-making-in-healthcare
+                  - text: based on feedback
+              - paragraph [ref=f11e290] [box=102,8807,524,60]: So instead of retraining from scratch every time something changes, the system continuously improves.
+              - blockquote [ref=f11e291] [box=102,8891,524,120]: For instance, a model initially trained on X-rays can be extended to handle MRI or CT scans as requirements evolve—making it far more flexible in real-world settings.
+              - heading "3. Scalability" [level=3] [ref=f11e292] [box=102,9035,524,34]
+              - paragraph [ref=f11e293] [box=102,9081,524,60]: Healthcare generates massive amounts of data—clinical notes, imaging, billing records, lab results, and more.
+              - paragraph [ref=f11e294] [box=102,9164,524,30]: Agentic AI is built to handle that scale.
+              - paragraph [ref=f11e295] [box=102,9218,524,60]: "By leveraging cloud infrastructure and distributed learning approaches, these systems can:"
+              - list [ref=f11e296] [box=102,9302,524,137]:
+                - listitem [ref=f11e297] [box=126,9302,500,28]: Process large, diverse datasets in real time
+                - listitem [ref=f11e298] [box=126,9338,500,28]: Operate across multiple facilities or departments
+                - listitem [ref=f11e299] [box=126,9374,500,56]: Support high-volume workflows like telemedicine or claims processing
+              - paragraph [ref=f11e300] [box=102,9463,524,90]:
+                - text: This is especially important in environments where
+                - strong [ref=f11e301] [box=102,9467,507,52]: speed and volume directly impact outcomes
+                - text: —like patient access or
+                - link "revenue cycle operations" [ref=f11e302] [cursor=pointer] [box=125,9527,219,22]:
+                  - /url: https://www.combinehealth.ai/blog/rcm-cycle-in-medical-billing
+                - text: .
+              - heading "4. Probabilistic Decision-Making" [level=3] [ref=f11e303] [box=102,9576,524,34]
+              - paragraph [ref=f11e304] [box=102,9622,524,120]:
+                - text: Agentic AI systems handle uncertainties in healthcare decision-making using
+                - strong [ref=f11e305] [box=309,9656,208,22]: probabilistic reasoning
+                - text: —meaning they continuously update their decisions as new information becomes available.
+              - paragraph [ref=f11e306] [box=102,9766,524,30]: "Instead of making a one-time prediction, they:"
+              - list [ref=f11e307] [box=102,9820,524,108]:
+                - listitem [ref=f11e308] [box=126,9820,500,28]: Evaluate multiple possibilities
+                - listitem [ref=f11e309] [box=126,9856,500,28]: Assign likelihoods
+                - listitem [ref=f11e310] [box=126,9892,500,28]: Refine conclusions over time
+              - blockquote [ref=f11e311] [box=102,9952,524,186]: "For example: - An initial diagnosis might be based on symptoms- Lab results come in → the system updates its assessment- Imaging data is added → the prediction becomes more precise"
+              - heading "Agentic AI Use Cases in Healthcare" [level=2] [ref=f11e312] [box=102,10166,524,78]
+              - heading "Medical Diagnostics" [level=3] [ref=f11e313] [box=102,10268,524,34]
+              - paragraph [ref=f11e314] [box=102,10314,524,90]: "Diagnosis is one of the most complex and high-stakes tasks in healthcare. It requires connecting signals across multiple sources:"
+              - list [ref=f11e315] [box=102,10427,524,145]:
+                - listitem [ref=f11e316] [box=126,10427,500,28]: Patient history
+                - listitem [ref=f11e317] [box=126,10464,500,28]: Clinical notes
+                - listitem [ref=f11e318] [box=126,10500,500,28]: Lab results
+                - listitem [ref=f11e319] [box=126,10536,500,28]: Medical imaging
+              - paragraph [ref=f11e320] [box=102,10596,524,60]: Most AI tools today assist with pieces of this, but Agentic AI connects the entire picture.
+              - paragraph [ref=f11e321] [box=102,10680,524,60]:
+                - text: Agentic AI systems improve diagnostic accuracy by working across
+                - strong [ref=f11e322] [box=239,10714,151,22]: multimodal data
+                - text: "by:"
+              - list [ref=f11e323] [box=102,10764,524,145]:
+                - listitem [ref=f11e324] [box=126,10764,500,28]: Reading and summarizing EHRs
+                - listitem [ref=f11e325] [box=126,10800,500,28]: Interpreting medical images
+                - listitem [ref=f11e326] [box=126,10836,500,28]: Connecting findings across datasets
+                - listitem [ref=f11e327] [box=126,10872,500,28]: Continuously refining conclusions as new data comes in
+              - paragraph [ref=f11e328] [box=102,10932,524,60]: "Moreover, new multimodal systems combine imaging + clinical context to improve diagnostic performance:"
+              - list [ref=f11e329] [box=102,11016,524,213]:
+                - listitem [ref=f11e330] [box=126,11016,500,113]:
+                  - strong [ref=f11e331] [box=126,11019,133,22]: Med-Flamingo
+                  - text: (a multimodal few-shot model) uses images and text together to assist diagnosis—and has shown
+                  - strong [ref=f11e332] [box=189,11076,240,22]: up to 20% higher accuracy
+                  - text: compared to traditional models
+                - listitem [ref=f11e333] [box=126,11137,500,84]:
+                  - strong [ref=f11e334] [box=126,11140,110,22]: M3D-LaMed
+                  - text: extends this further into
+                  - strong [ref=f11e335] [box=457,11140,106,22]: 3D imaging
+                  - text: ", improving analysis of complex scans like CTs and MRIs by combining spatial data with clinical context"
+              - blockquote [ref=f11e336] [box=102,11253,524,296]:
+                - strong [ref=f11e337] [box=130,11268,192,22]: Real-World Use Case
+                - text: A recent study explored
+                - link "how AI agents support radiologists" [ref=f11e338] [cursor=pointer] [box=130,11312,424,45]:
+                  - /url: https://link.springer.com/article/10.1007/s00330-025-11484-6
+                - text: in diagnosing brain MRI cases.Here’s what they found:1. AI-assisted workflows achieved
+                - strong [ref=f11e339] [box=130,11422,462,44]: higher diagnostic accuracy (61.4% vs. 46.5%)
+                - text: compared to traditional search-based approaches2. Interpretation time and confidence levels remained similar
+              - paragraph [ref=f11e340] [box=102,11573,524,60]:
+                - text: "Agentic AI also introduces something new:"
+                - strong [ref=f11e341] [box=102,11577,461,52]: dynamic reasoning during diagnosis
+                - text: .
+              - paragraph [ref=f11e342] [box=102,11657,524,60]:
+                - text: For example, systems like
+                - strong [ref=f11e343] [box=331,11661,118,22]: VoxelPrompt
+                - text: "act as vision-language agents that:"
+              - list [ref=f11e344] [box=102,11741,524,108]:
+                - listitem [ref=f11e345] [box=126,11741,500,28]: Plan how to analyze a case
+                - listitem [ref=f11e346] [box=126,11777,500,28]: Use external tools when needed
+                - listitem [ref=f11e347] [box=126,11813,500,28]: Adapt their approach based on intermediate findings
+              - paragraph [ref=f11e348] [box=102,11873,524,60]:
+                - text: In some cases, they can
+                - strong [ref=f11e349] [box=314,11877,293,22]: match expert-level performance
+                - text: in tasks like pathology characterization.
+              - heading "Treatment and Patient Care" [level=3] [ref=f11e350] [box=102,11957,524,34]
+              - paragraph [ref=f11e351] [box=102,12003,524,60]:
+                - text: Agentic AI can go beyond analysis and into
+                - strong [ref=f11e352] [box=102,12007,422,52]: care orchestration
+                - text: .
+              - paragraph [ref=f11e353] [box=102,12086,524,30]: "Traditional AI systems in treatment typically do one thing:"
+              - list [ref=f11e354] [box=102,12140,524,108]:
+                - listitem [ref=f11e355] [box=126,12140,500,28]: Recommend a drug
+                - listitem [ref=f11e356] [box=126,12177,500,28]: Suggest a protocol
+                - listitem [ref=f11e357] [box=126,12213,500,28]: Flag a risk
+              - paragraph [ref=f11e358] [box=102,12273,524,30]: "But now, treatment plans have evolved based on:"
+              - list [ref=f11e359] [box=102,12327,524,145]:
+                - listitem [ref=f11e360] [box=126,12327,500,28]: Patient response
+                - listitem [ref=f11e361] [box=126,12363,500,28]: New test results
+                - listitem [ref=f11e362] [box=126,12399,500,28]: Side effects
+                - listitem [ref=f11e363] [box=126,12435,500,28]: Changing clinical conditions
+              - paragraph [ref=f11e364] [box=102,12495,524,60]:
+                - text: One of the biggest opportunities here is
+                - strong [ref=f11e365] [box=102,12499,473,52]: personalized treatment
+                - text: .
+              - paragraph [ref=f11e366] [box=102,12579,524,120]: Agentic AI systems can analyze genomic data, clinical history, treatment responses and population-level outcomes, and use that to simulate how a patient might respond to different therapies.
+              - blockquote [ref=f11e367] [box=102,12723,524,318]:
+                - strong [ref=f11e368] [box=130,12738,192,22]: Real-World Use Case
+                - text: In a recent study,
+                - link "AgentClinic" [ref=f11e369] [cursor=pointer] [box=289,12782,105,23]:
+                  - /url: https://arxiv.org/html/2405.07960v1
+                - text: (a multi-model AI agent) was used to simulate full clinical interactions.1. The system could autonomously guide patient conversations2. It adjusted its questioning strategy based on responses3. It requested relevant tests before making recommendations4. It continuously refined its decisions as new data became available
+              - paragraph [ref=f11e370] [box=102,13065,524,60]: In other words, it doesn’t just process information, but also actively participates in care delivery.
+              - heading "3. Patient Engagement" [level=3] [ref=f11e371] [box=102,13149,524,34]
+              - paragraph [ref=f11e372] [box=102,13194,524,60]: Agentic AI systems can actively participate in patient care, not just support it.
+              - paragraph [ref=f11e373] [box=102,13278,524,30]: "They can:"
+              - list [ref=f11e374] [box=102,13332,524,293]:
+                - listitem [ref=f11e375] [box=126,13332,500,56]: Monitor patient data continuously through wearables and connected devices
+                - listitem [ref=f11e376] [box=126,13396,500,28]: Detect changes in vitals or symptoms in real time
+                - listitem [ref=f11e377] [box=126,13432,500,56]: Send alerts, reminders, or next-step instructions instantly
+                - listitem [ref=f11e378] [box=126,13497,500,56]: Adjust communication based on patient behavior and responses
+                - listitem [ref=f11e379] [box=126,13561,500,56]: Guide patients through follow-ups, medications, and care plans
+              - paragraph [ref=f11e380] [box=102,13649,524,90]: In mental health, they can understand emotional signals, deliver context-aware, empathetic responses and even support cognitive behavioral therapy (CBT) in real time.
+              - blockquote [ref=f11e381] [box=102,13763,524,582]:
+                - strong [ref=f11e382] [box=130,13778,192,22]: Real-World Use Case
+                - text: A recent study built a system called
+                - link "Agent Hospital" [ref=f11e383] [cursor=pointer] [box=454,13822,134,23]:
+                  - /url: https://arxiv.org/abs/2405.02957
+                - text: ", a virtual hospital powered by AI agents.Instead of isolated tools, the system created a fully interactive care environment where:- AI agents handled triage, consultations, and follow-ups- Patients interacted through dynamic, back-and-forth conversations- The system conducted virtual assessments and tracked responses- Decisions were continuously updated as symptoms evolvedWhat stood out was the way these AI agents interacted.The agents:- Adapted their questioning strategies in real time- Monitored patient progress across sessions- Guided next steps based on changing conditions"
+              - heading "4. Healthcare Operations and Administration" [level=3] [ref=f11e384] [box=102,14369,524,67]
+              - paragraph [ref=f11e385] [box=102,14448,524,120]:
+                - text: If there’s one area where healthcare feels the most fragmented, it’s operations. And most importantly,
+                - strong [ref=f11e386] [box=102,14482,510,52]: no one owns the outcome end-to-end
+                - text: . This is exactly where agentic AI delivers immediate value.
+              - paragraph [ref=f11e387] [box=102,14592,524,60]: In operations and administration, AI agents are moving beyond dashboards and automation scripts.
+              - paragraph [ref=f11e388] [box=102,14676,524,30]: They’re taking ownership of workflows.
+              - paragraph [ref=f11e389] [box=102,14730,524,30]: "Today, agentic systems can:"
+              - list [ref=f11e390] [box=102,14784,524,265]:
+                - listitem [ref=f11e391] [box=126,14784,500,56]: Read and interpret unstructured data like EOBs, clinical notes, and payer communications
+                - listitem [ref=f11e392] [box=126,14848,500,56]: Identify operational risks like claim denials, delays, or missing documentation
+                - listitem [ref=f11e393] [box=126,14912,500,28]: Standardize inconsistent data across payers and systems
+                - listitem [ref=f11e394] [box=126,14948,500,56]: Trigger next steps—flagging, routing, or resolving issues automatically
+                - listitem [ref=f11e395] [box=126,15013,500,28]: Provide real-time visibility into operational performance
+              - paragraph [ref=f11e396] [box=102,15073,524,90]: This is especially critical in revenue cycle management, where delays, errors, and misclassification directly impact revenue.
+              - figure [ref=f11e397] [box=102,15186,524,48]
+              - blockquote [ref=f11e398] [box=102,15258,524,956]:
+                - strong [ref=f11e399] [box=130,15274,468,44]: "Real-World Use Case: How CombineHealth Applies Agentic AI to RCM"
+                - text: CombineHealth’s AI agents are designed to operate across the entire revenue cycle. Let’s take denial analytics for example.Here’s how the denial management workflow works:1. AI reads and interprets EOBs (even messy, paper-based ones)2. Maps payer-specific denial codes into standardized formats3. Identifies the true root cause behind each denial4. Surfaces insights through real-time dashboards5. Enables faster action on claims, without manual back-and-forthA good example of this in action comes from a health center working with CombineHealth.Before implementing AI agents, their team was dealing with:- Large volumes of EOBs that had to be reviewed manually- Inconsistent denial codes across different payers- Misclassified claims—where paid claims were flagged as denied, and real denials were missed- Limited visibility into denial trends and root causesBut now, they can:- Easily classify every claim (irrespective of the volume)- Standardize denial data across payers- Get to the actual root cause behind each denial faster- Get a real-time view of denial patterns and trends
+                - link "Read the full case study" [ref=f11e400] [cursor=pointer] [box=130,16176,214,23]:
+                  - /url: https://www.combinehealth.ai/resources/customer-success-stories/case-study/community-health-center
+              - heading "5. Biomedical Research" [level=3] [ref=f11e401] [box=102,16238,524,34]
+              - paragraph [ref=f11e402] [box=102,16284,524,60]:
+                - text: Agentic AI systems are moving beyond data analysis and into
+                - strong [ref=f11e403] [box=141,16318,236,22]: active scientific reasoning
+                - text: .
+              - paragraph [ref=f11e404] [box=102,16368,524,30]: "They can:"
+              - list [ref=f11e405] [box=102,16422,524,181]:
+                - listitem [ref=f11e406] [box=126,16422,500,28]: Generate and refine research hypotheses
+                - listitem [ref=f11e407] [box=126,16458,500,28]: Analyze large-scale biomedical and genomic datasets
+                - listitem [ref=f11e408] [box=126,16494,500,28]: Identify potential drug candidates or targets
+                - listitem [ref=f11e409] [box=126,16530,500,28]: Simulate outcomes before physical experiments
+                - listitem [ref=f11e410] [box=126,16566,500,28]: Incorporate feedback from researchers and iterate
+              - blockquote [ref=f11e411] [box=102,16627,524,340]:
+                - strong [ref=f11e412] [box=130,16642,192,22]: Real-World Use Case
+                - text: A recent example of this shift is the
+                - link "concept of an AI co-scientist" [ref=f11e413] [cursor=pointer] [box=130,16686,468,45]:
+                  - /url: https://arxiv.org/abs/2502.18864
+                  - text: concept of an
+                  - strong [ref=f11e414] [box=130,16686,468,44]: AI co-scientist
+                - text: "—a multi-agent system designed to assist in biomedical discovery.In practice, it has been used to: - Identify repurposed drug candidates for acute myeloid leukemia (AML)- Propose new biological targets—such as epigenetic regulators for liver fibrosis- Generate hypotheses around bacterial gene transfer mechanisms"
+              - heading "6. Robot-Assisted Surgery" [level=3] [ref=f11e415] [box=102,16991,524,34]
+              - paragraph [ref=f11e416] [box=102,17036,524,60]: Agentic AIs are turning surgical robots into genuine partners in the OR.
+              - paragraph [ref=f11e417] [box=102,17120,524,120]: Instead of just being used as precision tools, these systems can actually understand the context of what's going on in surgery, figure out what comes next, and help out with tough decisions in real-time.
+              - paragraph [ref=f11e418] [box=102,17264,524,120]: That means we get to add a bit of smarts to the precision, making it easier to get the whole team on the same page, taking the pressure off surgeons and making complex procedures a whole lot easier.
+              - blockquote [ref=f11e419] [box=102,17407,524,406]:
+                - strong [ref=f11e420] [box=130,17423,192,22]: Real-World Use Case
+                - text: Take
+                - link "SUFIA" [ref=f11e421] [cursor=pointer] [box=176,17467,56,23]:
+                  - /url: https://ieeexplore.ieee.org/document/10825748
+                - text: ", for example — an AI-powered robotic sidekick that shows just what we mean. It's able to translate the language the surgeon uses into a plan that works on both a big-picture and tiny-details level and then turn those plans into actions that the robot can actually execute. It's also got real-time perception so it can adapt to whatever happens when things don't go as planned, all while keeping a watchful eye on safety to make sure there's always a human in the loop. In the testing they've done so far, SUFIA has done amazingly well on tasks like handling needles and coordinating efforts."
+              - heading "Implementation Challenges of Agentic AI in Healthcare" [level=2] [ref=f11e422] [box=102,17841,524,78]
+              - paragraph [ref=f11e423] [box=102,17935,524,60]: Agentic AI sounds promising, but healthcare isn’t an easy place to deploy it.
+              - paragraph [ref=f11e424] [box=102,18019,524,60]: The stakes are high.And the margin for error is low.
+              - paragraph [ref=f11e425] [box=102,18103,524,30]: "Here’s where things get tricky:"
+              - list [ref=f11e426] [box=102,18157,524,490]:
+                - listitem [ref=f11e427] [box=126,18157,500,84]:
+                  - strong [ref=f11e428] [box=126,18160,261,22]: "Data Availability and Privacy:"
+                  - text: Fragmented infrastructure and strict regulations (e.g., HIPAA, IVDR) limit access to high-quality training data.
+                - listitem [ref=f11e429] [box=126,18249,500,84]:
+                  - strong [ref=f11e430] [box=126,18253,155,22]: "Model Reliability:"
+                  - text: LLMs are prone to "hallucinating" information, which can lead to life-threatening clinical errors.
+                - listitem [ref=f11e431] [box=126,18342,500,84]:
+                  - strong [ref=f11e432] [box=126,18345,223,22]: "Adversarial Weaknesses:"
+                  - text: AI agents are vulnerable to maliciously crafted inputs that can manipulate diagnostic or surgical outputs.
+                - listitem [ref=f11e433] [box=126,18434,500,84]:
+                  - strong [ref=f11e434] [box=126,18437,224,22]: "The \"Blackbox\" Problem:"
+                  - text: The lack of transparency in how AI generates recommendations complicates accountability in cases of misdiagnosis.
+                - listitem [ref=f11e435] [box=126,18527,500,113]:
+                  - strong [ref=f11e436] [box=126,18530,166,22]: "Human Oversight:"
+                  - text: As models become more complex and autonomous, real-time human monitoring becomes increasingly difficult, leading to potential automation bias or oversight fatigue.
+              - heading "The Barriers to AI in Healthcare Are Now Shifting!" [level=2] [ref=f11e437] [box=102,18675,524,78]
+              - paragraph [ref=f11e438] [box=102,18769,524,60]: Even with all these challenges, healthcare isn’t slowing down on agentic AI.
+              - paragraph [ref=f11e439] [box=102,18853,524,90]:
+                - text: In fact,
+                - link "61% of healthcare organizations" [ref=f11e440] [cursor=pointer] [box=166,18857,276,22]:
+                  - /url: https://www.deloitte.com/us/en/insights/industry/health-care/agentic-ai-health-care-operating-model-change.html
+                - text: are already building or implementing agentic AI initiatives, and 85% plan to increase investment over the next two to three years.
+              - paragraph [ref=f11e441] [box=102,18967,524,179]:
+                - text: More than
+                - link "80% of health systems" [ref=f11e442] [cursor=pointer] [box=198,18971,196,22]:
+                  - /url: https://www.deloitte.com/us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks/2026-us-health-care-executive-outlook.html
+                - text: are prioritizing agentic AI for core areas like clinical operations, care delivery, and revenue cycle management. On the payer side,
+                - strong [ref=f11e443] [box=102,19031,479,111]: 70% of health plans are focusing on use cases like prior authorizations, utilization management, and claims processing
+                - text: .
+              - figure [ref=f11e444] [box=102,19170,524,48]
+              - paragraph [ref=f11e445] [box=102,19228,524,30]: So, what changed?
+              - paragraph [ref=f11e446] [box=102,19282,524,60]: A lot of the early barriers to AI didn’t disappear overnight. They were gradually reduced as the ecosystem matured.
+              - paragraph [ref=f11e447] [box=102,19366,524,30]: "Here’s what happened:"
+              - heading "1. The Technology Improved" [level=3] [ref=f11e448] [box=102,19420,524,34]
+              - paragraph [ref=f11e449] [box=102,19466,524,150]: Advances in large language models and multimodal AI made systems more reliable, more capable, and easier to integrate into real workflows. Instead of rigid tools, organizations now have flexible systems that can actually adapt to healthcare complexity.
+              - heading "2. Organizations Got More Comfortable with AI" [level=3] [ref=f11e450] [box=102,19639,524,67]
+              - paragraph [ref=f11e451] [box=102,19718,524,120]: Earlier resistance (whether from clinicians or leadership) has started to ease as teams see real use cases working in production. That’s why fewer leaders now cite resistance to change or lack of buy-in as major blockers.
+              - heading "3. The Talent and Tooling Gap is Shrinking" [level=3] [ref=f11e452] [box=102,19862,524,34]
+              - paragraph [ref=f11e453] [box=102,19908,524,120]: Healthcare organizations now have better access to AI talent, vendor solutions, and implementation frameworks. What once required building from scratch can now be deployed with existing platforms.
+              - heading "4. There’s More Clarity on ROI" [level=3] [ref=f11e454] [box=102,20051,524,34]
+              - paragraph [ref=f11e455] [box=102,20097,524,120]: Early AI projects struggled to prove value. But agentic AI is being applied directly to high-impact areas, like RCM and clinical operations, where outcomes are measurable. That’s making it easier to justify investment.
+              - heading "Start Applying Agentic AI in Your Healthcare RCM Workflows!" [level=2] [ref=f11e456] [box=102,20244,524,78]
+              - paragraph [ref=f11e457] [box=102,20338,524,60]: Healthcare is reaching a point where incremental fixes aren’t enough.
+              - paragraph [ref=f11e458] [box=102,20422,524,90]: What’s needed now is a fundamentally different approach—one where work doesn’t rely on constant human intervention to move forward.
+              - paragraph [ref=f11e459] [box=102,20536,524,30]: That’s the shift agentic AI enables.
+              - paragraph [ref=f11e460] [box=102,20590,524,179]: At CombineHealth, this approach is applied directly to revenue cycle operations through AI agents designed to handle complex workflows with precision and consistency. Instead of adding more layers to existing processes, the focus is on ensuring the work gets completed, accurately and on time.
+              - paragraph [ref=f11e461] [box=102,20793,524,90]:
+                - text: If you’re exploring how to operationalize AI in a way that drives real outcomes,
+                - link "book a demo" [ref=f11e462] [cursor=pointer] [box=292,20827,116,22]:
+                  - /url: https://www.combinehealth.ai/demo
+                - text: to see how CombineHealth’s AI agents fit into your workflows.
+              - heading "FAQs" [level=2] [ref=f11e463] [box=102,20911,524,39]
+              - paragraph [ref=f11e464] [box=102,20966,524,60]:
+                - strong [ref=f11e465] [box=102,20970,418,52]: How is agentic AI transforming patient care in healthcare?
+              - paragraph [ref=f11e466] [box=102,21050,524,209]: Agentic AI is shifting patient care from reactive to continuous. It can monitor patients in real time, adapt treatment plans based on new data, and guide follow-ups without manual intervention. This improves care coordination, reduces delays, and keeps patients engaged beyond visits—making care more proactive, personalized, and consistent.
+              - paragraph [ref=f11e467] [box=102,21283,524,60]:
+                - strong [ref=f11e468] [box=102,21287,507,52]: Can agentic AI systems in healthcare improve diagnosis accuracy?
+              - paragraph [ref=f11e469] [box=102,21367,524,179]: Yes. Agentic AI improves diagnostic accuracy by combining multiple data sources—clinical notes, lab results, and imaging—and continuously refining its assessment as new inputs arrive. Unlike static models, it adapts its reasoning in real time, helping clinicians identify patterns faster and make more informed, data-driven decisions.
+              - paragraph [ref=f11e470] [box=102,21571,524,60]:
+                - strong [ref=f11e471] [box=102,21575,499,52]: What are the challenges of implementing agentic AI in medical settings?
+              - paragraph [ref=f11e472] [box=102,21654,524,179]: Key challenges include limited access to high-quality data, strict privacy regulations, and model reliability issues like hallucinations. There are also risks around lack of transparency, adversarial inputs, and over-reliance on automation. Ensuring human oversight and building trust within clinical workflows remain critical for safe adoption.
+              - paragraph [ref=f11e473] [box=102,21858,524,60]:
+                - strong [ref=f11e474] [box=102,21862,520,52]: What are the main benefits of using agentic reasoning AI for doctors?
+              - paragraph [ref=f11e475] [box=102,21942,524,179]: Agentic AI reduces cognitive and administrative burden by handling repetitive tasks, summarizing patient data, and coordinating workflows. It helps doctors focus more on decision-making and patient care while improving efficiency, reducing errors, and supporting faster, more accurate clinical and operational outcomes.
+          - generic [ref=f11e476] [box=662,164,257,21957]:
+            - heading "Recommended Reads" [level=1] [ref=f11e478] [box=662,216,257,88]
+            - list [ref=f11e481] [box=662,324,257,1157]:
+              - listitem [ref=f11e482] [box=662,340,257,370]:
+                - link "The Claim Submission Process in Medical Billing And Where AI Helps Learn how the claim submission process works, why claims get rejected or denied, and how AI improves coding, billing, eligibility verification, and first-pass claim acceptance." [ref=f11e483] [cursor=pointer] [box=672,340,237,365]:
+                  - /url: /blog/claim-submission-process
+                  - generic [ref=f11e484] [box=672,340,237,355]:
+                    - heading "The Claim Submission Process in Medical Billing And Where AI Helps" [level=3] [ref=f11e485] [box=672,595,237,50]
+                    - paragraph [ref=f11e486] [box=672,655,237,40]: Learn how the claim submission process works, why claims get rejected or denied, and how AI improves coding, billing, eligibility verification, and first-pass claim acceptance.
+              - listitem [ref=f11e487] [box=662,726,257,370]:
+                - 'link "Healthcare Claims Processing: Steps, Challenges, and Automation Learn how healthcare claims processing works, from claim submission to payer adjudication, common denial causes, and how automation improves accuracy while reducing costly rework." [ref=f11e488] [cursor=pointer] [box=672,726,237,365]':
+                  - /url: /blog/healthcare-claims-processing
+                  - generic [ref=f11e489] [box=672,726,237,355]:
+                    - 'heading "Healthcare Claims Processing: Steps, Challenges, and Automation" [level=3] [ref=f11e490] [box=672,981,237,50]'
+                    - paragraph [ref=f11e491] [box=672,1041,237,40]: Learn how healthcare claims processing works, from claim submission to payer adjudication, common denial causes, and how automation improves accuracy while reducing costly rework.
+              - listitem [ref=f11e492] [box=662,1112,257,370]:
+                - link "Why Should You Outsource Medical Coding in 2026 Discover why outsourcing medical coding is growing in 2026, its key benefits, the services included, and how it helps healthcare organizations improve accuracy and reduce costs." [ref=f11e493] [cursor=pointer] [box=672,1112,237,365]:
+                  - /url: /blog/outsource-medical-coding
+                  - generic [ref=f11e494] [box=672,1112,237,355]:
+                    - heading "Why Should You Outsource Medical Coding in 2026" [level=3] [ref=f11e495] [box=672,1367,237,50]
+                    - paragraph [ref=f11e496] [box=672,1427,237,40]: Discover why outsourcing medical coding is growing in 2026, its key benefits, the services included, and how it helps healthcare organizations improve accuracy and reduce costs.
+        - generic [ref=f11e497] [box=102,22157,817,106]:
+          - generic [ref=f11e498] [box=102,22200,102,20]: "Share Blog:"
+          - generic [ref=f11e500] [box=223,22186,225,48]:
+            - link [ref=f11e501] [cursor=pointer] [box=223,22186,48,48]:
+              - /url: https://x.com/
+            - link [ref=f11e502] [cursor=pointer] [box=282,22186,48,48]:
+              - /url: https://www.facebook.com/
+            - link [ref=f11e503] [cursor=pointer] [box=341,22186,48,48]:
+              - /url: https://www.linkedin.com/
+            - link [ref=f11e504] [cursor=pointer] [box=400,22186,48,48]:
+              - /url: "#"
+        - generic [ref=f11e505] [box=102,22287,817,470]:
+          - heading "Related Posts" [level=2] [ref=f11e507] [box=410,22307,201,36]
+          - list [ref=f11e510] [box=102,22387,817,370]:
+            - listitem [ref=f11e511] [box=102,22387,272,370]:
+              - link "The Claim Submission Process in Medical Billing And Where AI Helps Learn how the claim submission process works, why claims get rejected or denied, and how AI improves coding, billing, eligibility verification, and first-pass claim acceptance." [ref=f11e512] [cursor=pointer] [box=112,22387,252,365]:
+                - /url: /blog/claim-submission-process
+                - generic [ref=f11e513] [box=112,22387,252,355]:
+                  - heading "The Claim Submission Process in Medical Billing And Where AI Helps" [level=3] [ref=f11e514] [box=112,22642,252,50]
+                  - paragraph [ref=f11e515] [box=112,22702,252,40]: Learn how the claim submission process works, why claims get rejected or denied, and how AI improves coding, billing, eligibility verification, and first-pass claim acceptance.
+            - listitem [ref=f11e516] [box=374,22387,272,370]:
+              - 'link "Healthcare Claims Processing: Steps, Challenges, and Automation Learn how healthcare claims processing works, from claim submission to payer adjudication, common denial causes, and how automation improves accuracy while reducing costly rework." [ref=f11e517] [cursor=pointer] [box=384,22387,252,365]':
+                - /url: /blog/healthcare-claims-processing
+                - generic [ref=f11e518] [box=384,22387,252,355]:
+                  - 'heading "Healthcare Claims Processing: Steps, Challenges, and Automation" [level=3] [ref=f11e519] [box=384,22642,252,50]'
+                  - paragraph [ref=f11e520] [box=384,22702,252,40]: Learn how healthcare claims processing works, from claim submission to payer adjudication, common denial causes, and how automation improves accuracy while reducing costly rework.
+            - listitem [ref=f11e521] [box=646,22387,272,370]:
+              - link "Why Should You Outsource Medical Coding in 2026 Discover why outsourcing medical coding is growing in 2026, its key benefits, the services included, and how it helps healthcare organizations improve accuracy and reduce costs." [ref=f11e522] [cursor=pointer] [box=656,22387,252,365]:
+                - /url: /blog/outsource-medical-coding
+                - generic [ref=f11e523] [box=656,22387,252,355]:
+                  - heading "Why Should You Outsource Medical Coding in 2026" [level=3] [ref=f11e524] [box=656,22642,252,50]
+                  - paragraph [ref=f11e525] [box=656,22702,252,40]: Discover why outsourcing medical coding is growing in 2026, its key benefits, the services included, and how it helps healthcare organizations improve accuracy and reduce costs.
+      - generic [ref=f11e527] [box=0,22861,1021,968]:
+        - generic [ref=f11e528] [box=0,22861,1021,108]:
+          - heading "Explore Our" [level=2] [ref=f11e529] [box=0,22861,1021,44]
+          - heading "AI Workforce" [level=2] [ref=f11e530] [box=0,22925,1021,44]
+        - generic [ref=f11e531] [box=0,22993,1021,836]:
+          - generic [ref=f11e533] [box=4,23073,1013,636]:
+            - link "Learn more about Amy" [ref=f11e535] [cursor=pointer] [box=4,23121,319,588]:
+              - /url: /ai-medical-coding-software
+              - generic [ref=f11e536] [box=4,23121,319,588]:
+                - img "Amy" [ref=f11e538] [box=86,23044,155,155]
+                - heading "Meet Amy" [level=3] [ref=f11e539] [box=41,23238,245,36]
+                - heading "AI Medical Coder" [level=4] [ref=f11e540] [box=41,23292,245,28]
+                - list [ref=f11e541] [box=65,23356,221,244]:
+                  - listitem [ref=f11e542] [box=105,23356,173,52]: Automates coding with 97.2%+ accuracy
+                  - listitem [ref=f11e543] [box=105,23420,173,52]: Reduces manual coding by up to 85%
+                  - listitem [ref=f11e544] [box=105,23484,173,52]: Flags CDI and documentation gaps
+                  - listitem [ref=f11e545] [box=105,23548,173,52]: Supports CPT, ICD-10, HCPCS & modifiers
+                - generic [ref=f11e546] [box=41,23648,245,28]:
+                  - generic [ref=f11e547] [box=41,23648,104,28]: Learn more
+                  - generic [ref=f11e548] [box=153,23652,21,20]: →
+            - link "Learn more about Mark" [ref=f11e550] [cursor=pointer] [box=351,23121,319,588]:
+              - /url: /mark-ai-medical-biller
+              - generic [ref=f11e551] [box=351,23121,319,588]:
+                - img "Mark" [ref=f11e553] [box=433,23044,155,155]
+                - heading "Meet Mark" [level=3] [ref=f11e554] [box=388,23238,245,36]
+                - heading "AI Medical Biller" [level=4] [ref=f11e555] [box=388,23292,245,28]
+                - list [ref=f11e556] [box=412,23356,221,244]:
+                  - listitem [ref=f11e557] [box=452,23356,173,52]: Automates eligibility and billing checks
+                  - listitem [ref=f11e558] [box=452,23420,173,52]: Automates 95%+ claim submission work
+                  - listitem [ref=f11e559] [box=452,23484,173,52]: Flags claim errors before submission
+                - generic [ref=f11e560] [box=388,23648,245,28]:
+                  - generic [ref=f11e561] [box=388,23648,104,28]: Learn more
+                  - generic [ref=f11e562] [box=500,23652,21,20]: →
+            - link "Learn more about Adam" [ref=f11e564] [cursor=pointer] [box=698,23121,319,588]:
+              - /url: /adam-ai-denial-management-software
+              - generic [ref=f11e565] [box=698,23121,319,588]:
+                - img "Adam" [ref=f11e567] [box=780,23044,155,155]
+                - heading "Meet Adam" [level=3] [ref=f11e568] [box=735,23238,245,36]
+                - heading "AI A/R Specialist" [level=4] [ref=f11e569] [box=735,23292,245,28]
+                - list [ref=f11e570] [box=759,23356,221,244]:
+                  - listitem [ref=f11e571] [box=799,23356,173,52]: Automates payer follow-up at scale
+                  - listitem [ref=f11e572] [box=799,23420,173,52]: Reduces outstanding A/R days by 25%
+                  - listitem [ref=f11e573] [box=799,23484,173,52]: Tracks claim status and next actions
+                - generic [ref=f11e574] [box=735,23648,245,28]:
+                  - generic [ref=f11e575] [box=735,23648,104,28]: Learn more
+                  - generic [ref=f11e576] [box=847,23652,21,20]: →
+            - link "Learn more about Rachel" [ref=f11e578] [cursor=pointer] [box=1045,23121,319,588]:
+              - /url: /rachel-ai-medical-appeal-rcm-solution
+              - generic [ref=f11e579] [box=1045,23121,319,588]:
+                - img "Rachel" [ref=f11e581] [box=1127,23044,155,155]
+                - heading "Meet Rachel" [level=3] [ref=f11e582] [box=1082,23238,245,36]
+                - heading "AI Appeal Specialist" [level=4] [ref=f11e583] [box=1082,23292,245,28]
+                - list [ref=f11e584] [box=1106,23356,221,244]:
+                  - listitem [ref=f11e585] [box=1146,23356,173,52]: Cuts appeal TAT by up to 70%
+                  - listitem [ref=f11e586] [box=1146,23420,173,52]: Drafts appeal packets with evidence
+                  - listitem [ref=f11e587] [box=1146,23484,173,78]: Feeds appeal learnings into coding and claims
+                - generic [ref=f11e588] [box=1082,23648,245,28]:
+                  - generic [ref=f11e589] [box=1082,23648,104,28]: Learn more
+                  - generic [ref=f11e590] [box=1194,23652,21,20]: →
+            - link "Learn more about Taylor" [ref=f11e592] [cursor=pointer] [box=1392,23121,319,588]:
+              - /url: /taylor-ai-revenue-cycle-optimization
+              - generic [ref=f11e593] [box=1392,23121,319,588]:
+                - img "Taylor" [ref=f11e595] [box=1474,23044,155,155]
+                - heading "Meet Taylor" [level=3] [ref=f11e596] [box=1429,23238,245,36]
+                - heading "AI RCM Analyst" [level=4] [ref=f11e597] [box=1429,23292,245,28]
+                - list [ref=f11e598] [box=1453,23356,221,244]:
+                  - listitem [ref=f11e599] [box=1493,23356,173,78]: Tracks 50+ KPIs across the revenue cycle
+                  - listitem [ref=f11e600] [box=1493,23446,173,52]: Surfaces root causes and leakage drivers
+                  - listitem [ref=f11e601] [box=1493,23510,173,78]: Converts RCM data into actionable insights
+                - generic [ref=f11e602] [box=1429,23648,245,28]:
+                  - generic [ref=f11e603] [box=1429,23648,104,28]: Learn more
+                  - generic [ref=f11e604] [box=1541,23652,21,20]: →
+          - generic [ref=f11e605] [box=0,23767,1021,42]:
+            - button "Previous slide" [ref=f11e606] [cursor=pointer] [box=330,23767,42,42]
+            - generic [ref=f11e609] [box=386,23770,249,34]:
+              - generic [ref=f11e610] [cursor=pointer] [box=390,23770,38,34]: "01"
+              - generic [ref=f11e611] [cursor=pointer] [box=438,23771,41,34]: "02"
+              - generic [ref=f11e612] [cursor=pointer] [box=488,23771,41,34]: "03"
+              - generic [ref=f11e613] [cursor=pointer] [box=539,23771,41,34]: "04"
+              - generic [ref=f11e614] [cursor=pointer] [box=590,23771,40,34]: "05"
+            - button "Next slide" [ref=f11e615] [cursor=pointer] [box=649,23767,42,42]
+      - generic [ref=f11e631] [box=193,23977,635,228]:
+        - heading "Subscribe to newsletter - The RCM Pulse" [level=2] [ref=f11e632] [box=205,23977,611,80]
+        - paragraph [ref=f11e633] [box=205,24069,611,56]: Trusted by 200+ experts. Subscribe for curated AI and RCM insights delivered to your inbox
+        - button "Subscribe" [ref=f11e634] [cursor=pointer] [box=205,24157,111,48]
+      - generic [ref=f11e636] [box=48,24429,925,679]:
+        - generic [ref=f11e637] [box=18,24557,381,421]:
+          - generic [ref=f11e638] [box=18,24557,381,205]:
+            - generic [ref=f11e639] [box=18,24557,381,24]: Let's Connect
+            - heading "Let's work together and help you get paid" [level=2] [ref=f11e640] [box=18,24601,381,161]
+          - paragraph [ref=f11e642] [box=18,24786,381,84]: Book a call with our experts and we'll show you exactly how our AI works and what ROI you can expect in your revenue cycle.
+          - link "Email info@combinehealth.ai" [ref=f11e643] [cursor=pointer] [box=18,24918,271,60]:
+            - /url: mailto:info@combinehealth.ai
+            - generic [ref=f11e647] [box=90,24923,199,54]:
+              - generic [ref=f11e648] [box=90,24923,199,24]: Email
+              - generic [ref=f11e649] [box=90,24949,199,28]: info@combinehealth.ai
+        - generic [ref=f11e651] [box=572,24481,382,573]:
+          - generic [ref=f11e652] [box=572,24481,382,31]: Schedule a Call
+          - generic [ref=f11e653] [box=572,24539,382,441]:
+            - generic [ref=f11e654] [box=572,24539,382,67]:
+              - generic [ref=f11e655] [box=572,24539,382,15]: Name*
+              - textbox "Name*" [ref=f11e656] [box=572,24560,382,46]:
+                - /placeholder: Ex. Sarah
+            - generic [ref=f11e657] [box=572,24622,382,67]:
+              - generic [ref=f11e658] [box=572,24622,382,15]: Title*
+              - textbox "Title*" [ref=f11e659] [box=572,24643,382,46]:
+                - /placeholder: Ex. Billing Manager
+            - generic [ref=f11e660] [box=572,24704,382,67]:
+              - generic [ref=f11e661] [box=572,24704,382,15]: Company Name*
+              - textbox "Company Name*" [ref=f11e662] [box=572,24725,382,46]:
+                - /placeholder: Ex. Mayo Clinic
+            - generic [ref=f11e663] [box=572,24787,382,67]:
+              - generic [ref=f11e664] [box=572,24787,382,15]: Business email*
+              - textbox "Business email*" [ref=f11e665] [box=572,24808,382,46]:
+                - /placeholder: Ex. Sarah@mayoclinic.com
+            - generic [ref=f11e666] [box=572,24869,382,67]:
+              - generic [ref=f11e667] [box=572,24869,382,15]: How did you hear about us?
+              - combobox "How did you hear about us?" [ref=f11e669] [cursor=pointer] [box=572,24890,382,46]:
+                - option "Select an option" [disabled] [selected] [box=0,0,0,0]
+                - option "Google Search" [box=0,0,0,0]
+                - option "ChatGPT" [box=0,0,0,0]
+                - option "AI Overview by Google" [box=0,0,0,0]
+                - option "Gemini" [box=0,0,0,0]
+                - option "Perplexity" [box=0,0,0,0]
+                - option "Claude" [box=0,0,0,0]
+                - option "Referred by someone" [box=0,0,0,0]
+            - generic [ref=f11e670] [box=572,24956,382,24]:
+              - checkbox "Subscribe to our Bi-monthly Newsletter" [ref=f11e671] [cursor=pointer] [box=572,24962,15,15]
+              - generic [ref=f11e672] [cursor=pointer] [box=597,24959,213,15]: Subscribe to our Bi-monthly Newsletter
+          - button "Submit" [disabled] [ref=f11e674] [box=572,25003,382,52]
+    - contentinfo [ref=f11e675] [box=0,25179,1021,838]:
+      - generic [ref=f11e676] [box=64,25276,893,550]:
+        - generic [ref=f11e677] [box=64,25276,420,550]:
+          - generic [ref=f11e678] [box=64,25276,420,466]:
+            - link [ref=f11e679] [cursor=pointer] [box=64,25276,420,36]:
+              - /url: /
+              - img "CombineHealth Logo" [ref=f11e680] [box=64,25276,283,36]
+            - paragraph [ref=f11e681] [box=64,25340,420,101]: AI revenue cycle automation for cleaner claims, fewer denials, and faster reimbursement.
+            - paragraph [ref=f11e682] [box=64,25511,320,49]: "Address: 2261 Market Street, #22878, San Francisco, CA 94114"
+            - link [ref=f11e684] [cursor=pointer] [box=64,25602,34,34]:
+              - /url: https://www.linkedin.com/company/combine-health/?viewAsMember=true
+              - img "LinkedIn" [ref=f11e685] [box=64,25602,34,34]
+            - generic [ref=f11e686] [box=64,25664,420,78]:
+              - img "AICPA SOC 2 Certified" [ref=f11e687] [box=64,25675,64,64]
+              - img "HIPAA Compliant" [ref=f11e688] [box=152,25672,110,70]
+          - generic [ref=f11e689] [box=64,25790,420,36]: © 2026 CombineHealth. All Rights Reserved
+        - generic [ref=f11e690] [box=548,25276,486,550]:
+          - generic [ref=f11e691] [box=548,25276,486,360]:
+            - generic [ref=f11e692] [box=548,25276,130,360]:
+              - heading "Solutions" [level=3] [ref=f11e693] [box=548,25296,130,28]
+              - generic [ref=f11e694] [box=548,25348,130,256]:
+                - link "Amy - AI Medical Coder" [ref=f11e695] [cursor=pointer] [box=548,25348,130,40]:
+                  - /url: /ai-medical-coding-software
+                - link "Mark - AI Medical Biller" [ref=f11e696] [cursor=pointer] [box=548,25402,130,40]:
+                  - /url: /mark-ai-medical-biller
+                - link "Adam - AI A/R Specialist" [ref=f11e697] [cursor=pointer] [box=548,25456,130,40]:
+                  - /url: /adam-ai-denial-management-software
+                - link "Rachel - AI Appeal Specialist" [ref=f11e698] [cursor=pointer] [box=548,25510,130,40]:
+                  - /url: /rachel-ai-medical-appeal-rcm-solution
+                - link "Taylor - AI RCM Analyst" [ref=f11e699] [cursor=pointer] [box=548,25564,130,40]:
+                  - /url: /taylor-ai-revenue-cycle-optimization
+            - generic [ref=f11e700] [box=726,25276,130,360]:
+              - generic [ref=f11e701] [box=726,25276,130,160]:
+                - heading "About Us" [level=3] [ref=f11e702] [box=726,25296,130,28]
+                - generic [ref=f11e703] [box=726,25348,130,88]:
+                  - link "Company" [ref=f11e704] [cursor=pointer] [box=726,25348,130,20]:
+                    - /url: /about-us
+                  - link "Trust & Security" [ref=f11e705] [cursor=pointer] [box=726,25382,130,20]:
+                    - /url: /trust-and-security
+                  - link "FAQs" [ref=f11e706] [cursor=pointer] [box=726,25416,130,20]:
+                    - /url: /faqs
+              - generic [ref=f11e707] [box=726,25476,130,160]:
+                - heading "Policies" [level=3] [ref=f11e708] [box=726,25496,130,28]
+                - generic [ref=f11e709] [box=726,25548,130,88]:
+                  - link "Privacy Policy" [ref=f11e710] [cursor=pointer] [box=726,25548,130,20]:
+                    - /url: /privacy-policy
+                  - link "Terms of Service" [ref=f11e711] [cursor=pointer] [box=726,25582,130,20]:
+                    - /url: /terms-of-service
+                  - link "Cookie Policy" [ref=f11e712] [cursor=pointer] [box=726,25616,130,20]:
+                    - /url: /cookie-policy
+            - generic [ref=f11e713] [box=904,25276,130,360]:
+              - heading "Resources" [level=3] [ref=f11e714] [box=904,25296,130,28]
+              - generic [ref=f11e715] [box=904,25348,130,278]:
+                - link "Customer Success Stories" [ref=f11e716] [cursor=pointer] [box=904,25348,130,40]:
+                  - /url: /resources/customer-success-stories
+                - link "Blogs" [ref=f11e717] [cursor=pointer] [box=904,25402,130,20]:
+                  - /url: /blog
+                - link "Events" [ref=f11e718] [cursor=pointer] [box=904,25436,130,20]:
+                  - /url: /events
+                - link "Integrations" [ref=f11e719] [cursor=pointer] [box=904,25470,130,20]:
+                  - /url: /resources/integration
+                - link "Schedule Demo" [ref=f11e720] [cursor=pointer] [box=904,25504,130,20]:
+                  - /url: /demo
+                - link "Career" [ref=f11e721] [cursor=pointer] [box=904,25538,130,20]:
+                  - /url: https://warm-condition-19a.notion.site/Build-your-career-with-CombineHealth-278709c7eb518006b43cd82a7fc86269
+                - link "Specialities" [ref=f11e722] [cursor=pointer] [box=904,25572,130,20]:
+                  - /url: /specialities
+                - link "Denial Codes" [ref=f11e723] [cursor=pointer] [box=904,25606,130,20]:
+                  - /url: /denial-codes
+          - generic [ref=f11e724] [box=548,25684,486,142]:
+            - generic [ref=f11e725] [box=548,25716,486,28]:
+              - generic [ref=f11e726] [box=548,25716,226,28]: Subscribe to newsletter -
+              - generic [ref=f11e727] [box=782,25716,130,28]: The RCM Pulse
+            - generic [ref=f11e729] [box=548,25760,486,66]:
+              - textbox "Enter your name" [ref=f11e730] [box=557,25771,280,44]
+              - textbox "Enter your email" [ref=f11e732] [box=854,25771,32,44]
+              - button "Subscribe" [disabled] [ref=f11e733] [box=890,25769,136,48]
+  - alert [ref=f11e734] [box=-1,26017,1,1]

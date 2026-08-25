@@ -1,0 +1,189 @@
+- generic [active] [ref=f37e1]:
+  - generic [ref=f37e4]:
+    - generic [ref=f37e11]:
+      - generic [ref=f37e12]: Select another country or region to view content specific to your location.
+      - button "United States" [ref=f37e17] [cursor=pointer]
+      - link "Continue" [ref=f37e27] [cursor=pointer]:
+        - /url: "#"
+    - banner [ref=f37e34]:
+      - generic [ref=f37e36]:
+        - link "GE Logo" [ref=f37e39] [cursor=pointer]:
+          - /url: /en-in
+          - img "GE Logo" [ref=f37e41]
+        - list [ref=f37e43]:
+          - listitem [ref=f37e44]:
+            - button "Search Icon" [ref=f37e45] [cursor=pointer]
+          - listitem [ref=f37e49]:
+            - button "Sign in Icon" [ref=f37e50] [cursor=pointer]
+          - listitem [ref=f37e54]:
+            - button "Cart Icon" [ref=f37e56] [cursor=pointer]
+          - listitem [ref=f37e60]
+    - generic [ref=f37e67]:
+      - generic [ref=f37e69]:
+        - generic [ref=f37e70]:
+          - generic [ref=f37e71]:
+            - link "articles" [ref=f37e73] [cursor=pointer]:
+              - /url: /en-in/insights/articles
+            - link "Article" [ref=f37e78] [cursor=pointer]:
+              - /url: /en-in/insights/articles?format=article
+          - heading "How agentic AI systems can solve the three most pressing problems in healthcare today" [level=1] [ref=f37e79]
+          - paragraph
+          - paragraph [ref=f37e80]: December 11, 2024 . 10 min read
+        - img "Surgeon_man_and_medical_error_or_frustrated_at_hospital_with_tablet_or_bad_news_for_patient._Mistake,_doctor_and_technology_wit" [ref=f37e83]
+      - generic [ref=f37e92]:
+        - generic [ref=f37e94]:
+          - paragraph [ref=f37e95]: Dr. Taha Kass-Hout, Dan Sheeran
+          - paragraph [ref=f37e96]: Originally published by Amazon Web Services.
+          - paragraph [ref=f37e97]: We’re living through an era of remarkable medical advancements, from CRISPR gene editing to 3D-printed organs and targeted cancer therapies. Yet, when future generations look back at our times, will they remember these remarkable innovations or will our true legacy be the incredible inefficiencies and strains that plagued our healthcare systems?
+          - paragraph [ref=f37e98]: "Consider the challenging and deeply emotional journey of a cancer patient today, marked by the uncertainty of treatment and the weight of their diagnosis. Alongside the patient’s struggle, there is another layer of strain: the challenges faced by their care teams. Clinicians must sift through mountains of various modalities and sources of data that include medical images, lab results, and patient histories to develop precise treatment plans. Meanwhile, medical staff work tirelessly to schedule appointments and coordinate therapies for numerous patients while navigating dozens of conflicting factors, often leading to stress and burnout."
+          - paragraph [ref=f37e99]: This article explores the potential of Agentic AI systems to ease these burdens by providing real-time support to healthcare providers, handling complex tasks like deciphering intricate medical cases and coordinating cohesive care plans across multiple specialized departments such as oncology, radiology, and surgery, ensuring patients receive comprehensive, timely care throughout their treatment journey.
+          - heading "The Data Overload in Healthcare" [level=3] [ref=f37e100]
+          - paragraph [ref=f37e101]: By 2025, over 180 zettabytes of data will be generated globally, with healthcare contributing more than one-third. Today, only 3% of healthcare’s data is effectively used, largely due to inefficient systems that cannot process multi-modal data at scale, forcing clinicians to manually sort through data to derive insights for patient care. And, this challenge is only multiplying. The NIH estimates that medical knowledge doubles every 73 days, particularly in oncology, cardiology, and neurology.
+          - paragraph [ref=f37e102]: To put this into perspective, an oncologist reviewing Prostate-Specific Antigen (PSA) results must consider all medications, therapies, procedures, symptoms, medical imaging, biopsies, and co-morbidities with data scattered across multiple documents and systems – all within a 15-30 minute consultation.
+          - paragraph [ref=f37e103]: Care providers also face logistical challenges. According to a study by Solutions Reach, cancer patients have a 25% missed care rate, complicating scheduling and resulting in backlogs that make it nearly impossible to prioritize high-risk patients.
+          - heading "The Trifecta of Problems" [level=3] [ref=f37e104]
+          - paragraph [ref=f37e105]: The challenges of cognitive overload, care plan orchestration, and system fragmentation are evident in the current healthcare landscape, where patients often face fragmented journeys and delays.
+          - paragraph [ref=f37e106]: Let’s take a look at a routine oncologist visit. After a PSA test, results are entered into the electronic medical record (EMR) system where the oncologist must manually check for abnormal levels and request further tests. Without an intelligent system to flag urgency and automate prioritization, those requests for additional tests may be delayed, affecting patient care.
+          - paragraph [ref=f37e107]: Additionally, the oncology nurse manually sends requests to the imaging unit and surgical department, instead of systems automatically sending requests and handling scheduling. To further complicate matters, the MRI technician, unaware of the patient’s medical history, has to manually seek expert advice about individual factors, such as a pacemaker, where the MRI machine’s magnetic field may interfere with the pacemaker’s functionality. And, the anesthesiologist has to manually research the patient’s medications and allergies that may cause interactions with surgical medications, often requiring custom plans and consultations that further delay treatment.
+          - paragraph [ref=f37e108]:
+            - text: "These challenges demand more than incremental solutions:"
+            - link "GE HealthCare is leveraging AI and cloud innovations through our partnership with AWS" [ref=f37e109] [cursor=pointer]:
+              - /url: https://www.gehealthcare.com/about/newsroom/press-releases/ge-healthcare-and-aws-announce-strategic-collaboration-to-accelerate-healthcare-transformation-with-generative-ai
+            - text: to transform healthcare workflows and seamlessly integrate care delivery from the ground up. The partnership is exploring how intelligent, agentic systems can enhance healthcare services, reduce errors, and provide seamless patient experiences.
+          - paragraph [ref=f37e110]: The opportunity lies in using agentic systems to harness the intelligence currently trapped in healthcare data. Doing so could provide the ability to scale multi-disciplinary reasoning, collaboration, and process automation to support care providers so they can spend more time with their patients.
+          - heading "The Agentic Era" [level=3] [ref=f37e111]
+          - paragraph [ref=f37e112]: Agentic systems, powered by large language (LLMs) and multi-modal foundation models (FMs), promise to transform healthcare by processing vast datasets—such as clinical notes, patient histories, lab results, medical guidelines, clinical trials, and even diagnostic imaging—to extract actionable insights, enabling clinicians to focus more on patient care and improving outcomes. By coordinating care plans and integrating data across healthcare infrastructures, these systems aim to alleviate cognitive burdens, streamline workflows, and maximize resource efficiency.
+          - paragraph [ref=f37e113]: Agentic systems are proactive, goal-driven, and capable of adaptive learning. They interact with their environment via APIs or digital tools to access data, execute business logic, and refine strategies in real time. They use ‘proactive’ and ‘reactive’ agents, leveraging LLMs to execute commands and analytical tasks. The intelligence of these systems centers on their internal thought process, which is mirrored externally as a ‘chain of thought’ or ‘tree of thought,’ guiding problem-solving by maintaining focus on set goals.
+          - paragraph [ref=f37e114]: With task details, context, logical frameworks, and exploration tools, agentic systems can devise comprehensive care plans, extract valuable insights, and coordinate complex care across departments. In a healthcare system transformed by these capabilities, silos are broken down and applications communicate with each other to optimize patient care.
+          - heading "An Illustration of the Potential of Agentic Systems in Healthcare" [level=3] [ref=f37e115]
+          - paragraph [ref=f37e116]: Now, going back to the original example, let’s illustrate a practical application of agentic systems through the lens of helping an oncologist develop and execute a cancer treatment plan on “John Doe”, a patient with progressive prostate cancer.
+        - generic [ref=f37e121]:
+          - img "Zz1jODAyMTViY2FkMTAxMWVmYjUyZjBhZmYyNjliNWEzZg" [ref=f37e126]
+          - paragraph [ref=f37e128]:
+            - emphasis [ref=f37e129]: "Mockup of a multidisciplinary agentic AI workflow: agents analyzing clinical, biochemical, pathological, and radiological data to evaluate metastatic spread."
+        - generic [ref=f37e131]:
+          - paragraph [ref=f37e132]: In this example, upon entry of new clinical data (e.g., PSA levels, MRI results, biopsy reports) into the EMR, a coordinating agent aggregates information from disparate sources and initiates workflows based on predefined logic. Depending on the data’s significance, specialized agents are activated as part of a ‘virtual tumor board.’
+          - paragraph [ref=f37e133]: "Specialized agents include:"
+          - list [ref=f37e134]:
+            - listitem [ref=f37e135]:
+              - strong [ref=f37e136]: Clinical Data Specialist Agent
+              - text: ": Analyzes clinical notes using natural language processing (NLP) to identify critical findings, distinguishing between current and historical issues."
+            - listitem [ref=f37e137]:
+              - strong [ref=f37e138]: Molecular Test Data Agent
+              - text: ": Decodes genomic data from biopsy samples to identify biomarkers like BRCA1/2 and PSMA to support personalized treatment."
+            - listitem [ref=f37e139]:
+              - strong [ref=f37e140]: Biochemical Data Specialist Agent
+              - text: ": Assesses unusual biochemical activity, such as irregular PSA levels, and provides insights on cancer aggressiveness and disease progression."
+            - listitem [ref=f37e141]:
+              - strong [ref=f37e142]: Radiological Data Specialist Agent
+              - text: ": Interprets medical imaging data using AI-driven techniques to detect metastasis and evaluate treatment impact."
+            - listitem [ref=f37e143]:
+              - strong [ref=f37e144]: Biopsy Data Specialist Agent
+              - text: ": Processes biopsy reports through digital pathology algorithms, assigning a Gleason score and determining cancer staging to rate the aggressiveness or staging of prostate cancer, with higher scores indicating a more aggressive cancer."
+          - paragraph [ref=f37e145]: These agents would operate autonomously within their defined scopes, accessing additional datasets through APIs to retrieve supplementary information, such as historical patient data or case studies, for detailed disease progression assessment.
+          - paragraph [ref=f37e146]: Through the process of agent collaboration and recommendation synthesis, evaluations are synthesized by a coordinating agent, which activates a recommendation generator to apply clinical decision support algorithms, producing treatment suggestions securely stored in the EMR and notifying John’s oncologist.
+          - paragraph [ref=f37e147]: Instead of the oncologist manually checking results and scheduling follow up tests, context-driven reactive workflows automate critical requests. Using a clinical language processing agent that leverages medical NLP to analyze the notes and coordinate with an MRI schedule, an optimization agent can prioritize appointments while balancing system capacity. The scheduling agent slots for urgent scans without disrupting critical cases, while a compatibility agent ensures safety by cross-referencing pacemaker models to preempt MRI risks.
+          - paragraph [ref=f37e148]: Personalized treatment plans are then created using treatment planning agents. Treatment planning agents in cancer care enable the seamless integration of theranostics—a unified approach combining diagnostics and treatment in a single session. By synchronizing with schedulers, these agents coordinate theranostic sessions alongside other treatments like chemotherapy, surgery, or radiation therapy, optimizing resource allocation, improving scheduling efficiency in clinical settings, and speeding care to patients.
+          - paragraph [ref=f37e149]: This automation can ease the burden on both patients and clinicians by delivering efficiencies and insights not possible with the current manual processes of healthcare delivery, but the need for compliance and oversight is still paramount. Healthcare informatics professionals ensure the agents adhere to medical logic, data standards, and clinical workflows, supported by an intuitive dashboard for monitoring and intervention when needed. Each modular agent follows standards like HL7, FHIR, HIPAA, and GDPR, forming a cohesive system that transforms John Doe’s complex cancer care into a precise, efficient, and responsive treatment journey through expert design, collaborative algorithms, and modular architecture.
+          - paragraph [ref=f37e150]: Future integrations, such as connecting MRI systems with personalized treatment tools, could further revolutionize care. Agentic systems could calculate custom dosimetry plans for radiotherapy, precisely targeting treatment areas and reducing delays. These systems can also monitor radiation doses, notifying technicians of deviations and suggesting corrections to maintain safety standards. This proactive, interconnected approach exemplifies how agentic systems could break traditional silos and elevate care standards.
+          - paragraph [ref=f37e151]: Building secure, highly available, and performant agentic systems for healthcare requires significant foundational work, which AWS simplifies and accelerates. By leveraging AWS services like S3 and DynamoDB for data and metadata storage, VPC with private subnets to ensure restricted access, KMS for encryption, Fargate for hosting compute engines, ALB for load balancing and OIDC/OAuth2 validation with GEHC’s identity and authorization manager, CloudFront for hosting our frontend application, CloudFormation for infrastructure lifecycle management, and CloudWatch for monitoring and dashboards, research on agentic AI could be reduced from months of effort into days.
+          - paragraph [ref=f37e152]:
+            - text: While
+            - link "GE HealthCare’s research team is developing multi-agentic systems" [ref=f37e153] [cursor=pointer]:
+              - /url: https://www.gehealthcare.com/about/newsroom/press-releases/ge-healthcare-announces-ai-innovation-lab-showcasing-five-new-research-projects
+            - text: from the ground up, down the road, we can also accelerate innovation with services like Amazon Bedrock to build a system where a coordinating agent will be able to seamlessly orchestrate the workflows of specialized agents. Bedrock’s memory retention can enable the system to sequence actions across agents, and maintain context across interactions, ultimately ensuring continuity in patient care and personalized experiences.
+          - paragraph [ref=f37e154]: With trace capabilities, we can create transparency across every agent’s chain of thought, examine its reasoning, and troubleshoot orchestration flows to refine behaviors and enhance outcomes. To build such a system, we will be able to leverage Bedrock’s intuitive setup, combining its retrieval-augmented generation for data integration and asynchronous execution capabilities to streamline complex tasks.
+        - img "Zz04YmY4OTViNmI3MjcxMWVmYWUzMzlhMzJjOGM1YjJhYg" [ref=f37e164]
+        - generic [ref=f37e167]:
+          - paragraph [ref=f37e168]:
+            - emphasis [ref=f37e169]: Simplified, minimalist cloud architecture for a multi-agentic health system
+          - heading "Trust in Agentic AI Systems" [level=3] [ref=f37e170]
+          - paragraph [ref=f37e171]: With agentic AI, trust and safety are crucial. Beyond standard data privacy and cybersecurity measures, specific safeguards must be in place when these systems influence care decisions. One significant risk is the potential for the agents to generate false information. Robust detection systems and extensive contextual data can help mitigate this, and a human-in-the-loop strategy can ensure clinical validation of AI-generated plans, maintaining safety and the human touch in healthcare. Regular audits and independent validation loops can further enhance the reliability of these systems.
+          - paragraph [ref=f37e172]: As we transition from isolated healthcare structures to cohesive agentic systems, we can unlock optimized, intelligent, and interconnected patient care. Agents could dynamically interact, adapt, and harmonize the skills of healthcare professionals with AI insights, enhancing efficiency and outcomes. Through agentic systems, we stand on the brink of a healthcare evolution that gives us hope for comprehensive, connected, and compassionate care for all.
+        - img "Zz1hMmM0MWU5NGI3MjkxMWVmYWVjNmUyMDZiN2M5Y2UzYw" [ref=f37e182] [cursor=pointer]
+        - paragraph [ref=f37e186]:
+          - strong [ref=f37e187]:
+            - link "Dan Sheeran" [ref=f37e188] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/dan-sheeran/
+          - emphasis [ref=f37e189]: leads AWS' Healthcare and Life Sciences Industry Business Unit (HCLS IBU), which supports all AWS customers in Life Sciences, Medical Devices, Payors, Data Services and Healthcare ISVs and OEMs. The HCLS IBU helps customers leverage AWS cloud and machine learning services, and solutions from AWS Partners, to discover and develop new therapies, diagnostics and devices, and to deliver healthcare more efficiently with improved patient outcomes. Prior to joining AWS in 2019 Dan founded and led two digital health startups focused on telehealth and machine learning for chronic disease prevention and management. Dan lives in the Seattle area. He has an MBA from Northwestern University and BS from Georgetown University.
+        - img "Zz1iYTYxMDc4OGI3MjkxMWVmOTFiNTA2MDM2NGY1NDcyYQ" [ref=f37e199] [cursor=pointer]
+        - paragraph [ref=f37e203]:
+          - strong [ref=f37e204]:
+            - link "Dr. Taha Kass-Hout, MD, MS" [ref=f37e205] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/tahak/
+            - text: ","
+          - emphasis [ref=f37e206]: is the Global Chief Science and Technology Officer of GE HealthCare and an acclaimed innovator at the intersection of healthcare and technology. His previous role at Amazon as Vice President/Distinguished Engineer of Machine Learning and Chief Medical Officer saw him spearhead pivotal health tech projects, including Amazon HealthLake, Amazon Comprehend Medical, and Amazon Pharmacy. He also played a critical role in establishing Amazon's diagnostic lab during the COVID-19 pandemic. Before his tenure at Amazon, Dr. Kass-Hout was the first Chief Health Informatics Officer at the U.S. FDA, where he championed data transparency through initiatives like openFDA and precisionFDA. A graduate from the University of Texas with an MD and MS, and with clinical training from Harvard's Beth Israel Deaconess Medical Center, Dr. Kass-Hout's contributions to healthcare technology have been recognized with the 2024 Seattle Global CIO of the Year Orbie Award, illustrating his profound impact on enhancing healthcare delivery and public health globally.
+    - generic [ref=f37e230]:
+      - heading "Stay connected with GE HealthCare" [level=2] [ref=f37e232]
+      - paragraph [ref=f37e234]: Sign up to our newsletter and stay up to date with latest news and innovation
+      - generic [ref=f37e235]:
+        - generic [ref=f37e236]: Enter your email address
+        - textbox "name@domain.com" [ref=f37e238]
+      - link "Sign up" [ref=f37e239] [cursor=pointer]:
+        - /url: "#"
+    - contentinfo [ref=f37e246]:
+      - generic [ref=f37e248]:
+        - generic [ref=f37e249]:
+          - link "GE Logo" [ref=f37e251] [cursor=pointer]:
+            - /url: /en-in
+            - img "GE Logo" [ref=f37e254]
+          - generic [ref=f37e255]:
+            - link "Newsroom" [ref=f37e256] [cursor=pointer]:
+              - /url: /content/gehealthcare/in/en/about/newsroom.html
+            - link "Careers" [ref=f37e257] [cursor=pointer]:
+              - /url: https://careers.gehealthcare.com/global/en
+            - link "Contact Us" [ref=f37e258] [cursor=pointer]:
+              - /url: /content/gehealthcare/in/en/about/contact-us.html
+            - link "Adverse Event Report" [ref=f37e259] [cursor=pointer]:
+              - /url: /content/gehealthcare/in/en/about/adverse-event-reporting.html
+        - generic [ref=f37e262]:
+          - generic [ref=f37e264]:
+            - paragraph [ref=f37e265]: WIPRO GE HEALTHCARE PVT LTD
+            - paragraph [ref=f37e266]: No. 4, Kadugodi Industrial Area,
+            - paragraph [ref=f37e267]: Bangalore 560067,
+            - paragraph [ref=f37e268]: Karnataka, India
+            - paragraph [ref=f37e269]: "CIN: U33111KA1990PTC01606"
+          - generic [ref=f37e272]:
+            - paragraph [ref=f37e273]
+            - paragraph [ref=f37e274]
+        - generic [ref=f37e276]:
+          - generic [ref=f37e280] [cursor=pointer]:
+            - generic [ref=f37e284]: India
+            - img "ico-caret-right" [ref=f37e286]
+          - generic [ref=f37e289]:
+            - link [ref=f37e291] [cursor=pointer]:
+              - /url: https://www.facebook.com/GEHCIndia/
+              - img "https://www.facebook.com/GEHCIndia/" [ref=f37e292]
+            - link [ref=f37e294] [cursor=pointer]:
+              - /url: https://www.instagram.com/gehealthcare
+              - img "https://www.instagram.com/gehealthcare" [ref=f37e295]
+            - link [ref=f37e297] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/gehealthcare/
+              - img "https://www.linkedin.com/company/gehealthcare/" [ref=f37e298]
+            - link [ref=f37e300] [cursor=pointer]:
+              - /url: https://www.youtube.com/@GEHealthCareIndiaYT
+              - img "https://www.youtube.com/@GEHealthCareIndiaYT" [ref=f37e301]
+      - generic [ref=f37e304]:
+        - paragraph [ref=f37e306]: © 2026 GE HealthCare. GE is a trademark of General Electric Company. Used under trademark license.
+        - generic [ref=f37e308]:
+          - button "Cookie Preferences" [ref=f37e309] [cursor=pointer]
+          - paragraph [ref=f37e311]:
+            - link "Privacy Policy" [ref=f37e312] [cursor=pointer]:
+              - /url: /en-in/about/privacy/privacy-policy
+            - link "Terms and Conditions" [ref=f37e313] [cursor=pointer]:
+              - /url: /en-in/about/terms-and-conditions
+            - link "Security" [ref=f37e314] [cursor=pointer]:
+              - /url: https://www.gehealthcare.com/en-us/productsecurity/products
+  - dialog "Cookie notice banner" [ref=f37e315]:
+    - generic [ref=f37e316]: About Cookies On This Site
+    - generic [ref=f37e317]:
+      - text: We use cookies to personalize and enhance your experience on our site as well as the communications we send you. Visit our
+      - link "Privacy Policy" [ref=f37e318] [cursor=pointer]:
+        - /url: https://www.gehealthcare.com/about/privacy/privacy-policy
+      - text: to learn more or manage your personal preferences in our
+      - link "Cookie Consent Tool" [ref=f37e319] [cursor=pointer]:
+        - /url: "#"
+      - text: .
+    - button "Allow necessary only" [ref=f37e320] [cursor=pointer]
+    - button "Accept all" [ref=f37e321] [cursor=pointer]
+    - button "Customize cookies, Opens the preference dialog." [ref=f37e322] [cursor=pointer]: Customize cookies

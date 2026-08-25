@@ -1,0 +1,10 @@
+[    2446ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.nature.com/articles/s41591-024-00600-x:0
+[    4224ms] [LOG] limitedAds is  true @ :1
+[    4224ms] [WARNING] The following functions are deprecated: googletag.pubads().setTagForChildDirectedTreatment(), googletag.pubads().clearTagForChildDirectedTreatment(), googletag.pubads().setRequestNonPersonalizedAds(), and googletag.pubads().setTagForUnderAgeOfConsent(). Please use googletag.pubads().setPrivacySettings() instead. @ https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202607280101/pubads_impl.js:18
+[    4225ms] [WARNING] [GPT] PubAdsService.enableSingleRequest is deprecated, use googletag.setConfig({singleRequest: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202607280101/pubads_impl.js:18
+[    4371ms] [LOG] logged_in_to_sn_profile could not be retrieved from /exposed-details @ :0
+[    4376ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202607280101/pubads_impl.js:18
+[    4572ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://scripts.webcontentassessor.com/scripts/93dabb8d80079a87fec7bb6f67b807fce90e1688f8957ad7ad152bfd58ea01c2:0
+[    4947ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0

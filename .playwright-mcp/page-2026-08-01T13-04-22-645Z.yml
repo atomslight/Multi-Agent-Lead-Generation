@@ -1,0 +1,395 @@
+- generic [active] [ref=f1e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f1e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f1e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f1e8]:
+    - search [ref=f1e9]:
+      - generic [ref=f1e11]:
+        - link "Go to Google Home" [ref=f1e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQPAgI
+        - generic [ref=f1e21]:
+          - generic [ref=f1e22]:
+            - combobox "Search" [ref=f1e25]: healthcare problems needing agentic AI engineers healthcare problems needing agentic AI engineers
+            - generic [ref=f1e26]:
+              - button "Clear" [ref=f1e28] [cursor=pointer]
+              - generic [ref=f1e33]:
+                - button "Search by voice" [ref=f1e34] [cursor=pointer]
+                - button "Search by image" [ref=f1e37] [cursor=pointer]
+          - button "Search" [ref=f1e40] [cursor=pointer]
+    - generic [ref=f1e45]:
+      - button "Settings" [ref=f1e47] [cursor=pointer]
+      - button "Share" [ref=f1e53] [cursor=pointer]
+      - generic [ref=f1e59]:
+        - button "Google apps" [ref=f1e61] [cursor=pointer]
+        - link "Sign in" [ref=f1e66] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dhealthcare%2Bproblems%2Bneeding%2Bagentic%2BAI%2Bengineers%26sca_esv%3D5a0bfebe6e310739%26source%3Dhp%26ei%3Dve5tarPgJ9yihvcP-MPy0A0%26iflsig%3DABILxe8AAAAAam38zXQpnXhkGmIxzIRV1BnzoBLsOEab%26ved%3D0ahUKEwjzspWBv_-VAxVckeEIHfihHNoQ4dUDCA4%26uact%3D5%26oq%3Dhealthcare%2Bproblems%2Bneeding%2Bagentic%2BAI%2Bengineers%26gs_lp%3DEgdnd3Mtd2l6IjBoZWFsdGhjYXJlIHByb2JsZW1zIG5lZWRpbmcgYWdlbnRpYyBBSSBlbmdpbmVlcnNIC1AAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB%26sclient%3Dgws-wiz&ec=futura_srp_og_si_72236_p
+  - generic [ref=f1e68]:
+    - navigation [ref=f1e74]:
+      - generic [ref=f1e80]:
+        - list [ref=f1e81]:
+          - listitem [ref=f1e82]:
+            - link "All" [disabled] [ref=f1e83]
+          - listitem [ref=f1e86]:
+            - link "Short videos" [ref=f1e87] [cursor=pointer]:
+              - /url: /search?sca_esv=5a0bfebe6e310739&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT0U_atBfRmMqrT1MCXu409g54jGOapnMt6elh2bebJrJMvbNOLmnLzk9zz-sbhOvGqpKLfLLxhjHRD9Y_irL_cuSL4I-R00DyVFlFsJto-E_lcnGnYEphYxOYhafQZn160l4QQ7bAc6IVmqYHMBLHp5R4JwLA&q=healthcare+problems+needing+agentic+AI+engineers&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQs6gLegQIFxAB
+          - listitem [ref=f1e90]:
+            - link "Videos" [ref=f1e91] [cursor=pointer]:
+              - /url: /search?sca_esv=5a0bfebe6e310739&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT0U_atBfRmMqrT1MCXu409g54jGOapnMt6elh2bebJrJMvbNOLmnLzk9zz-sbhOvGqpKLfLLxhjHRD9Y_irL_cuSL4I-R00DyVFlFsJto-E_lcnGnYEphYxOYhafQZn160l4QQ7bAc6IVmqYHMBLHp5R4JwLA&q=healthcare+problems+needing+agentic+AI+engineers&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQtKgLegQIFBAB
+          - listitem [ref=f1e94]:
+            - link "News" [ref=f1e95] [cursor=pointer]:
+              - /url: /search?sca_esv=5a0bfebe6e310739&q=healthcare+problems+needing+agentic+AI+engineers&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT0U_atBfRmMqrT1MCXu409g54jGOapnMt6elh2bebJrJMvbNOLmnLzk9zz-sbhOvGqpKLfLLxhjHRD9Y_irL_cuSL4I-R00DyVFlFsJto-E_lcnGnYEphYxOYhafQZn160l4QQ7bAc6IVmqYHMBLHp5R4JwLA&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ0pQJegQIExAB
+          - listitem [ref=f1e98]:
+            - link "Images" [ref=f1e99] [cursor=pointer]:
+              - /url: /search?sca_esv=5a0bfebe6e310739&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT0U_atBfRmMqrT1MCXu409g54jGOapnMt6elh2bebJrJMvbNOLmnLzk9zz-sbhOvGqpKLfLLxhjHRD9Y_irL_cuSL4I-R00DyVFlFsJto-E_lcnGnYEphYxOYhafQZn160l4QQ7bAc6IVmqYHMBLHp5R4JwLA&q=healthcare+problems+needing+agentic+AI+engineers&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQtKgLegQIFhAB
+          - listitem [ref=f1e102]:
+            - link "Forums" [ref=f1e103] [cursor=pointer]:
+              - /url: /search?sca_esv=5a0bfebe6e310739&udm=18&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT0U_atBfRmMqrT1MCXu409g54jGOapnMt6elh2bebJrJMvbNOLmnLzk9zz-sbhOvGqpKLfLLxhjHRD9Y_irL_cuSL4I-R00DyVFlFsJto-E_lcnGnYEphYxOYhafQZn160l4QQ7bAc6IVmqYHMBLHp5R4JwLA&q=healthcare+problems+needing+agentic+AI+engineers&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQs6gLegQIFRAB
+          - listitem [ref=f1e106]:
+            - button [ref=f1e107] [cursor=pointer]:
+              - generic "More filters" [ref=f1e108]: More
+        - button "Tools" [ref=f1e115] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f1e122]
+    - generic [ref=f1e127]:
+      - generic [ref=f1e146]:
+        - generic [ref=f1e149]:
+          - generic [ref=f1e151]:
+            - heading "AI Overview" [level=2] [ref=f1e155]
+            - generic [ref=f1e157]:
+              - button "Change language to Hindi" [ref=f1e158] [cursor=pointer]:
+                - generic [ref=f1e159]: हिन्दी
+              - button "Listen" [ref=f1e162]
+            - button "About this result" [ref=f1e174]
+          - generic [ref=f1e203]:
+            - generic [ref=f1e204]:
+              - text: Healthcare urgently needs agentic AI engineers
+              - mark [ref=f1e205]: to build autonomous, multi-step systems that can reason, use tools, and execute complex workflows
+              - text: . Unlike passive chatbots, agentic systems take proactive ownership of operational, clinical, and administrative bottlenecks.
+              - generic [ref=f1e207]:
+                - link "Kore.ai (+2) – View related links" [ref=f1e208] [cursor=pointer]:
+                  - /url: https://www.kore.ai/blog/ai-agents-in-healthcare-12-real-world-use-cases-2026
+                - button "Kore.ai (+2) – View related links" [disabled] [ref=f1e209]:
+                  - generic [ref=f1e211]:
+                    - generic [ref=f1e212]: Kore.ai
+                    - generic [ref=f1e213]: "+2"
+            - heading "Administrative & Revenue Cycle Overload" [level=3] [ref=f1e218]
+            - list [ref=f1e219]:
+              - listitem [ref=f1e221]:
+                - generic [ref=f1e222]:
+                  - strong [ref=f1e223]: "Prior Authorization & Claims Denials:"
+                  - text: Automating complex insurance appeals, parsing medical necessity requirements, and re-submitting structured data to reduce climbing denial rates.
+                - generic [ref=f1e225]:
+                  - link "LatentView Analytics – View related links" [ref=f1e226] [cursor=pointer]:
+                    - /url: https://www.latentview.com/blog/agentic-ai-in-healthcare/
+                  - button "LatentView Analytics – View related links" [disabled] [ref=f1e227]:
+                    - generic [ref=f1e229]:
+                      - generic [ref=f1e230]: LatentView Analytics
+                      - generic [ref=f1e231]: "+1"
+              - listitem [ref=f1e237]:
+                - generic [ref=f1e238]:
+                  - strong [ref=f1e239]: "Ambient & Agentic Medical Scribing:"
+                  - text: Deploying speech-to-action pipelines that not only transcribe visits but actively log medication administration, code charts, and update Electronic Health Records (EHRs) without manual entry.
+                - generic [ref=f1e241]:
+                  - link "YouTube (+1) – View related links" [ref=f1e242] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=BnaR9KJyHoQ&vl=en&t=175
+                  - button "YouTube (+1) – View related links" [disabled] [ref=f1e243]:
+                    - generic [ref=f1e245]:
+                      - generic [ref=f1e246]: YouTube
+                      - generic [ref=f1e247]: ·Databricks
+                      - generic [ref=f1e248]: "+1"
+        - button "Show more AI Overview" [ref=f1e265]:
+          - generic [ref=f1e266] [cursor=pointer]: Show more
+      - main [ref=f1e273]:
+        - generic [ref=f1e277]:
+          - generic [ref=f1e280]:
+            - heading "Web results" [level=2] [ref=f1e281]
+            - generic [ref=f1e282]:
+              - generic [ref=f1e285]:
+                - 'link "Agentic AI In Healthcare: Use Cases, Challenges & Best ... LatentView Analytics https://www.latentview.com › blog › agentic-ai-in-health..." [ref=f1e287] [cursor=pointer]':
+                  - /url: https://www.latentview.com/blog/agentic-ai-in-healthcare/
+                  - 'heading "Agentic AI In Healthcare: Use Cases, Challenges & Best ..." [level=3] [ref=f1e288]'
+                  - generic [ref=f1e294]:
+                    - generic [ref=f1e295]: LatentView Analytics
+                    - generic [ref=f1e297]: https://www.latentview.com › blog › agentic-ai-in-health...
+                - button "About this result" [ref=f1e301] [cursor=pointer]
+              - generic [ref=f1e307]:
+                - generic [ref=f1e308]: 28 Apr 2026 —
+                - generic [ref=f1e309]:
+                  - text: What Healthcare Problems Will Agentic AI Solve? ·
+                  - emphasis [ref=f1e310]: Administrative Overload Burning Out Clinicians
+                  - text: · Rising Denial Rates Draining Revenue.
+                - link "Read more" [ref=f1e311] [cursor=pointer]:
+                  - /url: https://www.latentview.com/blog/agentic-ai-in-healthcare/#:~:text=What%20Healthcare%20Problems%20Will%20Agentic,AI%20Solve%3F&text=Administrative%20Overload%20Burning%20Out%20Clinicians&text=Rising%20Denial%20Rates%20Draining%20Revenue
+          - generic [ref=f1e315]:
+            - generic [ref=f1e317]:
+              - heading "Videos" [level=2] [ref=f1e318]
+              - button "About this result" [ref=f1e319] [cursor=pointer]
+            - generic [ref=f1e325]:
+              - generic [ref=f1e331]:
+                - generic [ref=f1e332]:
+                  - generic [ref=f1e333]:
+                    - link [ref=f1e335] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=BnaR9KJyHoQ&vl=en
+                      - heading "How Agentic AI is Rewriting Healthcare | NVIDIA x Databricks YouTube Databricks 20 Apr 2026" [level=3] [ref=f1e336]:
+                        - generic [ref=f1e337]: How Agentic AI is Rewriting Healthcare | NVIDIA x Databricks
+                        - generic [ref=f1e341]:
+                          - generic [ref=f1e342]:
+                            - text: YouTube
+                            - generic [ref=f1e343]: · Databricks
+                          - generic [ref=f1e344]: 20 Apr 2026
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · Databricks
+                        - button "About this result" [ref=f1e345] [cursor=pointer]
+                  - button "How Agentic AI is Rewriting Healthcare | NVIDIA x Databricks by Databricks on YouTube. Play on Google. 15:17" [ref=f1e350] [cursor=pointer]:
+                    - generic [ref=f1e351]: 15:17
+                - button "8 key moments in this video" [ref=f1e370] [cursor=pointer]
+              - generic [ref=f1e391]:
+                - generic [ref=f1e392]:
+                  - generic [ref=f1e393]:
+                    - link [ref=f1e395] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=kR2N4yCnPrA
+                      - heading "Unlocking Human-Centered Health Care with Agentic AI YouTube Boston Consulting Group 8 Feb 2026" [level=3] [ref=f1e396]:
+                        - generic [ref=f1e397]: Unlocking Human-Centered Health Care with Agentic AI
+                        - generic [ref=f1e401]:
+                          - generic [ref=f1e402]:
+                            - text: YouTube
+                            - generic [ref=f1e403]: · Boston Consulting Group
+                          - generic [ref=f1e404]: 8 Feb 2026
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · Boston Consulting Group
+                        - button "About this result" [ref=f1e405] [cursor=pointer]
+                  - button "Unlocking Human-Centered Health Care with Agentic AI by Boston Consulting Group on YouTube. Play on Google. 4:40" [ref=f1e410] [cursor=pointer]:
+                    - generic [ref=f1e411]: 4:40
+                - button "AI, especially agentic AI, is transforming healthcare by creating value and insights from unstructured data, putting humans at the center." [ref=f1e427] [cursor=pointer]
+              - generic [ref=f1e436]:
+                - generic [ref=f1e437]:
+                  - generic [ref=f1e438]:
+                    - link [ref=f1e440] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=72BbI8HzBo8
+                      - 'heading "Agentic AI in Healthcare: Turning Potential into Impact YouTube Factspan 23 Sept 2025" [level=3] [ref=f1e441]':
+                        - generic [ref=f1e442]: "Agentic AI in Healthcare: Turning Potential into Impact"
+                        - generic [ref=f1e446]:
+                          - generic [ref=f1e447]:
+                            - text: YouTube
+                            - generic [ref=f1e448]: · Factspan
+                          - generic [ref=f1e449]: 23 Sept 2025
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · Factspan
+                        - button "About this result" [ref=f1e450] [cursor=pointer]
+                  - 'button "Agentic AI in Healthcare: Turning Potential into Impact by Factspan on YouTube. Play on Google. 41:53" [ref=f1e455] [cursor=pointer]':
+                    - generic [ref=f1e456]: 41:53
+                - button "AWS's generative AI solutions are transforming healthcare delivery across the entire care continuum." [ref=f1e469] [cursor=pointer]
+            - link "View all videos" [ref=f1e476] [cursor=pointer]:
+              - /url: /search?sca_esv=5a0bfebe6e310739&udm=7&q=healthcare+problems+needing+agentic+AI+engineers&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8ccDKAJ6BAg-EAQ
+              - separator [ref=f1e477]
+              - generic [ref=f1e478]: View all
+          - generic [ref=f1e485]:
+            - heading "Web results" [level=2] [ref=f1e486]
+            - generic [ref=f1e487]:
+              - generic [ref=f1e490]:
+                - 'link "Agentic AI in Healthcare: Opportunities, Challenges, and ... ACM Digital Library https://dl.acm.org › doi" [ref=f1e492] [cursor=pointer]':
+                  - /url: https://dl.acm.org/doi/10.1145/3809164
+                  - 'heading "Agentic AI in Healthcare: Opportunities, Challenges, and ..." [level=3] [ref=f1e493]'
+                  - generic [ref=f1e499]:
+                    - generic [ref=f1e500]: ACM Digital Library
+                    - generic [ref=f1e502]: https://dl.acm.org › doi
+                - button "About this result" [ref=f1e506] [cursor=pointer]
+              - generic [ref=f1e512]:
+                - generic [ref=f1e513]: by M Gridach · 2026 · Cited by 3 —
+                - generic [ref=f1e514]:
+                  - text: Key concerns include
+                  - emphasis [ref=f1e515]: errors in decision-making
+                  - text: ", lack of accountability, trust and privacy issues, bias and discrimination, misuse of data or ..."
+                - link "Read more" [ref=f1e516] [cursor=pointer]:
+                  - /url: https://dl.acm.org/doi/10.1145/3809164#:~:text=Key%20concerns%20include%20errors%20in,property%2C%20and%20insufficient%20human%20oversight.
+          - generic [ref=f1e520]:
+            - generic [ref=f1e523]:
+              - link "How agentic AI systems can solve the three most pressing ... GE HealthCare https://www.gehealthcare.com › en-in › insights › article" [ref=f1e525] [cursor=pointer]:
+                - /url: https://www.gehealthcare.com/en-in/insights/article/how-agentic-ai-systems-can-solve-the-three-most-pressing-problems-in-healthcare-today?srsltid=AfmBOorVzUlviSZPakhmCpqcFBCWuHLomgg09pTQ3JbTqj3cOKcfzFcH
+                - heading "How agentic AI systems can solve the three most pressing ..." [level=3] [ref=f1e526]
+                - generic [ref=f1e532]:
+                  - generic [ref=f1e533]: GE HealthCare
+                  - generic [ref=f1e535]: https://www.gehealthcare.com › en-in › insights › article
+              - button "About this result" [ref=f1e539] [cursor=pointer]
+            - generic [ref=f1e546]:
+              - text: The partnership is exploring how
+              - emphasis [ref=f1e547]: intelligent, agentic systems can enhance healthcare services
+              - text: ", reduce errors, and provide seamless patient experiences."
+          - generic [ref=f1e551]:
+            - generic [ref=f1e554]:
+              - 'link "Agentic AI: Navigating challenges, accelerating better ... Atos https://atos.net › Homepage › Blog" [ref=f1e556] [cursor=pointer]':
+                - /url: https://atos.net/en/blog/agentic-ai-navigating-challenges-accelerating-better-health-outcomes-in-healthcare-and-life-sciences
+                - 'heading "Agentic AI: Navigating challenges, accelerating better ..." [level=3] [ref=f1e557]'
+                - generic [ref=f1e563]:
+                  - generic [ref=f1e564]: Atos
+                  - generic [ref=f1e566]: https://atos.net › Homepage › Blog
+              - button "About this result" [ref=f1e570] [cursor=pointer]
+            - generic [ref=f1e576]:
+              - generic [ref=f1e577]: 13 May 2026 —
+              - generic [ref=f1e578]:
+                - emphasis [ref=f1e579]: Agentic AI is transforming healthcare
+                - text: and life sciences by reducing costs, enhancing patient outcomes, and driving innovation, ...
+          - generic [ref=f1e583]:
+            - generic [ref=f1e586]:
+              - 'link "Exploring Agentic AI in Healthcare: A Study on Its Working ... PubMed Central (PMC) (.gov) https://pmc.ncbi.nlm.nih.gov › articles › PMC12890637" [ref=f1e588] [cursor=pointer]':
+                - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12890637/
+                - 'heading "Exploring Agentic AI in Healthcare: A Study on Its Working ..." [level=3] [ref=f1e589]'
+                - generic [ref=f1e595]:
+                  - generic [ref=f1e596]: PubMed Central (PMC) (.gov)
+                  - generic [ref=f1e598]: https://pmc.ncbi.nlm.nih.gov › articles › PMC12890637
+              - button "About this result" [ref=f1e602] [cursor=pointer]
+            - generic [ref=f1e608]:
+              - generic [ref=f1e609]: by PN Srinivasu · 2026 · Cited by 20 —
+              - generic [ref=f1e610]:
+                - emphasis [ref=f1e611]: Agentic AI has the potential to transform the healthcare domain
+                - text: by enabling intelligent and autonomous systems that can manage complex clinical ...
+              - link "Read more" [ref=f1e612] [cursor=pointer]:
+                - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12890637/#:~:text=Agentic%20AI%20has%20the%20potential,process%2C%20and%20personalize%20patient%20care.
+          - generic [ref=f1e616]:
+            - generic [ref=f1e619]:
+              - 'link "Transforming NHS Healthcare: The Promise and Peril of ... LinkedIn · Chris Suter 40+ reactions · 1 year ago" [ref=f1e621] [cursor=pointer]':
+                - /url: https://www.linkedin.com/pulse/transforming-nhs-healthcare-promise-peril-agentic-ai-chris-suter-twxze
+                - 'heading "Transforming NHS Healthcare: The Promise and Peril of ..." [level=3] [ref=f1e622]'
+                - generic [ref=f1e628]:
+                  - generic [ref=f1e629]: LinkedIn · Chris Suter
+                  - generic [ref=f1e631]: 40+ reactions · 1 year ago
+              - button "About this result" [ref=f1e635] [cursor=pointer]
+            - generic [ref=f1e641]:
+              - generic [ref=f1e642]:
+                - emphasis [ref=f1e643]: Agentic AI systems will require access to comprehensive patient information
+                - text: ", raising significant privacy and security concerns that must be ..."
+              - link "Read more" [ref=f1e644] [cursor=pointer]:
+                - /url: https://www.linkedin.com/pulse/transforming-nhs-healthcare-promise-peril-agentic-ai-chris-suter-twxze#:~:text=Agentic%20AI%20systems%20will%20require,and%20transparent%20patient%20consent%20processes.
+            - generic [ref=f1e646]:
+              - text: "Missing: engineers ‎| Show results with:"
+              - link "engineers" [ref=f1e647] [cursor=pointer]:
+                - /url: /search?sca_esv=5a0bfebe6e310739&q=healthcare+problems+needing+agentic+AI+%22engineers%22&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ5t4CegQIORAB
+          - generic [ref=f1e651]:
+            - generic [ref=f1e654]:
+              - link "The role of agentic artificial intelligence in healthcare Nature https://www.nature.com › npj digital medicine › articles" [ref=f1e656] [cursor=pointer]:
+                - /url: https://www.nature.com/articles/s41746-026-02517-5
+                - heading "The role of agentic artificial intelligence in healthcare" [level=3] [ref=f1e657]
+                - generic [ref=f1e663]:
+                  - generic [ref=f1e664]: Nature
+                  - generic [ref=f1e666]: https://www.nature.com › npj digital medicine › articles
+              - button "About this result" [ref=f1e670] [cursor=pointer]
+            - generic [ref=f1e676]:
+              - generic [ref=f1e677]: by BG Collaco · 2026 · Cited by 18 —
+              - generic [ref=f1e678]:
+                - text: These findings highlight both the potential and immaturity of
+                - emphasis [ref=f1e679]: Agentic AI
+                - text: in
+                - emphasis [ref=f1e680]: healthcare
+                - text: ", underscoring the"
+                - emphasis [ref=f1e681]: need
+                - text: for standardized definitions, ...
+              - link "Read more" [ref=f1e682] [cursor=pointer]:
+                - /url: https://www.nature.com/articles/s41746-026-02517-5#:~:text=These%20findings%20highlight%20both%20the,and%20effective%20integration%20into%20practice.
+          - generic [ref=f1e686]:
+            - generic [ref=f1e689]:
+              - 'link "Agentic AI in Healthcare: Practical Use Cases and Benefits Moveworks https://www.moveworks.com › Resources › Blogs" [ref=f1e691] [cursor=pointer]':
+                - /url: https://www.moveworks.com/us/en/resources/blog/agentic-ai-in-healthcare-use-cases-and-examples
+                - 'heading "Agentic AI in Healthcare: Practical Use Cases and Benefits" [level=3] [ref=f1e692]'
+                - generic [ref=f1e698]:
+                  - generic [ref=f1e699]: Moveworks
+                  - generic [ref=f1e701]: https://www.moveworks.com › Resources › Blogs
+              - button "About this result" [ref=f1e705] [cursor=pointer]
+            - generic [ref=f1e711]:
+              - generic [ref=f1e712]: 5 Jun 2026 —
+              - generic [ref=f1e713]:
+                - emphasis [ref=f1e714]: Agentic AI helps healthcare teams scale support
+                - text: with fewer resources detecting routine issues, recommending actions, and completing many tasks ...
+        - generic [ref=f1e716]:
+          - generic [ref=f1e721]:
+            - heading "People also search for" [level=2] [ref=f1e723]
+            - generic [ref=f1e725]:
+              - generic [ref=f1e726]:
+                - link "Healthcare problems needing agentic ai engineers in india" [ref=f1e730] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Healthcare+problems+needing+agentic+ai+engineers+in+india&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgcEAE
+                - link "Healthcare problems needing agentic ai engineers pdf" [ref=f1e744] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Healthcare+problems+needing+agentic+ai+engineers+pdf&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgqEAE
+                - link "Agentic AI in healthcare examples" [ref=f1e758] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Agentic+AI+in+healthcare+examples&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgpEAE
+                - link "Agentic AI in healthcare research paper" [ref=f1e772] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Agentic+AI+in+healthcare+research+paper&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgoEAE
+              - generic [ref=f1e783]:
+                - link "Agentic AI healthcare startups" [ref=f1e787] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Agentic+AI+healthcare+startups&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgnEAE
+                - link "Agentic AI in healthcare course" [ref=f1e801] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Agentic+AI+in+healthcare+course&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAglEAE
+                - link "Agentic AI healthcare GitHub" [ref=f1e815] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Agentic+AI+healthcare+GitHub&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgeEAE
+                - link "Next-generation agentic AI for transforming healthcare" [ref=f1e829] [cursor=pointer]:
+                  - /url: /search?sca_esv=5a0bfebe6e310739&q=Next-generation+agentic+AI+for+transforming+healthcare&sa=X&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ1QJ6BAgdEAE
+          - navigation [ref=f1e840]:
+            - heading "Page navigation" [level=1] [ref=f1e841]
+            - text: "1"
+            - link "Page 2" [ref=f1e844] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=10&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAE
+              - text: "2"
+            - link "Page 3" [ref=f1e846] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=20&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAG
+              - text: "3"
+            - link "Page 4" [ref=f1e848] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=30&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAI
+              - text: "4"
+            - link "Page 5" [ref=f1e850] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=40&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAK
+              - text: "5"
+            - link "Page 6" [ref=f1e852] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=50&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAM
+              - text: "6"
+            - link "Page 7" [ref=f1e854] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=60&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAO
+              - text: "7"
+            - link "Page 8" [ref=f1e856] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=70&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAQ
+              - text: "8"
+            - link "Page 9" [ref=f1e858] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=80&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAS
+              - text: "9"
+            - link "Page 10" [ref=f1e860] [cursor=pointer]:
+              - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=90&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8tMDegQIOhAU
+              - text: "10"
+            - heading [level=2] [ref=f1e862]:
+              - link "Next" [ref=f1e863] [cursor=pointer]:
+                - /url: /search?q=healthcare+problems+needing+agentic+AI+engineers&sca_esv=5a0bfebe6e310739&ei=wO5tapn_JcGUhvcP_5eYuAg&start=10&sa=N&sstk=AU9db-BudOnhgymNC9_rbggig7cQw8nqvuOUBXYahDUOScXs-rc4lwQFG6cO61xuU0wTXiaMFVYtwAbvupUpJ7V1qYWllxjtxjtjlw&ved=2ahUKEwiZ38qCv_-VAxVBiuEIHf8LBocQ8NMDegQIOhAW
+        - navigation
+    - contentinfo [ref=f1e866]:
+      - heading "Footer links" [level=1] [ref=f1e867]
+      - generic [ref=f1e871]:
+        - generic [ref=f1e873]:
+          - text: India
+          - generic [ref=f1e875]:
+            - button "492001, Raipur, Chhattisgarh - From your IP address" [ref=f1e877] [cursor=pointer]:
+              - generic [ref=f1e878]: 492001, Raipur, Chhattisgarh
+              - generic [ref=f1e880]:
+                - text: "-"
+                - generic [ref=f1e881]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=f1e883] [cursor=pointer]
+        - generic [ref=f1e886]:
+          - link "Help" [ref=f1e887] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f1e888] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f1e889] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f1e890] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

@@ -1,0 +1,14 @@
+[project]
+name = "lead-apify"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crewai>=1.15.9",
+    "crewai-tools[mcp]>=1.15.9",
+    "mcp>=1.28.1",
+    "pandas>=3.0.5",
+    "pypdf>=6.16.2",
+    "searxng>=0.0.0.dev0",
+]

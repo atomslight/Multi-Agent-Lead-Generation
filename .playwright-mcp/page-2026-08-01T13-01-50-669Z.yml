@@ -1,0 +1,359 @@
+- generic [active] [ref=f39e1]:
+  - generic [ref=f39e2]:
+    - generic [ref=f39e5]:
+      - generic [ref=f39e6]:
+        - button "Accept all cookies" [ref=f39e7] [cursor=pointer]
+        - button "Decline all cookies" [ref=f39e8] [cursor=pointer]
+        - button "Customize" [ref=f39e9] [cursor=pointer]
+      - paragraph [ref=f39e11]:
+        - text: Our website uses cookies to enhance your online experience by; measuring audience engagement, analyzing how our webpage is used, improving website functionality, and delivering relevant, personalized marketing content, and measure the performance of our digital advertising campaigns. Your privacy is important to us. Thus, you have full control over your cookie preferences and can manage which ones to enable. You can find more information about cookies in our
+        - link "Cookie Policy" [ref=f39e12] [cursor=pointer]:
+          - /url: /en/privacy/cookies-and-other-tracking-technologies
+        - text: ", about the types of cookies we use on"
+        - link "Atos Cookie Table" [ref=f39e13] [cursor=pointer]:
+          - /url: /wp-content/uploads/2024/09/atos-cookie-overview-table.pdf
+        - text: ", and information on how to withdraw your consent in our"
+        - link "Privacy Policy" [ref=f39e14] [cursor=pointer]:
+          - /url: /en/privacy
+        - text: .
+    - dialog "Managing your cookies":
+      - generic [ref=f39e16]:
+        - heading "Managing your cookies" [level=2] [ref=f39e18]
+        - button "Close popup" [ref=f39e20]: X
+        - paragraph [ref=f39e22]: Our website uses cookies. You have full control over what you want to activate. You can accept the cookies by clicking on the “Accept all cookies” button or customize your choices by selecting the cookies you want to activate. You can also decline all non-necessary cookies by clicking on the “Decline all cookies” button.
+        - generic [ref=f39e23]:
+          - button "Accept all cookies" [ref=f39e24] [cursor=pointer]
+          - button "Decline all cookies" [ref=f39e25] [cursor=pointer]
+        - generic [ref=f39e26]:
+          - switch "Toggle Neccesary" [checked] [disabled] [ref=f39e27] [cursor=pointer]
+          - heading "Necessary cookies" [level=2] [ref=f39e29]
+          - paragraph [ref=f39e30]:
+            - text: These are essential for the user navigation and allow to give access to certain functionalities such as secured zones accesses. Without these cookies, it won’t be possible to provide the service.
+            - link "Matomo privacy policy" [ref=f39e31] [cursor=pointer]:
+              - /url: https://matomo.org/privacy-policy/
+        - generic [ref=f39e32]:
+          - switch "Toggle Marketing" [ref=f39e33] [cursor=pointer]
+          - heading "Marketing cookies" [level=2] [ref=f39e35]
+          - paragraph [ref=f39e36]:
+            - text: These cookies are used to deliver advertisements more relevant for you, limit the number of times you see an advertisement; help measure the effectiveness of the advertising campaign; and understand people’s behavior after they view an advertisement.
+            - link "Adobe Experience Cloud Marketo privacy center" [ref=f39e37] [cursor=pointer]:
+              - /url: https://www.adobe.com/privacy/experience-cloud.html#
+            - text: "|"
+            - link "Google Ads Privacy & Terms" [ref=f39e38] [cursor=pointer]:
+              - /url: https://policies.google.com/technologies/ads?hl=en-US
+        - generic [ref=f39e39]:
+          - switch "Toggle Social Media" [ref=f39e40] [cursor=pointer]
+          - heading "Social media cookies" [level=2] [ref=f39e42]
+          - paragraph [ref=f39e43]:
+            - text: These cookies are used to measure the effectiveness of social media campaigns.
+            - link "LinkedIn Privacy policy" [ref=f39e44] [cursor=pointer]:
+              - /url: https://www.linkedin.com/legal/privacy-policy
+        - button "Accept selected cookies" [ref=f39e46] [cursor=pointer]
+    - generic [ref=f39e48]:
+      - generic [ref=f39e49]:
+        - button "Accept all cookies" [ref=f39e50] [cursor=pointer]
+        - button "Decline all cookies" [ref=f39e51] [cursor=pointer]
+      - paragraph [ref=f39e53]:
+        - text: Our website uses cookies to enhance your online experience by; measuring audience engagement, analyzing how our webpage is used, improving website functionality, and delivering relevant, personalized marketing content. Your privacy is important to us. Thus, you have full control over your cookie preferences and can manage which ones to enable. You can find more information about cookies in our
+        - link "Cookie Policy" [ref=f39e54] [cursor=pointer]:
+          - /url: /en/privacy/cookies-and-other-tracking-technologies
+        - text: ", about the types of cookies we use on"
+        - link "Atos Cookie Table" [ref=f39e55] [cursor=pointer]:
+          - /url: /wp-content/uploads/2024/09/atos-cookie-overview-table.pdf
+        - text: ", and information on how to withdraw your consent in our"
+        - link "Privacy Policy" [ref=f39e56] [cursor=pointer]:
+          - /url: /en/privacy
+        - text: .
+  - link "Skip to main content" [ref=f39e57] [cursor=pointer]:
+    - /url: "#content"
+  - navigation "Top menu" [ref=f39e61]:
+    - list [ref=f39e62]:
+      - listitem [ref=f39e63]:
+        - link "Contact us" [ref=f39e64] [cursor=pointer]:
+          - /url: /en/contact-us
+    - list [ref=f39e65]:
+      - listitem [ref=f39e66]:
+        - button "Global, switch region" [ref=f39e67] [cursor=pointer]: Global
+  - navigation "Main menu" [ref=f39e71]:
+    - link [ref=f39e72] [cursor=pointer]:
+      - /url: /en/
+      - paragraph [ref=f39e74]: Atos homepage
+    - generic [ref=f39e75]:
+      - list [ref=f39e76]:
+        - listitem [ref=f39e77]:
+          - button "Services" [ref=f39e78] [cursor=pointer]
+        - listitem [ref=f39e79]:
+          - button "Industries" [ref=f39e80] [cursor=pointer]
+        - listitem [ref=f39e81]:
+          - button "Insights" [ref=f39e82] [cursor=pointer]
+        - listitem [ref=f39e83]:
+          - button "About us" [ref=f39e84] [cursor=pointer]
+        - listitem [ref=f39e85]:
+          - link "Join us" [ref=f39e86] [cursor=pointer]:
+            - /url: https://atos.net/en/join-us
+        - listitem [ref=f39e87]:
+          - link "Atos Group" [ref=f39e88] [cursor=pointer]:
+            - /url: https://www.atosgroup.com/
+      - button "Site Search" [ref=f39e89] [cursor=pointer]
+    - button [ref=f39e90] [cursor=pointer]
+  - main [ref=f39e92]:
+    - generic [ref=f39e93]:
+      - generic:
+        - generic:
+          - navigation "You are here":
+            - heading "You are here" [level=2] [ref=f39e94]
+            - list [ref=f39e95]:
+              - listitem [ref=f39e96]:
+                - link [ref=f39e97] [cursor=pointer]:
+                  - /url: /en/
+                  - img "Homepage" [ref=f39e98]
+              - listitem [ref=f39e99]:
+                - text: /
+                - link "Blog" [ref=f39e100] [cursor=pointer]:
+                  - /url: /en/blog
+              - listitem [ref=f39e101]: "/Agentic AI: Navigating challenges, accelerating better health outcomes in healthcare and life sciences"
+    - article [ref=f39e103]:
+      - 'heading "Agentic AI: Navigating challenges, accelerating better health outcomes in healthcare and life sciences" [level=1] [ref=f39e107]'
+      - generic [ref=f39e115]:
+        - generic [ref=f39e116]:
+          - generic [ref=f39e118]:
+            - 'heading "Agentic AI: Another tech trend or an urgent imperative" [level=2] [ref=f39e119]'
+            - paragraph [ref=f39e120]: Cost reduction is ranked as one of the key objectives among healthcare and life sciences organizations, followed by gaining a competitive edge or differentiation in the market. Hence, healthcare and life sciences organizations are focused on improving clinical or operational productivity with enhanced personalized experience.
+            - paragraph [ref=f39e121]: Agentic AI is helping move organizations from passive insight to active, intelligent action, which is essential to streamline workflows, improve patient outcomes and drive innovation in a highly complex, regulated industry. With Agentic AI solutions, transformation leaders like Atos can help our customers reduce patient wait times by up to 30%, lessen claims denial rates by up to 40%, and reduce readmission rates by 20% to 30%.
+            - paragraph [ref=f39e122]: "Agentic AI is powering change across the healthcare and life sciences sub-industries. Here’s how:"
+            - list [ref=f39e123]:
+              - listitem [ref=f39e124]:
+                - strong [ref=f39e125]: Providers
+                - text: ": Improved care coordination; reduced clinician burnout"
+              - listitem [ref=f39e126]:
+                - strong [ref=f39e127]: Payers
+                - text: ": Enhanced claims processing; fraud detection"
+              - listitem [ref=f39e128]:
+                - strong [ref=f39e129]: Life Sciences (Pharma or Biotech)
+                - text: ": Accelerated drug discovery; streamlined clinical trials"
+              - listitem [ref=f39e130]:
+                - strong [ref=f39e131]: MedTech
+                - text: ": Proactive device servicing; intelligent diagnostics"
+            - paragraph [ref=f39e132]: Although many global leaders are gearing towards an AI-powered infrastructure, they are still coming to terms with its potential, impact and the best course of action.
+            - heading "Why Agentic AI struggles in production" [level=2] [ref=f39e133]
+            - paragraph [ref=f39e134]: "Let’s explore some of the top 3 challenges faced in the AI adoption journey:"
+            - list [ref=f39e135]:
+              - listitem [ref=f39e136]: "Regulatory and compliance considerations: Every action taken by an AI agent must meet the same regulatory standards as a human-led process. That means clear audit trails, documented logic, and rigorous testing before deployment."
+              - listitem [ref=f39e137]: "Ethical implications and governance: Autonomous agents and systems raise big questions around bias, explainability, and decision accountability. Healthcare and life sciences companies need strong governance frameworks to guide AI behavior, along with human oversight to catch what machines might miss."
+              - listitem [ref=f39e138]: "Technical and operational hurdles: Legacy systems, siloed data, and lack of integration can slow AI adoption. Agentic AI works best when it can access clean, connected data and plug into existing workflows, so getting infrastructure AI-ready is a must."
+            - heading "Supporting the Agentic AI journey" [level=2] [ref=f39e139]
+            - paragraph [ref=f39e140]: As healthcare moves toward personalization, prevention, and predictive care, agentic AI will become a cornerstone capability.
+            - paragraph [ref=f39e141]: Atos AI technology advisory helps in answering ‘Is agentic AI needed?’. Our teams have performed journey assessments and built future roadmaps that help in transformation and scaling with governance embedded within the AI factory model. Leveraging the Atos Agentic AI framework, we are enabling robust business outcomes and helping global leaders scale AI adoption across their organizational processes using pluggable AI Agents framework.
+            - paragraph [ref=f39e142]:
+              - strong [ref=f39e143]
+            - paragraph [ref=f39e144]:
+              - strong [ref=f39e145]: Atos Polaris platform
+              - text: is a cloud-native, AI-driven digital platform designed to accelerate digital transformation for enterprises. It provides a unified environment for building, deploying, and managing data-driven applications and AI solutions for all our healthcare and life sciences customers.
+            - paragraph [ref=f39e146]: "Powered by the Polaris platform for AI, Atos’s Agentic AI services acceleration framework can deliver business transformation solutions with 15-25% lower cost and improved speed of delivery. Some of the key features of this platform are given below:"
+            - list [ref=f39e147]:
+              - listitem [ref=f39e148]:
+                - strong [ref=f39e149]: Hybrid and multi-cloud support
+                - text: for seamless deployment
+              - listitem [ref=f39e150]:
+                - strong [ref=f39e151]: Advanced AI/ML and data orchestration
+                - text: for real time insights
+              - listitem [ref=f39e152]:
+                - strong [ref=f39e153]: Modular microservices based architecture
+                - text: for flexibility
+              - listitem [ref=f39e154]:
+                - strong [ref=f39e155]: Healthcare specific accelerators
+                - text: ", aligned with regulatory needs"
+              - listitem [ref=f39e156]:
+                - strong [ref=f39e157]: Built in security and compliance
+                - text: to protect sensitive PHI
+              - listitem [ref=f39e158]:
+                - strong [ref=f39e159]: Automation and orchestration
+                - text: for intelligent workflows
+            - heading "Leveraging partnerships as key enablers" [level=2] [ref=f39e160]
+          - blockquote [ref=f39e167]:
+            - paragraph [ref=f39e168]:
+              - generic [ref=f39e169]: As in any transformation, Atos leverages its robust partnerships with leading platform providers like Salesforce, Nvidia, Microsoft, and Uipath to ensure clients can access world-class technology, customized for their business needs.
+          - generic [ref=f39e184]:
+            - heading "Trust, safety, and compliance" [level=2] [ref=f39e185]
+            - paragraph [ref=f39e186]: AI’s ability to make autonomous decisions can be a double-edged sword. While it offers remarkable speed and accuracy, the black box nature of many AI models can make it difficult to understand how decisions are made. Atos ensures every AI-driven decision is safe, explainable, and compliant, empowering organizations to innovate without compromising patient well being or regulatory integrity.
+            - heading "Built in data privacy and security" [level=3] [ref=f39e187]
+            - paragraph [ref=f39e188]:
+              - text: In healthcare, data protection is mission critical. Atos embeds
+              - strong [ref=f39e189]: privacy-by-design
+              - text: and
+              - strong [ref=f39e190]: security-by-default
+              - text: into every AI system. Encryption, anonymization, and secure data exchange protocols are foundational — not optional — ensuring sensitive health data remains safeguarded at every step and protected from exposure or misuse. All solutions are HIPAA- and GDPR-complaint and take into account local regulatory controls.
+            - heading "Continuous monitoring and compliance oversight" [level=3] [ref=f39e191]
+            - paragraph [ref=f39e192]:
+              - text: Healthcare environments are highly regulated and dynamic. Atos provides
+              - strong [ref=f39e193]: real time monitoring, automated audits, and continuous performance checks
+              - text: to ensure AI systems operate safely, ethically, and in line with global regulatory standards. Feedback loops grounded in real world outcomes help the AI evolve responsibly and maintain clinical accuracy over time.
+            - heading "Governance and human in the loop control" [level=3] [ref=f39e194]
+            - paragraph [ref=f39e195]:
+              - text: Autonomous systems must always remain within human authority. Atos integrates strong governance frameworks and
+              - strong [ref=f39e196]: human in the loop (HITL)
+              - text: controls, allowing clinicians and operators to review, override, or refine AI actions whenever needed. Clear accountability models, detailed audit trails, and robust cybersecurity ensure AI operates within well defined boundaries while enabling safer, smarter decision making.
+            - heading "Four steps to choose and scale the right agentic AI use cases" [level=2] [ref=f39e197]
+            - paragraph [ref=f39e198]:
+              - text: As a Global Portfolio Lead at Atos, I would like to share a strategic, consulting led approach to help your organization adopt
+              - strong [ref=f39e199]: Agentic AI with precision, purpose, and measurable impact
+              - text: . Here are four steps that enable you to identify and deploy the right use cases that align with your enterprise architecture, operational priorities, and long term transformation goals.
+            - paragraph [ref=f39e200]:
+              - strong [ref=f39e201]: 1) Aligning to the business value chain
+              - text: Focus on high impact workflows that directly influence
+              - strong [ref=f39e202]: revenue, experience, and operational efficiency
+              - text: — from patient and member onboarding to claims adjudication and contact center operations. By targeting processes that matter most, Atos delivers rapid ROI and enterprise wide value.
+            - paragraph [ref=f39e203]:
+              - strong [ref=f39e204]: 2) Persona driven experience design
+              - text: Enhance the total experience by creating
+              - strong [ref=f39e205]: data driven personas
+              - text: across all stakeholder groups — patients, members, physicians, clinicians, agents, brokers, and more. With this offering, Atos ensures every AI agent is optimized to meet the unique needs, expectations, and behaviors of each user in the healthcare ecosystem.
+            - paragraph [ref=f39e206]:
+              - strong [ref=f39e207]: 3) Process agents for action oriented digital workflows
+              - text: Consider designing AI agents that excel in
+              - strong [ref=f39e208]: structured, screen based, digital tasks
+              - text: across CRMs, ERPs, EMRs, portals, and web/native applications. Atos’s agents replicate high volume manual actions with speed, consistency, and accuracy, thereby freeing teams for higher value work.
+            - paragraph [ref=f39e209]:
+              - strong [ref=f39e210]: 4) SOP driven, high frequency automation
+              - text: Clear, rule based processes with high transaction volumes are ideal for Agentic AI. The more structured the workflow, the faster AI learns and improves — unlocking
+              - strong [ref=f39e211]: higher productivity, stronger outcomes, and superior ROI
+              - text: ". Atos’s approach ensures AI is applied where it performs best: structured inputs, defined rules, and measurable results."
+            - paragraph [ref=f39e212]: Atos is uniquely positioned to guide organizations on their AI journey, complete with domain depth, technology expertise, responsible AI leadership, robust partnerships and the unparalleled Polaris platform.
+          - blockquote [ref=f39e219]:
+            - paragraph [ref=f39e220]:
+              - generic [ref=f39e221]: We don’t just deploy AI. We build the intelligent, secure, and ethical foundation for the healthcare systems of tomorrow.
+          - generic [ref=f39e236]:
+            - separator [ref=f39e237]
+            - paragraph [ref=f39e238]:
+              - text: ">> Explore how Atos can help your healthcare and life sciences organization build stronger Agentic AI frameworks and other sustainable solutions:"
+              - link "https://atos.net/en/industries/healthcare-and-life-sciences" [ref=f39e239] [cursor=pointer]:
+                - /url: https://atos.net/en/industries/healthcare-and-life-sciences
+            - paragraph [ref=f39e240]:
+              - text: ">>"
+              - link "Connect with me" [ref=f39e241] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/suchitra-m-52659a2a/
+              - text: to learn more about use cases and Atos’s AI expertise in the healthcare and life sciences ecosystem.
+            - paragraph [ref=f39e242]: "Posted: 13/05/26"
+        - generic [ref=f39e243]:
+          - region "Authors" [ref=f39e244]:
+            - generic [ref=f39e251]:
+              - heading "Suchitra Mhatre" [level=2] [ref=f39e252]
+              - paragraph [ref=f39e253]:
+                - generic [ref=f39e254]: Global portfolio lead - Healthcare & Life Sciences
+              - link "View details of Suchitra Mhatre >" [ref=f39e255] [cursor=pointer]:
+                - /url: https://atos.net/en/expert/suchitra-mhatre
+                - text: View details
+                - generic [ref=f39e256]: of Suchitra Mhatre
+                - text: ">"
+              - list [ref=f39e257]:
+                - listitem [ref=f39e258]:
+                  - link [ref=f39e259] [cursor=pointer]:
+                    - /url: mailto:Suchitra.mhatre@atos.net
+                    - img "Email Suchitra Mhatre" [ref=f39e260]
+                - listitem [ref=f39e261]:
+                  - link [ref=f39e262] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/suchitra-m-52659a2a/
+                    - img "Follow Suchitra Mhatre on LinkedIn" [ref=f39e263]
+          - heading "Categories" [level=2] [ref=f39e264]
+          - list [ref=f39e265]:
+            - listitem [ref=f39e266]:
+              - link "AI" [ref=f39e267] [cursor=pointer]:
+                - /url: https://atos.net/en/blog?blog-filter=ai&finder-tax=t155#finder
+          - heading "Related posts" [level=2] [ref=f39e268]
+          - list [ref=f39e269]:
+            - listitem [ref=f39e270]:
+              - 'link "The real AI debate: Intelligence vs power" [ref=f39e271] [cursor=pointer]':
+                - /url: https://atos.net/en/blog/the-real-ai-debate-intelligence-vs-power
+            - listitem [ref=f39e272]:
+              - 'link "Beyond the completed migration: The case for continuous modernization" [ref=f39e273] [cursor=pointer]':
+                - /url: https://atos.net/en/blog/beyond-the-completed-migration-the-case-for-continuous-modernization
+            - listitem [ref=f39e274]:
+              - 'link "The economics of agentic AI: Questions to ask before implementation" [ref=f39e275] [cursor=pointer]':
+                - /url: https://atos.net/en/blog/the-economics-of-agentic-ai-questions-to-ask-before-implementation
+            - listitem [ref=f39e276]:
+              - 'link "Critical national infrastructure and cross industry resilience: The importance of collaboration" [ref=f39e277] [cursor=pointer]':
+                - /url: https://atos.net/en/blog/critical-national-infrastructure-and-cross-industry-resilience-the-importance-of-collaboration
+          - paragraph [ref=f39e278]:
+            - link "View all blog posts >" [ref=f39e279] [cursor=pointer]:
+              - /url: https://atos.net/en/blog
+      - generic [ref=f39e282]:
+        - heading "Dive Deeper" [level=2] [ref=f39e285]
+        - generic [ref=f39e287]:
+          - group "1 / 3" [ref=f39e288]:
+            - generic [ref=f39e291]:
+              - heading "Healthcare and Life Sciences" [level=3] [ref=f39e292]
+              - link "Learn more - Healthcare and Life Sciences" [ref=f39e293] [cursor=pointer]:
+                - /url: https://atos.net/en/industries/healthcare-and-life-sciences
+                - text: Learn more >
+          - group "2 / 3" [ref=f39e294]:
+            - generic [ref=f39e297]:
+              - list [ref=f39e298]:
+                - listitem [ref=f39e299]: Blog
+              - heading "AI powered PAM in Healthcare" [level=3] [ref=f39e300]
+              - link "Learn more - AI powered PAM in Healthcare" [ref=f39e301] [cursor=pointer]:
+                - /url: https://atos.net/en/blog/ai-powered-pam-in-healthcare
+                - text: Learn more >
+          - group "3 / 3" [ref=f39e302]:
+            - generic [ref=f39e305]:
+              - 'heading "One.ERP: a standardized SAP S/4HANA system for enhanced healthcare" [level=3] [ref=f39e306]'
+              - 'link "Learn more - One.ERP: a standardized SAP S/4HANA system for enhanced healthcare" [ref=f39e307] [cursor=pointer]':
+                - /url: https://atos.net/en/client-success/client-stories/one-erp-a-standardized-sap-s-4hana-system-for-enhanced-healthcare
+                - text: Learn more >
+      - generic [ref=f39e310]:
+        - heading "Share this blog article" [level=2] [ref=f39e311]
+        - list:
+          - listitem:
+            - link "Share on Facebook":
+              - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fatos.net%2Fen%2Fblog%2Fagentic-ai-navigating-challenges-accelerating-better-health-outcomes-in-healthcare-and-life-sciences
+              - img "Share on Facebook" [ref=f39e312] [cursor=pointer]
+          - listitem:
+            - link "Share on X":
+              - /url: https://twitter.com/intent/tweet?text=Agentic%20AI%3A%20Navigating%20challenges%2C%20accelerating%20better%20health%20outcomes%20in%20healthcare%20and%20life%20sciences%20-%20Atos%20https%3A%2F%2Fatos.net%2Fen%2Fblog%2Fagentic-ai-navigating-challenges-accelerating-better-health-outcomes-in-healthcare-and-life-sciences
+              - img "Share on X" [ref=f39e313] [cursor=pointer]
+          - listitem:
+            - link "Share on Linked In":
+              - /url: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fatos.net%2Fen%2Fblog%2Fagentic-ai-navigating-challenges-accelerating-better-health-outcomes-in-healthcare-and-life-sciences&title=Agentic%20AI%3A%20Navigating%20challenges%2C%20accelerating%20better%20health%20outcomes%20in%20healthcare%20and%20life%20sciences%20-%20Atos&summary=Agentic%20AI%20is%20transforming%20healthcare%20and%20life%20sciences%20by%20reducing%20costs%2C%20enhancing%20patient%20outcomes%2C%20and%20driving%20innovation%2C%20while%20addressing%20key%20challenges%20around%20regulation%2C%20ethics%2C%20and%20integration.%20Dive%20into%20this%20article%20that%20explores%20how%20healthcare%20and%20life%20sciences%20organizations%20can%20adopt%20Agentic%20AI%20safely%20and%20at%20scale%20for%20measurable%20business%20impact.
+              - img "Share on Linked In" [ref=f39e314] [cursor=pointer]
+          - listitem:
+            - link "Send by Email":
+              - /url: mailto:?subject=ATOS%20-%20Agentic%20AI%3A%20Navigating%20challenges%2C%20accelerating%20better%20health%20outcomes%20in%20healthcare%20and%20life%20sciences%20-%20Atos&body=https%3A%2F%2Fatos.net%2Fen%2Fblog%2Fagentic-ai-navigating-challenges-accelerating-better-health-outcomes-in-healthcare-and-life-sciences
+              - img "Send by Email" [ref=f39e315] [cursor=pointer]
+  - contentinfo [ref=f39e318]:
+    - list [ref=f39e320]:
+      - listitem [ref=f39e321]:
+        - link [ref=f39e322] [cursor=pointer]:
+          - /url: http://www.linkedin.com/company/atos
+          - img "Follow us on Linked-in" [ref=f39e323]
+      - listitem [ref=f39e324]:
+        - link [ref=f39e325] [cursor=pointer]:
+          - /url: http://www.twitter.com/atos
+          - img "Follow us on X" [ref=f39e326]
+      - listitem [ref=f39e327]:
+        - link [ref=f39e328] [cursor=pointer]:
+          - /url: https://www.facebook.com/Atos
+          - img "Follow us on Facebook" [ref=f39e329]
+      - listitem [ref=f39e330]:
+        - link [ref=f39e331] [cursor=pointer]:
+          - /url: https://www.instagram.com/atosinside/
+          - img "Follow us on Instagram" [ref=f39e332]
+      - listitem [ref=f39e333]:
+        - link [ref=f39e334] [cursor=pointer]:
+          - /url: https://www.youtube.com/user/Atos
+          - img "Follow us on Youtube" [ref=f39e335]
+    - list [ref=f39e337]:
+      - listitem [ref=f39e338]:
+        - link "Homepage" [ref=f39e339] [cursor=pointer]:
+          - /url: https://atos.net/en/
+      - listitem [ref=f39e340]:
+        - link "Accessibility Statement" [ref=f39e341] [cursor=pointer]:
+          - /url: https://atos.net/en/accessibility-statement
+      - listitem [ref=f39e342]:
+        - link "Terms of use" [ref=f39e343] [cursor=pointer]:
+          - /url: https://atos.net/en/terms-and-conditions
+      - listitem [ref=f39e344]:
+        - link "Integrity Line" [ref=f39e345] [cursor=pointer]:
+          - /url: https://atos.integrityline.app/
+      - listitem [ref=f39e346]:
+        - link "Privacy" [ref=f39e347] [cursor=pointer]:
+          - /url: https://atos.net/en/privacy
+      - listitem [ref=f39e348]: © 2026 Atos Group. All rights reserved.
